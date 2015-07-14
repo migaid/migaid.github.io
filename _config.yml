@@ -1,0 +1,147 @@
+# Title of your website
+title: "Migration Aid"
+
+
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: "migrationaid.net"
+
+
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: "A Migration Aid a Magyarországra érkező menekültek segítésére alakult közösségi kezdeményezés."
+
+# This URL is the main adresse. Don't include a slash at the end.
+url: "http://dev.migrationaid.net"
+baseurl: ""
+
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash.
+#
+# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+#
+urlimg: "http://dev.migrationaid.net/images/"
+
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+
+# Paginates all X entries
+paginate: 5
+
+
+# Pagination path › Important for blog page in /blog/ to work
+paginate_path: "blog/page:num"
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: pygments
+excerpt_separator: "\n\n"
+exclude: []
+include: ['.htaccess']
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: "hu"
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+
+
+# Default Settings
+
+defaults:
+  -
+    scope:
+      path: "" 				# an empty string here means all files in the project
+      type: "pages"
+    values:
+      show_meta: false 	# Show metadata beneath all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: "MigrationAid"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show_meta: true   # Show metadata beneath all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: "MigrationAid"
+
+
+
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+#
+
+
+
+# google_author:             "https://plus.google.com/u/0/118311555303973066167"
+# google_site_verification:  "9_Nez2IakB993cvRJgRy3GRSNZxxyqBTcTWRXHJlcxU"
+# bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
+# alexa_verify_id:         ""
+
+
+
+
+favicon-32x32:                          "favicon-32x32.png"
+touch-icon-192x192:                     "touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+msapplication_tilecolor:                "#fabb00"
+
+
+# Facebook-Optimization › http://j.mp/fb_optimize
+# og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+# og_locale:                          "en_EN"
+# og_type:                            "website"
+# og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
+# og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+# og_url:                           ""
+# og_site_name:                     ""
+
+
+#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
+#
+
+
+# Disqus
+#
+# used in _includes/comments.html
+# disqus_shortname: feelingresponsive
+
+
+# More › http://sass-lang.com/
+# More › http://jekyllrb.com/docs/assets/#sassscss
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+
+#  https://www.google.com/analytics/
+# used in _includes/footer_scripts.html
+# google_analytics_tracking_id: UA-1576159-12
+
+
+#  More › https://www.tawk.to/knowledgebase/
+#  tawk.to is a free live chat app that lets you monitor and chat
+#  with visitors on your website or from a free customizable page
+#  To load the script add tawkto: true in front matter of each page
+# used in _includes/footer_scripts.html
+# tawkto_embed_uri:

@@ -1,0 +1,52 @@
+- title: Nyitólap
+  url: "/"
+  side: left
+
+- title: A csoportról
+  url: "/csoport/"
+  side: left
+
+- title: "Segíts"
+  url: "/segits/"
+  side: left
+  dropdown:
+  - title: "Önkéntes munka"
+    url: "/segits/onkentesek/"
+  - title: "Élelmiszer"
+    url: "/segits/elelmiszer/"
+  - title: "Információs anyagok"
+    url: "/segits/informaciok/"
+  - title: "Tárgyi adományok"
+    url: "/segits/adomanyok/"
+  - title: "Koordináció és szállítás"
+    url: "/segits/koordinacio/"
+  - title: "Pénzadomámy"
+    url: "/segits/penzadomanyok/"
+
+- title: "Segítettünk"
+  url: "/blog/"
+  side: left
+  dropdown:
+    - title: "Összes cikk időrendben"
+      url: "/blog/archive/"
+
+- title: Információk
+  url: "/info/"
+  side: left
+  dropdown:
+  - title: Rólunk írták
+    url: "/info/rolunk-irtak/"
+  - title: "Fényképalbum"
+    url: "/info/fenykepalbum/"
+
+- title: "English"
+  url: "/english/"
+  side: right
+
+- title: "Keresés"
+  url: "/keres/"
+  side: right
+
+- title: "Kapcsolat"
+  url: "/kapcsolat/"
+  side: right

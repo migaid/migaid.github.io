@@ -1,0 +1,16 @@
+- menu_name: "Infó"
+
+- name: "Kapcsolat"
+  url: "/kapcsolat/"
+  class: "services-contact"
+  title: "Kapcsolat"
+
+- name: "RSS"
+  url: "/feed.xml"
+  class: "rss-link"
+  title: "RSS fájl"
+
+- name: "Sitemap"
+  url: "/sitemap.xml"
+  class: "sitemap-link"
+  title: "Oldaltérkép"
