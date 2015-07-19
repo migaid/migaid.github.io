@@ -9,8 +9,12 @@ teaser:      "Szívesen segítenéd Te is a Migration Aid csapatának munkáját
 permalink:   "/segits/"
 header:
    image_fullwidth: "header.jpg"
-   
+
 ---
+
+{% include alert info='BP Mozár utcai Adomány központ <a href="https://www.facebook.com/pages/Adomány-Központ-Mozsár-Utca/1471173556531556">aktuális adomány listája</a>, **most** erre van szükségünk!' %}
+
+**Önkéntesekre van szükségünk** Budapesten a Mozsár utcai és Andrássy úti raktárunkba az adományozott ruhák válogatására, csomagolására! Gyere el barátaiddal együtt és segíts nekünk! Egyszerre 15 ember is elkél, gyertek bátran! Férfiak segítségét is megköszönnénk, hiszen sokszor nehéz csomagokat kell pakolni.
 
 <div class="row t30">
     <div class="medium-4 columns">

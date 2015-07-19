@@ -24,19 +24,18 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 - **Durable food, hygiene products, toys**: 1062 Budapest, 6th district, Andrássy street 124. First floor. Weekdays 10.00-17.30, Friday 10.00-16.00
 - **Durable food, hygiene products, toys**: Caledonia Scottish Pub 1066 Budapest, Mozsár street 9. Weekdays 14.00 – 20.00, weekends 13.00 – 20.00.
-- **Clothes, durable food**: Klubrádió, 1037 Budapest, III. district, Bokor street 1-3-5 (from the parking lot). Weekdays 8.00 – 16.00. CURRENTLY FULL, DOES NOT ACCEPT MORE DONATIONS!
 
 {% include alert info='Things most needed:' %}
 
 **DURABLE FOOD**: milk, chocolate milk, small boxes of juice, kefir, natural or fruit yoghurt, snack food (for travelling), biscuits,  apple, banana, watermelon, green or black tea, 0,5 l bottle natural water (without bubbles), we do NOT need bakery products, vegetables and food with meat!
 
+{% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
+
 **HYGIENE PRODUCTS** (mostly small travel size): toothpaste, toothbrush, razors, shaving foam, toilet paper, small package of tissues (10 pieces/pack), small travel comb, facial wipes (without alcohol), small travel size soap, shower gel, shampoo, small towels, sanitary pads, rubber gloves, 20 l plastic bags, big plastic garbage bags, plastic or aluminium wrapping paper.
 
 **OTHER**: baby clothes, diapers, wet wipes, toys, baby food, baby bath tubs, yoga matrass, new socks, new underwear, small backpacks, sleeping bags, blankets, toys for kids and teengers, shoes (in good condition or new), BKV tickets, large IKEA bags, storng carton boxes for moving.
 
-PLEASE NOTE THAT WE HAVE RECEIVED A HUGE AMOUNT OF CLOTHES AND CURRENTLY CANNOT ACCEPT MORE CLOTHES. Thank you for your understanding!
-
-{% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
+{% include alert info='We have received a huge amount of clothes and currently cannot accept more! Look for particular announcements and thank you for your understanding!' %}
 
 **We need help at our storage rooms** to receive and select the donations and put together personal packages. If you are able to help, please come to our storage room at Mozsár street 9. between 14.00 and 20.00 any day of the week.
 
