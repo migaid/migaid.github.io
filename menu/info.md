@@ -12,6 +12,7 @@ header:
 
 ---
 
+- 2015/07/23: [Ajánlott útvonalak a befogadótáborokba Budapestről (pfd)]({{ site.url }}/files/budapest-info.pdf): több nyelven, melyik tábor felé hogyan kell Budapesten átszállni.
 - 2015/07/13: [Kisokos a menekülteket segítő civileknek (pfd)](http://helsinki.hu/wp-content/uploads/info-segitoknek_FINAL_2.pdf) a leggyakrabban felmerült kérdések megválaszolásához.
 - 2015/07/02: [Tájékoztató anyagok praktikus információkkal menedékkérők számára](http://helsinki.hu/uj-informacios-anyag-menekulteknek) magyarul, arabul, fársziul, pastuul (Magyar Helsinki Bizottság)
 
