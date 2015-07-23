@@ -10,7 +10,7 @@ slogan: "migrationaid.net"
 description: "A Migration Aid a Magyarországra érkező menekültek segítésére alakult közösségi kezdeményezés."
 
 # This URL is the main adresse. Don't include a slash at the end.
-url: "http://stage.migrationaid.net"
+url: "http://www.migrationaid.net"
 baseurl: ""
 
 
@@ -20,7 +20,7 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://stage.migrationaid.net/images/"
+urlimg: "http://www.migrationaid.net/images/"
 
 
 # Logo size is 600x80 pixels
@@ -86,7 +86,7 @@ defaults:
 
 
 # google_author:             "https://plus.google.com/u/0/118311555303973066167"
-# google_site_verification:  "9_Nez2IakB993cvRJgRy3GRSNZxxyqBTcTWRXHJlcxU"
+google_site_verification:  "9_Nez2IakB993cvRJgRy3GRSNZxxyqBTcTWRXHJlcxU"
 # bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 

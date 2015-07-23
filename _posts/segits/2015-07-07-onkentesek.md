@@ -26,6 +26,8 @@ Keresd a [Migration Aid kitűzővel]({{ site.url }}/images/logo-160.jpg) elláto
 
 Segíthetsz csomagolni, illetve kihozni az adományokat a [raktárainkból]({{site.url }}/segits/adomanyok/).
 
+**Férfi önkéntesek** segítségét várjuk főként a Nyugati pályaudvarra esténként az ételosztás segítéséhez, a rend és szervezettség fenntartásához!
+
 **Orvosok, nővérek, pszichológusok, tolmácsok, fordítók, jogászok** segítségére nagy szükség van!
 
 A menekültek többsége nagyon messziről érkezik, hosszú és viszontagságos utat megtéve, sokuk gyalog és kimerülve, gyakran lelkileg is meggyötörten. Fizikai és szellemi ellátásra is szükségük van, akár útközben, akár a menekülttáborban.

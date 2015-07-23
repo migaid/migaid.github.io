@@ -23,23 +23,20 @@ tags:
 
 A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
-- tej, kakaó
-- tejberizs, gyümölcsrizs
+- **víz**: fél literes szénsavmentes ásványvíz
+- **gyümölcsök**: minden mennyiségben alma, banán esetleg dinnye
+- **csomagolt szárazsütemények**: édes keksz félék, snack, keksz
+- tej, kakaó, tejberizs, gyümölcsrizs
 - kefir, natúr vagy gyümölcsös joghurt
 - natúr krémsajtok, feta sajt, szeletelt natúr lapka sajt
-- édes keksz félék
-- rizs és száraztészta-félék
 - halkonzervek
-- cékla, spenót, zöldségek
-- minden mennyiségben alma, banán esetleg dinnye
 - zöld vagy fekete tea
-- fél literes szénsavmentes ásványvíz
 - kisméretű gyümölcslé
 
-Biztosan nem kérünk: gyógyszerek, kötszerek, kenyér és pékáru (egy pékség minden nap átadja este a készletét)
+Biztosan **nem kérünk**: melegétel, gyógyszerek, kötszerek, kenyér és pékáru (egy pékség minden nap átadja este a készletét)
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy minden nap kimenj és vagyonokat költs a saját pénzedből!
 
-Nagyszerű megoldás pl. egy TESCO vagy METRO online rendelés leadása (online fizetéssel) a Mozsár utcai raktárunk címére (Kaledónia Étterem, 1066 Bp., Mozsár utca 9. hétköznap 14.00 – 20.00, hétvégén 13.00 – 20.00) házhozszállítással.
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Mozsár utcai raktárunk címére (Kaledónia Étterem, 1066 Bp., Mozsár utca 9. hétköznap 14.00 – 20.00, hétvégén 13.00 – 20.00) házhozszállítással.
