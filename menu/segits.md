@@ -18,29 +18,29 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <p><a href="{{ site.url }}/segits/onkentesek/"><img src="{{ site.url }}/images/onkentes.png" alt="">Önkéntes munka</a></p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/segits/onkentesek/"><img src="{{ site.url }}{{ site.baseurl }}/images/onkentes.png" alt="">Önkéntes munka</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-      <p><a href="{{ site.url }}/segits/elelmiszer/"><img src="{{ site.url }}/images/elelmiszer.png" alt="">Élelmiszer-csomagok</a></p>
+      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/elelmiszer/"><img src="{{ site.url }}{{ site.baseurl }}/images/elelmiszer.png" alt="">Élelmiszer-csomagok</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-      <p><a href="{{ site.url }}/segits/informaciok/"><img src="{{ site.url }}/images/a-csoport-image1.jpg" alt="">Információs anyagok, fordítás</a></p>
+      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/informaciok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Információs anyagok, fordítás</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 <div class="row t30">
     <div class="medium-4 columns">
-      <p><a href="{{ site.url }}/segits/adomanyok/"><img src="{{ site.url }}/images/adomany.png" alt="">Adományok</a></p>
+      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/adomanyok/"><img src="{{ site.url }}{{ site.baseurl }}/images/adomany.png" alt="">Adományok</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-      <p><a href="{{ site.url }}/segits/koordinacio/"><img src="{{ site.url }}/images/a-csoport-image1.jpg" alt="">Koordináció, szállítás</a></p>
+      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/koordinacio/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Koordináció, szállítás</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-      <p><a href="{{ site.url }}/segits/penzadomanyok/"><img src="{{ site.url }}/images/a-csoport-image1.jpg" alt="">Pénzadományok</a></p>
+      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Pénzadományok</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
