@@ -19,7 +19,7 @@ tags:
     - info
 ---
 
-% include alert info='A Migration Aid adománygyűjtő központja hétfőtől (2015. július 27.) ÁTKÖLTÖZIK a Budapest 1077, VII. kerület, Rottenbiller utca 32. alá a Kalicka Bistróba! Adományok fogadása minden nap 15.00 - 20.00.' %}
+{% include alert info='A Migration Aid adománygyűjtő központja hétfőtől (2015. július 27.) ÁTKÖLTÖZIK a Budapest 1077, VII. kerület, Rottenbiller utca 32. alá a Kalicka Bistróba! Adományok fogadása minden nap 15.00 - 20.00.' %}
 
 Az új adománygyűjtő hely egyelőre **csak** BKK vonaljegyet, **vizet, gyümölcsöt, és rövid útra való élelmiszert** (fél literes szénsavmentes ásványvíz, alma, banán, nápolyi, keksz, húsmentes szendvics alapanyagok) és ezek csomagolásához uzsonnás zacskót, szemeteszsákot, alufóliát és gumikesztyűt fog gyűjteni, amelyet a pályaudvarokon osztunk szét az átutazók között.
 
