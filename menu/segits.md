@@ -12,9 +12,9 @@ header:
 
 ---
 
-{% include alert info='BP Mozár utcai Adomány központ <a href="https://www.facebook.com/pages/Adomány-Központ-Mozsár-Utca/1471173556531556">aktuális adomány listája</a>, **most** erre van szükségünk!' %}
+{% include alert info='Új adományközpontunk: Kalicka Bistro, Budapest 1077, VII. kerület, Rottenbiller utca 32. Adományok fogadása minden nap 15.00 - 20.00.' %}
 
-**Önkéntesekre van szükségünk** Budapesten a Mozsár utcai és Andrássy úti raktárunkba az adományozott ruhák válogatására, csomagolására! Gyere el barátaiddal együtt és segíts nekünk! Egyszerre 15 ember is elkél, gyertek bátran! Férfiak segítségét is megköszönnénk, hiszen sokszor nehéz csomagokat kell pakolni.
+**Ide önkéntesekre van szükségünk** az adományok válogatására, csomagolására és kiszállítására! Gyere el barátaiddal együtt és segíts nekünk!
 
 <div class="row t30">
     <div class="medium-4 columns">
@@ -44,4 +44,4 @@ header:
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-{% include alert info='A melegételosztás engedélyköteles és bonyolult. Legyen inkább több gyümölcs, hideg étel, víz, tisztálkodó szerek, ez egyszerűbben, kevesebb energiával megoldható.' %}
+{% include alert info='A melegételosztás engedélyköteles és bonyolult. Legyen inkább több gyümölcs, hideg étel, víz, ez egyszerűbben, kevesebb energiával megoldható.' %}
