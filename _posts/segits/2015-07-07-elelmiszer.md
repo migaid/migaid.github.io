@@ -5,8 +5,8 @@ breadcrumb:  true
 
 title:       "Élelmiszer"
 subheadline: "Élelmiszer adományok"
-meta_teaser: "A teljesség igénye nélkül az alábbi élelmiszereket szívesen fogadjuk Mozsár utcai raktárunkban."
-teaser:      "A teljesség igénye nélkül az alábbi élelmiszereket szívesen fogadjuk Mozsár utcai raktárunkban."
+meta_teaser: "A teljesség igénye nélkül az alábbi élelmiszereket szívesen fogadjuk  Rottenbiller utca 32. alatti adományközpontunkban."
+teaser:      "A teljesség igénye nélkül az alábbi élelmiszereket szívesen fogadjuk  Rottenbiller utca 32. alatti adományközpontunkban."
 header:
    image_fullwidth: "header.jpg"
 
@@ -24,19 +24,19 @@ tags:
 A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
 - **víz**: fél literes szénsavmentes ásványvíz
-- **gyümölcsök**: minden mennyiségben alma, banán esetleg dinnye
-- **csomagolt szárazsütemények**: édes keksz félék, snack, keksz
-- tej, kakaó, tejberizs, gyümölcsrizs
-- kefir, natúr vagy gyümölcsös joghurt
-- natúr krémsajtok, feta sajt, szeletelt natúr lapka sajt
-- halkonzervek
-- zöld vagy fekete tea
+- **gyümölcsök**: minden mennyiségben alma és banán
+- **csomagolt szárazsütemények**: édes keksz félék, snack, nápolyi, műzliszelet
+- **szendvics alapanyagok**: kenyér, zsemle, vaj, margarin, sajt, uborka, paprika, szendvicskrém (natúr vagy zöldséges), **de semmi hús- vagy sertéstartalmú**
 - kisméretű gyümölcslé
+- **édesség**: apróbb csokoládé szeletek, cukorka, nyalóka
+- BKK jegyek
+- alufólia, uzsonnás zacskó a csomagoláshoz, szemeteszsák, gumikesztyű
+- kék IKEA-s táskák
 
-Biztosan **nem kérünk**: melegétel, gyógyszerek, kötszerek, kenyér és pékáru (egy pékség minden nap átadja este a készletét)
+Átmenetileg biztosan **nem kérünk**: melegétel, hústartalmú ételek, gyógyszerek, kötszerek, ruha, játékok, tisztálkodási szerek.
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy minden nap kimenj és vagyonokat költs a saját pénzedből!
 
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Mozsár utcai raktárunk címére (Kaledónia Étterem, 1066 Bp., Mozsár utca 9. hétköznap 14.00 – 20.00, hétvégén 13.00 – 20.00) házhozszállítással.
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Rottenbiller utca 32. alatti adományközpontunkban címére (Kalicka Bistro, Budapest 1077, VII. kerület, Rottenbiller utca 32. minden nap 15.00 - 20.00) házhozszállítással.
