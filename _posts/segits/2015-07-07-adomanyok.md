@@ -19,41 +19,21 @@ tags:
     - info
 ---
 
+% include alert info='A Migration Aid adománygyűjtő központja hétfőtől (2015. július 27.) ÁTKÖLTÖZIK a Budapest 1077, VII. kerület, Rottenbiller utca 32. alá a Kalicka Bistróba! Adományok fogadása minden nap 15.00 - 20.00.' %}
 
-{% include alert info='Rendszeresen figyeld a BP Mozsár utcai Adomány központ <a href="https://www.facebook.com/pages/Adomány-Központ-Mozsár-Utca/1471173556531556">aktuális adomány listáját</a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
+Az új adománygyűjtő hely egyelőre **csak** BKK vonaljegyet, **vizet, gyümölcsöt, és rövid útra való élelmiszert** (fél literes szénsavmentes ásványvíz, alma, banán, nápolyi, keksz, húsmentes szendvics alapanyagok) és ezek csomagolásához uzsonnás zacskót, szemeteszsákot, alufóliát és gumikesztyűt fog gyűjteni, amelyet a pályaudvarokon osztunk szét az átutazók között.
 
-A teljesség igénye nélkül, az alábbi adományokat szívesen fogadjuk:
+Bővebb adománylista: http://www.migrationaid.net/segits/elelmiszer/
 
-- 10 db-os papír zsebkendő
-- wc papír
-- arctörlő kendő (nem alkoholos)
-- egészségügyi betét
-- pelenka, nedves törlőkendő, pelenkázó matrac, cumisüveg
-- fogkrém és fogkefe
-- utazó fésű
-- eldobható borotva és borotva hab
-- tusfürdő, sampon (pici méret, az utazós kiszerelés a legjobb), szappan
-- 20 literes zacskó
-- csomagolófólia, celofán
-- kicsi törülköző
-- polifómok
-- időnként hátizsák, hálózsák
-- új zokni és alsónadrág
-- cipő (42 méret alatt)
-- hajasbaba, gyerekjátékok, labdák, kirakók
-- játékok tinédzsereknek.
+Kérjük, egyelőre semmilyen egyéb adományt ne hozzatok, tehát se ruhaneműt, játékokat, tisztálkodó szereket, takarókat és egyéb táborba szánt adományt átmenetileg nem tudunk átvenni! Már dolgozunk a megoldáson, hogy a táborokba szánt adományokat is tudjuk majd fogadni, amint ez megvalósul, értesítünk benneteket!
 
 {% include alert info='Ha csak egy felesleges BKV jegyed van, az is segítség! Hozd el a Nyugati-, vagy a Keleti Pályaudvarra önkénteseinknek.' %}
 
-Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy minden nap vagyonokat költs a saját pénzedből!
+A pályaudvarokon nagyobb mennyiségű adományt nem tudunk átvenni, mert nem bírja a kapacitásunk (kivétel a BKK jegy és Debrecen).
 
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a **Mozsár utcai adományközpont** címére, házhozszállítással.
+FIGYELEM: Július 27-től egyik korábbi adománygyűjtő hely (se a Mozsár utca 9, se az Andrássy út 124) nem fogad már adományokat, de mi folytatjuk tevékenységünket és reméljük Ti is velünk tartotok!
 
-- Ruhák, tartós élelmiszerek, tisztálkodó szerek: Magyar Nők Szövetségének székháza 1062 Bp., Andrássy út 124. I. emelet. Hétköznap 10.00-17.30, pénteken 10.00-14.00
-- Élelmiszerek és tisztálkodó szerek: Kaledónia Étterem 1066 Bp., Mozsár utca 9. Hétköznap 14.00 – 20.00, hétvégén 13.00 – 20.00
+A **Caledónia Étteremnek** (Mozsár utca 9.) és vezetőjének, **Bozó Zsuzsannának** nem tudjuk eléggé kifejezni hálánkat az emberfeletti segítségért és koordinációért, amivel az adományokat idáig gyűjtötték! Óvatos becslésekkel is legalább 10.000 rászorulót láttak el ez alatt a pár hét alatt.
 
-*Ruhaadományok* esetében figyeld a konkrét felhívásokat, korlátos kapacitásaink vannak, és csak olyan adományokkat tudunk segíteni, amire valóban szükség van!
+Ezúton köszönjük a **Magyar Nők Szövetségének** (Andrássy út 124.) is, hogy tudtak raktárhelyet biztosítani számunkra, **Hay Évának** a koordinációért és persze mindenkinek, aki adománnyal vagy segítséggel hozzájárult ehhez a rendkívüli munkához!
 
-A pályaudvarokon nem tudunk adományt átvenni, mert nem bírja a kapacitásunk (kivétel a BKV jegy és Debrecen).
-
-A Klubrádió nem tud további adományokat fogadni, ha ebben a helyzetben változás történik, frissítjük a honlapot.
