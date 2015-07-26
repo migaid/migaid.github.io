@@ -20,26 +20,28 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-**We also accept donations** of durable food, drinks, toys, hygiene products at several storage rooms across the city:
+**We also accept donations** of water, fruit and sandwich ingredients, snacks at the following address:
 
-- **Durable food, hygiene products, toys**: 1062 Budapest, 6th district, Andrássy street 124. First floor. Weekdays 10.00-17.30, Friday 10.00-16.00
-- **Durable food, hygiene products, toys**: Caledonia Scottish Pub 1066 Budapest, Mozsár street 9. Weekdays 14.00 – 20.00, weekends 13.00 – 20.00.
+{% include alert info='Attention, we have moved since 27/07 to the a new address!' %}
 
-{% include alert info='Things most needed:' %}
+      Kalicka Bistro
+      Rottenbiller street 32, 7th district, Budapest 1077
+      Accepting donations: every day 15.00 - 20.00
 
-**DURABLE FOOD**: milk, chocolate milk, small boxes of juice, kefir, natural or fruit yoghurt, snack food (for travelling), biscuits,  apple, banana, watermelon, green or black tea, 0,5 l bottle natural water (without bubbles), we do NOT need bakery products, vegetables and food with meat!
+Things most needed:
+
+For the moment, the new donation center will **only accept BKK tickets, water, fruits, and basic food** (0,5 l natural water, apple, banana, snacks, biscuits and sandwich ingredients such as bread, butter, cheese, paprika, sandwich cream natur or with vegetables), and for packing them **the blue IKEA bags, small bags, garbage bags, rubber gloves and aluminium foil**, which will be distributed at the train stations of Budapest for transferring immigrants.
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
-**HYGIENE PRODUCTS** (mostly small travel size): toothpaste, toothbrush, razors, shaving foam, toilet paper, small package of tissues (10 pieces/pack), small travel comb, facial wipes (without alcohol), small travel size soap, shower gel, shampoo, small towels, sanitary pads, rubber gloves, 20 l plastic bags, big plastic garbage bags, plastic or aluminium wrapping paper.
+For the time being, please do **not** bring other donations such as clothes, toys, hygiene items, blankets and other items intended for use in the refugee camps.
+We are working on a solution to be able to receive donations to be sent to the camps. As soon as this has been realised, we will communicate it to you.
 
-**OTHER**: baby clothes, diapers, wet wipes, toys, baby food, baby bath tubs, yoga matrass, new socks, new underwear, small backpacks, sleeping bags, blankets, toys for kids and teengers, shoes (in good condition or new), BKV tickets, large IKEA bags, storng carton boxes for moving.
+In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-{% include alert info='We have received a huge amount of clothes and currently cannot accept more! Look for particular announcements and thank you for your understanding!' %}
+We **need help at our storage room** to receive and select the donations and put together personal packages. If you are able to help, please come to our storage room at Rottenbiller street 32., Budapest, between 15.00 and 20.00 any days of the week.
 
-**We need help at our storage rooms** to receive and select the donations and put together personal packages. If you are able to help, please come to our storage room at Mozsár street 9. between 14.00 and 20.00 any day of the week.
-
-If you live far away but you would still like to donate something, we can recommend for example **online TESCO shopping** paid online and shipped to Caledonia Scottish Pub 1066 Budapest, Mozsár street 9. Weekdays 14.00 – 20.00, weekends 13.00 – 20.00.
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage room between 15:00 and 20:00.
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
