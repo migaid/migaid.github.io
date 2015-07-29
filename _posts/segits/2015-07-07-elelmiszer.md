@@ -32,6 +32,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - takarók, matrac (polifoam), hálózsák
 
 **Amit továbbra sem tudunk befogadni**:
+
 - szendvics alapanyagok
 - gyerek és felnőtt ruhák, cipők
 - gyerekjátékok
