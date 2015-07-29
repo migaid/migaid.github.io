@@ -30,7 +30,25 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 Things most needed:
 
-For the moment, the new donation center will **only accept BKK tickets, water, fruits, and basic food** (0,5 l natural water, apple, banana, snacks, biscuits and sandwich ingredients such as bread, butter, cheese, paprika, sandwich cream natur or with vegetables), and for packing them **the blue IKEA bags, small bags, garbage bags, rubber gloves and aluminium foil**, which will be distributed at the train stations of Budapest for transferring immigrants.
+Our new donation center at Rottenbiller street 32. is expecting the following donations:
+
+- 0.5 liters natural water
+- 0.2 liters fruit juice
+- musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
+- apples, bananas
+- BKK tickets
+- BABY ITEMS: baby clothes, baby shoes, carriers, baby carriages (collapsible), wet wipes, diapers
+- blankets, mattress (polifoam), sleeping bags
+
+**Please do not bring** these kind of donations, because we cannot store them yet:
+- sandwich ingredients
+- children and adult clothes, shoes
+- hygiene products
+- toys
+
+We will soon open another storage place where we will be able to receive these donations too, we thank you for your patience!
+
+We also welcome anybody with a little free time to help us select incoming donations and prepare packages from 3 pm onwards! Thanks for everyone for the help!
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
