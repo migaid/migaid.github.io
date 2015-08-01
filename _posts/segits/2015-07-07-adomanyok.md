@@ -5,8 +5,8 @@ breadcrumb:  true
 
 title:       "Adományok"
 subheadline: "Amire a menekültek ellátásához szükségünk van"
-meta_teaser: "A teljesség igénye nélkül egy jellemző lista, amire gyakran és sokszor szükség van."
-teaser:      "A teljesség igénye nélkül egy jellemző lista, amire gyakran és sokszor szükség van."
+meta_teaser: "A Migration Aid adományközpontjába és raktáraihoz az alábbi adományokat várjuk."
+teaser:      "A Migration Aid adományközpontjába és raktáraihoz az alábbi adományokat várjuk."
 header:
    image_fullwidth: "header.jpg"
 
@@ -19,13 +19,35 @@ tags:
     - info
 ---
 
-{% include alert info='A Migration Aid adománygyűjtő központja hétfőtől (2015. július 27.) ÁTKÖLTÖZIK a Budapest 1077, VII. kerület, Rottenbiller utca 32. alá a Kalicka Bistróba! Adományok fogadása minden nap 15.00 - 20.00.' %}
+{% include alert info='Új raktárunk nyílik hétfőtől (2015. augusztus 3.) Budapest 1051, V. kerület, Arany János u. 32. címen, ahol mindennap 16.00 - 20.00 között várjuk a tárgyi adományokat! Ennek a raktárnak az elsődleges célja a befogadó táborokba szánt adományok gyűjtése.' %}
 
-Az új adománygyűjtő hely egyelőre **csak** BKK vonaljegyet, **vizet, gyümölcsöt, és rövid útra való élelmiszert** (fél literes szénsavmentes ásványvíz, alma, banán, nápolyi, keksz, húsmentes szendvics alapanyagok) és ezek csomagolásához uzsonnás zacskót, szemeteszsákot, alufóliát és gumikesztyűt fog gyűjteni, amelyet a pályaudvarokon osztunk szét az átutazók között.
+{% include alert info='A Migration Aid adománygyűjtő központja a Kalicka Bistróban, a Budapest 1077, VII. kerület, Rottenbiller utca 32. címen továbbra is folytatja működését, és elsősorban a pályaudvarokon átutazók ellátásra koncentrál! Adományok fogadása minden nap 15.00 - 20.00.' %}
 
-Bővebb adománylista: http://www.migrationaid.net/segits/elelmiszer/
+Az **Arany János utca 32-ben** az alábbi adományokat várjuk hétfőtől:
 
-Kérjük, egyelőre semmilyen egyéb adományt ne hozzatok, tehát se ruhaneműt, játékokat, tisztálkodó szereket, takarókat és egyéb táborba szánt adományt átmenetileg nem tudunk átvenni! Már dolgozunk a megoldáson, hogy a táborokba szánt adományokat is tudjuk majd fogadni, amint ez megvalósul, értesítünk benneteket!
+- takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
+- gyógyszerek, kötszerek, elsősegélycsomag
+- **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+- **babaholmi**: ruha, cipő, hordozó, babakocsi (esernyős), pelenka, törlőkendő
+- **kisméretű játékok** gyerekeknek: plüssök, kisautók, hajas baba, buborékfújó, labdák, valamint **tinédzsereknek**: társas, kártya, kirakó, focilabda, stb.
+- **gyermek és felnőtt férfi ruhák**: jó állapotú, tiszta, lehetőleg válogatva és felcímkézve. Női ruhára jelenleg nincs szükség!
+- férfi cipő, sportcipő és papucs (nem lábujjas)
+- női sportcipő, papucs (lapos és nem lábujjas)
+- gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
+
+A **Rottenbiller 32-ben** a következőket várjuk mindennap:
+
+- **rengeteg** félliteres szénsavmentes ásványvíz
+- kis dobozos gyümölcslé
+- kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
+- *gyümölcs**: alma, banán
+- BKK-jegyek
+- **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+- kötszerek, gyógyszerek, elsősegélycsomag
+
+Bővebb adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
+
+Az önkénteseket mindkét helyszínen szeretettel várjuk az adományok válogatására, csomagolására bármelyik nap nyitvatartási időben! Feliratkozás nem szükséges!
 
 {% include alert info='Ha csak egy felesleges BKV jegyed van, az is segítség! Hozd el a Nyugati-, vagy a Keleti Pályaudvarra önkénteseinknek.' %}
 
