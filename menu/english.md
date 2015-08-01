@@ -20,26 +20,31 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a **new storage facility** at Arany János street 32, in district 5, Budapest, where we receive donations every day 16.00 - 20.00.' %}
+{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a new storage facility at Arany János street 32, Budapest' %}
 
-This storage room will focus on donations for the refugee camps.
-Here we accept the following donations:
+      Storage rooms
+      Arany János street 32, 5th district, Budapest 1054
+      Accepting donations for refugee camps
+      every day 16.00 - 20.00
+
+This storage room will focus on donations for the refugee camps, and we accept following donations:
 
 - blankets, sleeping bags, mattresses (polifoam), towels (clean) 
 - medicine, bandages, first aid kit
 - personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
 - baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
 - toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
-- kids and adult MEN clothes (in good condition, clean and if possible already sorted out and packed with a note about content, WE DO NOT NEED WOMEN’S CLOTHES AT THE MOMENT)
+- kids and adult **man** clothes (in good condition, clean and if possible already sorted out and packed with a note about content. We do not need women's clothing at the time being.
 - men’s shoes, sport shoes and slippers (not flip-flops)
 - women’s sport shoes and slippers (flat and not flip-flops)
 - underwear and socks for kids, women and men (only new, because of hygiene) 
 
 {% include alert info='Our donation center at Kalicka Bistro at Rottenbiller street 32, in district 7, Budapest, continues its work and expects donations needed for refugees travelling to camps.' %}
 
-      Kalicka Bistro
+      Donation center at Kalicka Bistro
       Rottenbiller street 32, 7th district, Budapest 1077
-      Accepting donations: every day 15.00 - 20.00
+      Accepting donations for refugees travelling to camps
+      every day 15.00 - 20.00
 
 Things most needed:
 
