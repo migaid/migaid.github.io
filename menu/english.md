@@ -57,6 +57,7 @@ Things most needed:
 - medicines, bandages, first aid kit
 
 **Please do not bring** these kind of donations, because we cannot accept them:
+
 - sandwich ingredients
 - warm foods
 - medicines
@@ -67,7 +68,7 @@ In the meanwhile, we really **need more volunteers at the train stations** to gi
 
 We **need help at our storage facilities** to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage room between 15:00 and 20:00.
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage rooms. Watch for opening time of storage facilities when setting delivery attributes!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
