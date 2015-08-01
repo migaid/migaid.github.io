@@ -28,20 +28,16 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - **gyümölcsök**: minden mennyiségben alma és banán
 - **csomagolt szárazsütemények**: kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
 - BKK-jegy
-- **babaholmi**: babaruha, babacipő, pelenka, törlőkendő, hordozó, babakocsi (esernyős)
-- takarók, matrac (polifoam), hálózsák
+- tisztálkodószerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+- kötszerek, gyógyszerek, elsősegélycsomag
 
-**Amit továbbra sem tudunk befogadni**:
+**Amit továbbra sem kérünk és nem tudunk fogadni**:
 
 - szendvics alapanyagok
-- gyerek és felnőtt ruhák, cipők
-- gyerekjátékok
-- tisztálkodó szerek
 - melegétel, hústartalmú ételek
 - gyógyszerek, kötszerek
-- ruha, játékok, tisztálkodási szerek.
 
-Hamarosan lesz egy másik raktárunk is, ahol már ezeket is fogadjuk majd, kis türelmet kérünk!
+Tárgyi adományokat (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, ...) szivesen fogadunk raktárainkban, [lásd ezen az oldalon](http://www.migrationaid.net/segits/adomanyok/).
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
