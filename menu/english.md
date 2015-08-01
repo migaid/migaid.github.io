@@ -66,7 +66,7 @@ Things most needed:
 
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our storage facilities** to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
+We **need help at our donation center** at Rottenbiller street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
 If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage rooms. Watch for opening time of storage facilities when setting delivery attributes!
 
