@@ -47,7 +47,7 @@ A **Rottenbiller 32-ben** a következőket várjuk mindennap:
 
 Bővebb adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
 
-Az önkénteseket mindkét helyszínen szeretettel várjuk az adományok válogatására, csomagolására bármelyik nap nyitvatartási időben! Feliratkozás nem szükséges!
+Az önkénteseket a Rottenbiller utcában szeretettel várjuk az adományok válogatására, csomagolására bármelyik nap nyitvatartási időben! Feliratkozás nem szükséges!
 
 {% include alert info='Ha csak egy felesleges BKV jegyed van, az is segítség! Hozd el a Nyugati-, vagy a Keleti Pályaudvarra önkénteseinknek.' %}
 
