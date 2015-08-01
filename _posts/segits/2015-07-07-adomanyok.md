@@ -21,8 +21,6 @@ tags:
 
 {% include alert info='Új raktárunk nyílik hétfőtől (2015. augusztus 3.) Budapest 1051, V. kerület, Arany János u. 32. címen, ahol mindennap 16.00 - 20.00 között várjuk a tárgyi adományokat! Ennek a raktárnak az elsődleges célja a befogadó táborokba szánt adományok gyűjtése.' %}
 
-{% include alert info='A Migration Aid adománygyűjtő központja a Kalicka Bistróban, a Budapest 1077, VII. kerület, Rottenbiller utca 32. címen továbbra is folytatja működését, és elsősorban a pályaudvarokon átutazók ellátásra koncentrál! Adományok fogadása minden nap 15.00 - 20.00.' %}
-
 Az **Arany János utca 32-ben** az alábbi adományokat várjuk hétfőtől:
 
 - takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
@@ -34,6 +32,8 @@ Az **Arany János utca 32-ben** az alábbi adományokat várjuk hétfőtől:
 - férfi cipő, sportcipő és papucs (nem lábujjas)
 - női sportcipő, papucs (lapos és nem lábujjas)
 - gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
+
+{% include alert info='A Migration Aid adománygyűjtő központja a Kalicka Bistróban, a Budapest 1077, VII. kerület, Rottenbiller utca 32. címen továbbra is folytatja működését, és elsősorban a pályaudvarokon átutazók ellátásra koncentrál! Adományok fogadása minden nap 15.00 - 20.00.' %}
 
 A **Rottenbiller 32-ben** a következőket várjuk mindennap:
 
