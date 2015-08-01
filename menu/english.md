@@ -20,9 +20,22 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-**We also accept donations** of water, fruit and sandwich ingredients, snacks at the following address:
+{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a **new storage facility** at Arany János street 32, in district 5, Budapest, where we receive donations every day 16.00 - 20.00.' %}
 
-{% include alert info='Attention, we have moved since 27/07 to the a new address!' %}
+This storage room will focus on donations for the refugee camps.
+Here we accept the following donations:
+
+- blankets, sleeping bags, mattresses (polifoam), towels (clean) 
+- medicine, bandages, first aid kit
+- personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
+- baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
+- toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
+- kids and adult MEN clothes (in good condition, clean and if possible already sorted out and packed with a note about content, WE DO NOT NEED WOMEN’S CLOTHES AT THE MOMENT)
+- men’s shoes, sport shoes and slippers (not flip-flops)
+- women’s sport shoes and slippers (flat and not flip-flops)
+- underwear and socks for kids, women and men (only new, because of hygiene) 
+
+{% include alert info='Our donation center at Kalicka Bistro at Rottenbiller street 32, in district 7, Budapest, continues its work and expects donations needed for refugees travelling to camps.' %}
 
       Kalicka Bistro
       Rottenbiller street 32, 7th district, Budapest 1077
@@ -30,34 +43,24 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 Things most needed:
 
-Our new donation center at Rottenbiller street 32. is expecting the following donations:
-
 - 0.5 liters natural water
 - 0.2 liters fruit juice
 - musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
 - apples, bananas
 - BKK tickets
-- BABY ITEMS: baby clothes, baby shoes, carriers, baby carriages (collapsible), wet wipes, diapers
-- blankets, mattress (polifoam), sleeping bags
+- personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
+- medicines, bandages, first aid kit
 
-**Please do not bring** these kind of donations, because we cannot store them yet:
+**Please do not bring** these kind of donations, because we cannot accept them:
 - sandwich ingredients
-- children and adult clothes, shoes
-- hygiene products
-- toys
-
-We will soon open another storage place where we will be able to receive these donations too, we thank you for your patience!
-
-We also welcome anybody with a little free time to help us select incoming donations and prepare packages from 3 pm onwards! Thanks for everyone for the help!
+- warm foods
+- medicines
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
-For the time being, please do **not** bring other donations such as clothes, toys, hygiene items, blankets and other items intended for use in the refugee camps.
-We are working on a solution to be able to receive donations to be sent to the camps. As soon as this has been realised, we will communicate it to you.
-
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our storage room** to receive and select the donations and put together personal packages. If you are able to help, please come to our storage room at Rottenbiller street 32., Budapest, between 15.00 and 20.00 any days of the week.
+We **need help at our storage facilities** to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
 If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage room between 15:00 and 20:00.
 
