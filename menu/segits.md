@@ -12,11 +12,12 @@ header:
 
 ---
 
-{% include alert info='Adományközpontjaink: 
-1. Kalicka Bistro, Budapest 1077, VII. kerület, Rottenbiller utca 32. Adományok fogadása mindennap 15.00 - 20.00. 2015. augusztus 9-ig.
-2. Budapest, V. kerület, Arany János utca 32. Adományok fogadása mindennap 16.00 - 20.00' %}
+{% include alert info='Vasútállomásokat ellátó adományközpontunk: 
+Kalicka Bistro, Budapest 1077, VII. kerület, Rottenbiller utca 32. Adományok fogadása mindennap 15.00 - 20.00. 2015. augusztus 9-ig.' %}
 
-**Ide önkéntesekre van szükségünk** az adományok válogatására, csomagolására és kiszállítására! Gyere el barátaiddal együtt és segíts nekünk!
+{% include alert info='Táborokba szállító adományközpontunk: Budapest, V. kerület, Arany János utca 32. Adományok fogadása mindennap 16.00 - 20.00' %}
+
+**A Rottenbiller utca 32-be önkéntesekre van szükségünk** az adományok válogatására, csomagolására és kiszállítására! Gyere el barátaiddal együtt és segíts nekünk!
 
 <div class="row t30">
     <div class="medium-4 columns">
