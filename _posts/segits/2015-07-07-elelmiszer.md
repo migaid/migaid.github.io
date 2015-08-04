@@ -24,16 +24,20 @@ tags:
 A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
 - **víz**: fél literes szénsavmentes ásványvíz
+- kis dobozos gyümölcslé
 - **gyümölcsök**: minden mennyiségben alma és banán
-- **csomagolt szárazsütemények**: édes keksz félék, snack, nápolyi, műzliszelet
-- **szendvics alapanyagok**: kenyér, zsemle, vaj, margarin, sajt, uborka, paprika, szendvicskrém (natúr vagy zöldséges), **de semmi hús- vagy sertéstartalmú**
-- kisméretű gyümölcslé
-- **édesség**: apróbb csokoládé szeletek, cukorka, nyalóka
-- BKK jegyek
-- alufólia, uzsonnás zacskó a csomagoláshoz, szemeteszsák, gumikesztyű
-- kék IKEA-s táskák
+- **csomagolt szárazsütemények**: kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
+- BKK-jegy
+- tisztálkodószerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+- kötszerek, gyógyszerek, elsősegélycsomag
 
-Átmenetileg biztosan **nem kérünk**: melegétel, hústartalmú ételek, gyógyszerek, kötszerek, ruha, játékok, tisztálkodási szerek.
+**Amit továbbra sem kérünk és nem tudunk fogadni**:
+
+- szendvics alapanyagok
+- melegétel, hústartalmú ételek
+- gyógyszerek, kötszerek
+
+Tárgyi adományokat (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, ...) szivesen fogadunk raktárainkban, [lásd ezen az oldalon](http://www.migrationaid.net/segits/adomanyok/).
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 

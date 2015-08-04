@@ -20,28 +20,55 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-**We also accept donations** of water, fruit and sandwich ingredients, snacks at the following address:
+{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a new storage facility at Arany János street 32, Budapest' %}
 
-{% include alert info='Attention, we have moved since 27/07 to the a new address!' %}
+      Storage rooms
+      Arany János street 32, 5th district, Budapest 1054
+      Accepting donations for refugee camps
+      every day 16.00 - 20.00
 
-      Kalicka Bistro
+This storage room will focus on donations for the refugee camps, and we accept following donations:
+
+- blankets, sleeping bags, mattresses (polifoam), towels (clean) 
+- medicine, bandages, first aid kit
+- personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
+- baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
+- toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
+- kids and adult **man** clothes (in good condition, clean and if possible already sorted out and packed with a note about content. We do not need women's clothing at the time being.
+- men’s shoes, sport shoes and slippers (not flip-flops)
+- women’s sport shoes and slippers (flat and not flip-flops)
+- underwear and socks for kids, women and men (only new, because of hygiene) 
+
+{% include alert info='Our donation center at Kalicka Bistro at Rottenbiller street 32, in district 7, Budapest, continues its work and expects donations needed for refugees travelling to camps.' %}
+
+      Donation center at Kalicka Bistro
       Rottenbiller street 32, 7th district, Budapest 1077
-      Accepting donations: every day 15.00 - 20.00
+      Accepting donations for refugees travelling to camps
+      every day 15.00 - 20.00
 
 Things most needed:
 
-For the moment, the new donation center will **only accept BKK tickets, water, fruits, and basic food** (0,5 l natural water, apple, banana, snacks, biscuits and sandwich ingredients such as bread, butter, cheese, paprika, sandwich cream natur or with vegetables), and for packing them **the blue IKEA bags, small bags, garbage bags, rubber gloves and aluminium foil**, which will be distributed at the train stations of Budapest for transferring immigrants.
+- 0.5 liters natural water
+- 0.2 liters fruit juice
+- musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
+- apples, bananas
+- BKK tickets
+- personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
+- medicines, bandages, first aid kit
+
+**Please do not bring** these kind of donations, because we cannot accept them:
+
+- sandwich ingredients
+- warm foods
+- medicines
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
-For the time being, please do **not** bring other donations such as clothes, toys, hygiene items, blankets and other items intended for use in the refugee camps.
-We are working on a solution to be able to receive donations to be sent to the camps. As soon as this has been realised, we will communicate it to you.
-
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our storage room** to receive and select the donations and put together personal packages. If you are able to help, please come to our storage room at Rottenbiller street 32., Budapest, between 15.00 and 20.00 any days of the week.
+We **need help at our donation center** at Rottenbiller street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage room between 15:00 and 20:00.
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage rooms. Watch for opening time of storage facilities when setting delivery attributes!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
