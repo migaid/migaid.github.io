@@ -45,6 +45,7 @@ This storage room will focus on donations for the refugee camps, and we accept f
       Rottenbiller street 32, 7th district, Budapest 1077
       Accepting donations for refugees travelling to camps
       every day 15.00 - 20.00
+      until 9 August 2015
 
 Things most needed:
 
@@ -54,7 +55,8 @@ Things most needed:
 - apples, bananas
 - BKK tickets
 - personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
-- medicines, bandages, first aid kit
+- medicines, bandages, first aid kit, astma spray
+- bubble makers and kites
 
 **Please do not bring** these kind of donations, because we cannot accept them:
 
@@ -68,7 +70,7 @@ In the meanwhile, we really **need more volunteers at the train stations** to gi
 
 We **need help at our donation center** at Rottenbiller street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to the storage rooms. Watch for opening time of storage facilities when setting delivery attributes!
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Kalicka Bistro. Watch for opening time of storage facilities when setting delivery attributes! Please note that Kalicka Bistro accepts donations only until 9 August 2015. We will soon publish a new address where you can send shipments, please check back for more info!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
