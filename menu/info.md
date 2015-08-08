@@ -17,6 +17,7 @@ header:
 - 2015/07/23: [Útvonalterv a befogadó táborokhoz budapesti átszállással (pfd)]({{ site.url }}{{ site.baseurl }}/files/budapest-info.pdf) több nyelven.
 - 2015/07/13: [Kisokos a menekülteket segítő civileknek (pfd)](http://helsinki.hu/wp-content/uploads/info-segitoknek_FINAL_2.pdf) a leggyakrabban felmerült kérdések megválaszolásához.
 - 2015/07/02: [Tájékoztató anyagok praktikus információkkal menedékkérők számára](http://helsinki.hu/uj-informacios-anyag-menekulteknek) magyarul, arabul, fársziul, pastuul (Magyar Helsinki Bizottság)
+2015/08/08: [2015/08/07: Rövid Migration Aid tájékoztató 6 nyelven a menekültek számára (pdf)]({{ site.url }}{{ site.baseurl }}/files/rovid_tajekoztato_6_nyelven.pdf)  Nyelvek: angol, arab, farszi, pastu, urdu, magyar
 
 #### További információk
 {: .t60 }
