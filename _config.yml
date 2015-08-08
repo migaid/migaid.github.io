@@ -10,8 +10,8 @@ slogan: "migrationaid.net"
 description: "A Migration Aid a Magyarországra érkező menekültek segítésére alakult közösségi kezdeményezés."
 
 # This URL is the main adresse. Don't include a slash at the end.
-url: "http://www.migrationaid.net"
-baseurl: ""
+url: "http://juliabiroprezi.github.io"
+baseurl: "/migaidtest"
 
 
 # This URL points directly to the images directory making
@@ -20,7 +20,7 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://www.migrationaid.net/images/"
+urlimg: "http://juliabiroprezi.github.io/migaidtest/images/"
 
 
 # Logo size is 600x80 pixels
