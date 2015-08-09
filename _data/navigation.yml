@@ -34,6 +34,8 @@
   url: "/info/"
   side: left
   dropdown:
+  - title: Letölthető anyagok
+    url: "/info/"
   - title: Rólunk írták
     url: "/info/rolunk-irtak/"
   - title: "Fényképalbum"
