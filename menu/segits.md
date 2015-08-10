@@ -12,11 +12,14 @@ header:
 
 ---
 
-{% include alert info='Vasútállomásokat ellátó adományközpontunk: Kalicka Bistro, Budapest 1077, VII. kerület, Rottenbiller utca 32. Adományok fogadása mindennap 15.00 - 20.00. 2015. augusztus 9-ig.' %}
+{% include alert info='Táborokba szállító adományközpontunk: Budapest, V. kerület, Arany János utca 32. Ide tárgyi adományokat (élelmiszert nem) és válogatásukra, csomagolásukra önkénteseket is várunk mindennap 16.00 - 20.00.' %}
 
-{% include alert info='Táborokba szállító adományközpontunk: Budapest, V. kerület, Arany János utca 32. Adományok fogadása mindennap 16.00 - 20.00' %}
+{% include alert info='Nem tartós élelmiszert, kisebb, azonnal kiosztható dolgokat az alakulóban lévő tranzitállomások raktáraiban várunk. A Keletiben ez már működik: Budapest, Baross tér VIII. ker., Keleti aluljáró, Migration Aid raktár (a metró Rottenbiller utcai kijárata mellett) mindennap 11.00 - 22.00 várjuk az adományokat és az önkénteseket. A Migration Aid logó kint van az ajtókon, ha zárva az ajtó, kopogjatok be!' %}
 
-**A Rottenbiller utca 32-be önkéntesekre van szükségünk** az adományok válogatására, csomagolására és kiszállítására! Gyere el barátaiddal együtt és segíts nekünk!
+{% include alert info='Házhozszállítást, csomagküldést az Ébredések Alapítvány címére Harangozó Judit nevére tudunk fogadni a Budapest 1089, Kálvária tér 5. címen hétköznap 10.00 és 16.00 között (hétvégén és ünnepnapokon nem). Az Ébredés Alapítványhoz továbbra is fogadunk konzerveket (zöldborsó, csicseriborsó, bab és lencse), valamint rizst.' %}
+
+**Az Arany János utca 32-be és a Keleti Tranzitba önkéntesekre van szükségünk** az adományok válogatására, csomagolására, kiszállítására vagy kiosztására! Gyere el barátaiddal együtt nyitvatartási időben és segíts nekünk!
+
 
 <div class="row t30">
     <div class="medium-4 columns">
