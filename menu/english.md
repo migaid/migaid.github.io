@@ -30,9 +30,8 @@ Here we focs on collecting donations for the refugee camps. The storage facility
       Accepting donations for refugee camps
       every day 16.00 - 20.00
 
-<!--      
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.352087543368!2d19.053386!3d47.502534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc14ca087bed%3A0xd29042512db8ff08!2sArany+J%C3%A1nos+u.+32%2C+Budapest%2C+1051!5e0!3m2!1sen!2shu!4v1439208024356" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
--->
+
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.352087543368!2d19.053386!3d47.502534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc14ca087bed%3A0xd29042512db8ff08!2sArany+J%C3%A1nos+u.+32%2C+Budapest%2C+1051!5e0!3m2!1sen!2shu!4v1439208024356" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 
 Here we accept the following (please note that we cannot accept food or drinks here):
 
@@ -57,9 +56,8 @@ We are receiving donations and volunteers at the underground area of the Keleti 
       Accepting donations for refugees travelling to camps
       every day 11.00 - 22.00
 
-<!--
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
--->
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+
 **Things most needed:**
 
 - shower gel, soap, razor, shaving foam, deodorant
