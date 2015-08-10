@@ -20,14 +20,12 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a new storage facility at Arany János street 32, Budapest' %}
-
-      Storage rooms
+      Storage Faicilites
       Arany János street 32, 5th district, Budapest 1054
       Accepting donations for refugee camps
       every day 16.00 - 20.00
 
-This storage room will focus on donations for the refugee camps, and we accept following donations:
+This storage room will focus on donations for the refugee camps, and we accept following (please note that we cannot accept food or drinks here):
 
 - blankets, sleeping bags, mattresses (polifoam), towels (clean) 
 - medicine, bandages, first aid kit
@@ -37,40 +35,52 @@ This storage room will focus on donations for the refugee camps, and we accept f
 - kids and adult **man** clothes (in good condition, clean and if possible already sorted out and packed with a note about content. We do not need women's clothing at the time being.
 - men’s shoes, sport shoes and slippers (not flip-flops)
 - women’s sport shoes and slippers (flat and not flip-flops)
-- underwear and socks for kids, women and men (only new, because of hygiene) 
+- underwear and socks for kids, women and men (only new, because of hygiene)
+- large blue IKEA bags
+- deep (30-50 cm) boxes
 
-{% include alert info='Our donation center at Kalicka Bistro at Rottenbiller street 32, in district 7, Budapest, continues its work and expects donations needed for refugees travelling to camps.' %}
-
-      Donation center at Kalicka Bistro
-      Rottenbiller street 32, 7th district, Budapest 1077
+We are also receiving donations and volunteers at the underground area of the Keleti train station:
+      Keleti Tranzit area underground
+      right from the Rottenbiller street exit
+      Budapest, district 8, Baross square
       Accepting donations for refugees travelling to camps
-      every day 15.00 - 20.00
-      until 9 August 2015
+      every day 11.00 - 22.00
 
-Things most needed:
+**Things most needed:**
+- shower gel, soap, razor, shaving foam, deodorant
+- 120-150 l garbage bags, lunch bags, hand sanitizer, paper towels, mosquito repellent
+- Calcium, Magnesium, plasters, disinfectant, gloves (for one use)
+- male clothes: T-shirt, shorts, socks, sport shoes (trainers)
+- bakery products, sliced bread
+- fruit (apple, banana, lemon), peeled carrot
+- cream cheese, poultry liver pate in easily openable cans, cans of fish (also easily openable)
+- 0.2 l juice 
+
+If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
+      Ébredések Alapítvány
+      for the name of Judit Harangozó
+      Budapest, district 8, Kálvária square 5.
+      every day 10.00 - 16.00
+
+Please note that delivery should be only on weekdays between 10.00 and 16.00 (not weekend, nor holidays).
+
+ The most needed items for the supply of train stations:
 
 - 0.5 liters natural water
 - 0.2 liters fruit juice
 - musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
 - apples, bananas
-- BKK tickets
 - personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
 - medicines, bandages, first aid kit, astma spray
 - bubble makers and kites
-
-**Please do not bring** these kind of donations, because we cannot accept them:
-
-- sandwich ingredients
-- warm foods
-- medicines
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our donation center** at Rottenbiller street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
+We **need help at our donation center** at 32 Arany János street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Kalicka Bistro. Watch for opening time of storage facilities when setting delivery attributes! Please note that Kalicka Bistro accepts donations only until 9 August 2015. We will soon publish a new address where you can send shipments, please check back for more info!
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery attributes!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
