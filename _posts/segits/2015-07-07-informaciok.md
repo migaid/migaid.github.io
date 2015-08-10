@@ -16,4 +16,3 @@ categories:
 tags:
     - információk
 ---
-A letölthető információs anyagainkat [itt találod] ({{site.url }}/info/). 
