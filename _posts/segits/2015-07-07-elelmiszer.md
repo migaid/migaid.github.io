@@ -24,7 +24,7 @@ A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulób
 	Budapest, Baross tér VIII. ker., 
 	**Keleti aluljáró, Migration Aid raktár** 
 	(a metró Rottenbiller utcai kijárata mellett)
-	mindennap 11.00 - 22.00
+	minden nap 11.00 - 22.00
 
 
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe> -->
@@ -61,6 +61,7 @@ Cím:
 	Harangozó Judit
 	Budapest 1089, Kálvária tér 5.
 	hétköznapokon 10.00-16.00
+
 
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2696.0939556205994!2d19.085656999999998!3d47.488082999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dcf188281b39%3A0x1fc90c979e9e60c5!2sBaross+utca+5%2C+Budapest%2C+1089!5e0!3m2!1sen!2shu!4v1439209844508" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 
