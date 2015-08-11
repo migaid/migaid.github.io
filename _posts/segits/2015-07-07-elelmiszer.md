@@ -47,7 +47,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
 **Tartós élemiszer**
 
-Tartós élelmiszert az **Ébredések Alapítvány** címére, Harangozó Judit nevére tudunk fogadni hétköznap 10.00 és 16.00 között (hétvégén és ünnepnapokon nem). 
+Tartós élelmiszert az **Ébredések Alapítvány** címére, Harangozó Judit nevére tudunk fogadni hétköznap 9.00 és 16.00 között (hétvégén és ünnepnapokon nem). 
 
 Cím:
 	
