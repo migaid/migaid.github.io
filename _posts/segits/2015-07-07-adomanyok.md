@@ -34,22 +34,24 @@ Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
 
 - takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
 - gyógyszerek, kötszerek, elsősegélycsomag
-- **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+- **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, egészségügyi betét
 - **babaholmi**: ruha, cipő, hordozó, babakocsi (esernyős), pelenka, törlőkendő
 - **kisméretű játékok** gyerekeknek: plüssök, kisautók, hajas baba, buborékfújó, labdák, valamint **tinédzsereknek**: társas, kártya, kirakó, focilabda, stb.
-- **gyermek és felnőtt férfi ruhák**: jó állapotú, tiszta, lehetőleg válogatva és felcímkézve. Női ruhára jelenleg nincs szükség!
+- **ruhák**: jó állapotú, tiszta, lehetőleg válogatva és felcímkézve.
+	- Férfi ruhából jelenleg S-es és M-es méretűeket gyűjtünk	
+	- Babaruhát továbbra is fogadunk
+	- Női és gyermek ruhára jelenleg nincs szükség!
 - férfi cipő, sportcipő és papucs (nem lábujjas)
 - női sportcipő, papucs (lapos és nem lábujjas)
 - gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
 - kék ikeás táskák
 - mély (30-50 cm mély) ládák
 
+
 {% include alert info='Figyelem: itt élelmiszert nem tudunk fogadni!' %}
 
 
 A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
-
-Az önkénteseket az Arany János 32-ben szeretettel várjuk az adományok válogatására, csomagolására bármelyik nap nyitvatartási időben! Feliratkozás nem szükséges!
 
 **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
 

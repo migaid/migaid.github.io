@@ -24,7 +24,7 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 ***Arany János street storage***
 
-Here we focs on collecting donations for the refugee camps. The storage facility is located at:
+Here we focus on collecting donations for the refugee camps. The storage facility is located at:
 
       Arany János street 32, 5th district, Budapest 1054
       Accepting donations for refugee camps
@@ -40,7 +40,8 @@ Here we accept the following (please note that we cannot accept food or drinks h
 - personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
 - baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
 - toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
-- kids and adult **man** clothes (in good condition, clean and if possible already sorted out and packed with a note about content. We do not need women's clothing at the time being.
+- Adult **man's** clothes, sizes S and M, in good condition, clean, and preferably sorted and labeled by content. Currently we do not collect women's anc children's clothing.
+- baby clothes
 - men’s shoes, sport shoes and slippers (not flip-flops)
 - women’s sport shoes and slippers (flat and not flip-flops)
 - underwear and socks for kids, women and men (only new, because of hygiene)
@@ -60,13 +61,9 @@ We are receiving donations and volunteers at the underground area of the Keleti 
 
 **Things most needed:**
 
-- shower gel, soap, razor, shaving foam, deodorant
-- 120-150 l garbage bags, lunch bags, hand sanitizer, paper towels, mosquito repellent
-- Calcium, Magnesium, plasters, disinfectant, gloves (for one use)
-- male clothes: T-shirt, shorts, socks, sport shoes (trainers)
 - bakery products, sliced bread
 - fruit (apple, banana, lemon), peeled carrot
-- cream cheese, poultry liver pate in easily openable cans, cans of fish (also easily openable)
+- cream cheese, cans of fish (easily openable)
 - 0.2 l juice 
 
 ***Mail order and online shopping donations***
@@ -76,7 +73,7 @@ If you want to send us your donations by mail or order online, we can receive th
       Ébredések Alapítvány
       for the name of Judit Harangozó
       Budapest, district 8, Kálvária square 5.
-      weekdays 10.00 - 16.00
+      weekdays 9.00 - 16.00
 
 Please note that delivery should be only on weekdays between 10.00 and 16.00 (not weekend, nor holidays).
 
