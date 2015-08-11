@@ -24,8 +24,6 @@ Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bi
 
 Keresd a [Migration Aid kitűzővel]({{ site.url }}/images/logo-160.jpg) ellátott rutinos segítőket, és csatlakozz hozzájuk!
 
-Segíthetsz csomagolni, illetve kihozni az adományokat a [raktárainkból]({{site.url }}/segits/adomanyok/).
-
 **Férfi önkéntesek** segítségét várjuk főként a Nyugati pályaudvarra esténként az ételosztás segítéséhez, a rend és szervezettség fenntartásához!
 
 **Orvosok, nővérek, pszichológusok, tolmácsok, fordítók, jogászok** segítségére nagy szükség van!

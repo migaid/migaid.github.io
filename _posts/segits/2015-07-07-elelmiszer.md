@@ -19,6 +19,7 @@ tags:
     - info
 ---
 **Nem tartós élelmiszer**
+
 A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulóban lévő tranzitállomások raktáraiban várunk. A **Keletiben** ez már működik: 
 
 	Budapest, Baross tér VIII. ker., 
@@ -40,14 +41,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - **gyümölcsök**: minden mennyiségben alma és banán
 - **csomagolt szárazsütemények**: kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
 - **péksütemény, szeletelt kenyér**
-- krémsajt (a "pufi" sajt), „tépőzáras” **szárnyas** májkrém, „tépőzáras” halkonzerv
-
-Az élelmiszereken kívül a Keleti Tranzitba lehet még hozni:
-
-- tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
-- kötszerek, gyógyszerek, elsősegélycsomag
-- 120-150 l-es szemeteszsák, uzsonnatasak, kézfertőtlenítő, papír kéztörlő, szúnyogirtó, egyszer használatos gumikesztyű
-- férfiruha: póló, rövidnadrág, zokni, sportcipő (mind tisztán)
+- krémsajt (a "pufi" sajt), „tépőzáras” halkonzerv
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
@@ -60,7 +54,7 @@ Cím:
 	Ébredések Alapítvány
 	Harangozó Judit
 	Budapest 1089, Kálvária tér 5.
-	hétköznapokon 10.00-16.00
+	hétköznapokon 9.00-16.00
 
 
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2696.0939556205994!2d19.085656999999998!3d47.488082999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dcf188281b39%3A0x1fc90c979e9e60c5!2sBaross+utca+5%2C+Budapest%2C+1089!5e0!3m2!1sen!2shu!4v1439209844508" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
