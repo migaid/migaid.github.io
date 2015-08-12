@@ -38,15 +38,16 @@ Here we accept the following (please note that we cannot accept food or drinks h
 - blankets, sleeping bags, mattresses (polifoam), towels (clean) 
 - medicine, bandages, first aid kit
 - personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
-- baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
-- toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
-- Adult **man's** clothes, sizes S and M, in good condition, clean, and preferably sorted and labeled by content. Currently we do not collect women's anc children's clothing.
-- baby clothes
+- cleaning products: washing liquid, softener, bleach, mopping set, plastic gloves, garbage bags
+- baby items: carriers, carriages (collapsible), diapers, wet wipes 
+- Adult **man's** clothes, sizes S and M, in good condition, clean, and preferably sorted and labeled by content. 
+      - **Currently we do not collect women's, baby's or children's clothing.**
 - men’s shoes, sport shoes and slippers (not flip-flops)
 - women’s sport shoes and slippers (flat and not flip-flops)
 - underwear and socks for kids, women and men (only new, because of hygiene)
 - large blue IKEA bags
 - deep (30-50 cm) boxes
+- modelling balloons, bubble makers and clown's nose, NO OTHER TOYS
 
 ***Keleti railway station tranzit area***
 We are receiving donations and volunteers at the underground area of the Keleti train station:

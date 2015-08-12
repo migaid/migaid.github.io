@@ -35,17 +35,19 @@ Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
 - takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
 - gyógyszerek, kötszerek, elsősegélycsomag
 - **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, egészségügyi betét
-- **babaholmi**: ruha, cipő, hordozó, babakocsi (esernyős), pelenka, törlőkendő
-- **kisméretű játékok** gyerekeknek: plüssök, kisautók, hajas baba, buborékfújó, labdák, valamint **tinédzsereknek**: társas, kártya, kirakó, focilabda, stb.
+- tisztító- és takarítószerek: mosópor, öblítő, felmosókészlet, gumikesztyű, szemtesszák, fertőtlenítőszerek
+- **babaholmi**: hordozó, babakocsi (esernyős), pelenka, törlőkendő
+	- **babaruhát és cipőt egyelőre nem kérünk**
 - **ruhák**: jó állapotú, tiszta, lehetőleg válogatva és felcímkézve.
 	- Férfi ruhából jelenleg S-es és M-es méretűeket gyűjtünk	
-	- Babaruhát továbbra is fogadunk
-	- Női és gyermek ruhára jelenleg nincs szükség!
+	- Női, baba és gyermek ruhára jelenleg nincs szükség!
 - férfi cipő, sportcipő és papucs (nem lábujjas)
 - női sportcipő, papucs (lapos és nem lábujjas)
 - gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
 - kék ikeás táskák
 - mély (30-50 cm mély) ládák
+- modellező lufi, buborékfújó és bohócorr
+	- **más játékot most nem kérünk**
 
 
 {% include alert info='Figyelem: itt élelmiszert nem tudunk fogadni!' %}
