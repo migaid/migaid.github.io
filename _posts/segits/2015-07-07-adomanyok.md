@@ -52,8 +52,9 @@ Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
 
 {% include alert info='Figyelem: itt élelmiszert nem tudunk fogadni!' %}
 
-
 A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
+
+A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
 
 **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
 
