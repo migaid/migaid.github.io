@@ -70,10 +70,16 @@ We are expecting donations and volunteers at our storages at the official tranzi
 
 **Things most needed:**
 
-- bakery products, sliced bread
-- fruit (apple, banana, lemon), peeled carrot
-- cream cheese, cans of fish (easily openable)
-- 0.2 l juice 
+- 0.5 l still water
+- 0.2 l fruit juice
+- apple and banana
+- muesli bars, chocolate bars, pre-packed (small portion) waffles, biscuits, snacks
+- bakery products and sliced bread
+- margarine, cream cheese, nutella, easily openable cans of beans and fish
+- plastic plates, cups and cutlery
+- instant soup powder
+- and personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, wet wipes for babies, diapers
+
 
 
 **We are in need of the following donations at Déli:**
