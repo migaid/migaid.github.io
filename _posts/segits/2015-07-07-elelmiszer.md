@@ -20,7 +20,7 @@ tags:
 ---
 **Nem tartós élelmiszer**
 
-A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulóban lévő tranzitállomások mellett kialakított Migration Aid raktárakan várunk. A **Déli pályaudvaron és a Keletiben** már működnek a tranzit állomások: 
+A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulóban lévő tranzitállomások mellett kialakított Migration Aid raktárakan várjuk.  
 
 
 **Keleti tranzit állomás Migration Aid raktár** 
@@ -53,7 +53,10 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - **gyümölcsök**: minden mennyiségben alma és banán
 - **csomagolt szárazsütemények**: kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
 - **péksütemény, szeletelt kenyér**
-- krémsajt (a "pufi" sajt), „tépőzáras” halkonzerv
+- margarin, krémsajt, nutella, halkonzerv és babkonzerv ("tépőzáras")
+- műanyag tányérok, poharak és evőeszközök
+- instant zacskós leves
+- Továbbá tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, nedves törlőkendő babáknak, pelenka
 
 {% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
