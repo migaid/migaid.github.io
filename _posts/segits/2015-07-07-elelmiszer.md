@@ -20,7 +20,14 @@ tags:
 ---
 **Nem tartós élelmiszer**
 
-A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulóban lévő tranzitállomások mellett kialakított Migration Aid raktárakan várjuk.  
+A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat és az önkénteseket a tranzitállomások mellett kialakított Migration Aid raktárakba várjuk.  
+
+**Nyugati tranzit állomás Migration Aid raktár**
+
+	Nyugati pályaudvari tranzit állomás
+	Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
+	(a 14-es vágány melletti kijárattól táblázva)
+	mindennap 9-22
 
 
 **Keleti tranzit állomás Migration Aid raktár** 
@@ -28,16 +35,15 @@ A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat az alakulób
 	Keleti pályaudvari tanzit állomás, aluljáró
 	Budapest, Baross tér VIII. ker., 
 	(a metró Rottenbiller utcai kijárata mellett)
-	minden nap 11.00 - 22.00
+	mindennap 11.00 - 22.00
 
-Ide várjuk az adományokat és az önkénteseket. A Migration Aid logó kint van az ajtókon, ha zárva az ajtó, kopogjatok be!
 
 **Déli tranzit állomás Migration Aid raktár**
 
 	Déli pályaudvari tranzit állomás, aluljáró
 	Budapest, Déli pályaudvar II. ker., 
 	(a kerengőben az aktikvárium mellett)
-	minden nap 0-24
+	mindennap 0-24
 
 
 
@@ -53,7 +59,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - **gyümölcsök**: minden mennyiségben alma és banán
 - **csomagolt szárazsütemények**: kis adagban gyárilag előrecsomagolt müzliszelet, nápolyi, keksz, csokoládé, édesség
 - **péksütemény, szeletelt kenyér**
-- margarin, krémsajt, nutella, halkonzerv és babkonzerv ("tépőzáras")
+- margarin, krémsajt,  mackósajt, uborka, nutella, halkonzerv és babkonzerv ("tépőzáras")
 - műanyag tányérok, poharak és evőeszközök
 - instant zacskós leves
 - Továbbá tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, nedves törlőkendő babáknak, pelenka
@@ -86,10 +92,10 @@ Amire a leginkább szükség van a pályaudvarok ellátásához:
 - buborékfújó
 
 
-**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) szívesen fogadunk az Arany János utca 32. címen. A részletes lista [itt található.]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
+**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) szívesen fogadunk az Arany János utca 32. címen. Az általános lista [itt található]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/), de a szükséglethez és a tárolókapacitáshoz mérten ezt a listát is naponta frissítjük a [Facebook-oldalunkon](https://www.facebook.com/migrationaidhungary), ezért kérjük adományozás előtt nézd meg az aznapi igényeket.
 
 **Online rendelés, csomagküldés**
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Ébredések Alapítvány címére (Harangozó Judit nevére) a Budapest 1089, Kálvária tér 5. címen hétköznap 10.00 és 16.00 között (hétvégén és ünnepnapokon nem) házhozszállítással.
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Ébredések Alapítvány címére (Harangozó Judit nevére) a Budapest 1089, Kálvária tér 5. címen hétköznap 9.00 és 16.00 között (hétvégén és ünnepnapokon nem) házhozszállítással.
 

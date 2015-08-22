@@ -46,8 +46,7 @@ Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
 - gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
 - kék ikeás táskák
 - mély (30-50 cm mély) ládák
-- modellező lufi, buborékfújó és bohócorr
-	- **más játékot most nem kérünk**
+- **gyerekjátékot most nem kérünk**
 
 
 {% include alert info='Figyelem: itt élelmiszert nem tudunk fogadni!' %}

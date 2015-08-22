@@ -14,11 +14,20 @@ header:
 
 {% include alert info='Táborokba szállító adományközpontunk: Budapest, V. kerület, Arany János utca 32. Ide tárgyi adományokat (élelmiszert nem) várunk mindennap 16.00 - 20.00.' %}
 
-{% include alert info='Nem tartós élelmiszert, az alakulóban lévő tranzitállomások raktáraiban várunk. A Keleti pályaudvaron: Budapest, Baross tér VIII. ker., Keleti aluljáró, Migration Aid raktár (a metró Rottenbiller utcai kijárata mellett) mindennap 11.00 - 22.00 várjuk az adományokat és az önkénteseket. A Migration Aid logó kint van az ajtókon, ha zárva az ajtó, kopogjatok be! A Déli pályaudvaron a Budapest, II. ker. Déli pályaudvari kerengőben az antikvárium mellett taláható adománygyűjtő raktárunk, ahova mindennap 0-24 lehet hozni az adományokat.
+{% include alert info='Nem tartós élelmiszert a tranzitállomások raktáraiban várunk. Naponta frissülő admonyánlistánkat a Facebook-oldalunkon találjátok: https://www.facebook.com/migrationaidhungary' %}
+[ugrás a Facebook oldalra](https://www.facebook.com/migrationaidhungary)
+
+A **Nyugati pályaudvari Tranzit** az Eiffel irodaház mögött, a 14-es vágánytól jobbra ki van táblázva a Tranzit zone felirat, nyitva mindennap 9-22. 
+
+A **Déli pályaudvari Tranzit** raktára a kerengőben, az antikvárium mellett mindennap 0-24 várja az adományokat. 
+
+
+A **Keleti pályaudvari Tranzit** raktára az aluljáróban, a pályaudvartól távolabb eső metró kijáratnál található és mindennap 11-22 van nyitva.
+
 
 {% include alert info='Házhozszállítást, csomagküldést az Ébredések Alapítvány címére Harangozó Judit nevére tudunk fogadni a Budapest 1089, Kálvária tér 5. címen hétköznap 10.00 és 16.00 között (hétvégén és ünnepnapokon nem). Az Ébredés Alapítványhoz továbbra is fogadunk konzerveket (zöldborsó, csicseriborsó, bab és lencse), valamint rizst.' %}
 
-**A  Keleti és Déli Tranzitba és a Nyugati és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
+**A Nyugati és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
 
 
 <div class="row t30">

@@ -47,10 +47,18 @@ Here we accept the following (please note that we cannot accept food or drinks h
 - underwear and socks for kids, women and men (only new, because of hygiene)
 - large blue IKEA bags
 - deep (30-50 cm) boxes
-- modelling balloons, bubble makers and clown's nose, NO OTHER TOYS
+- TOYS: currently we don't collect toys because we have got plenty
 
 ***Storage faclities in the tranzit areas***
-We are expecting donations and volunteers at our storages at the official tranzit areas at **Keleti and Déli** railway stations. 
+We are expecting donations and volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 
+
+**Nyugati Storage at Nyugati railway station Tranzit area**
+      
+      Budapest, Nyugati railway station
+      behind the Eiffel office building, from lane 14 the Tranzit area is signaled with boards
+      Accepting donations for refugees travelling to camps
+      every day 09.00 - 22.00
+
       
  **Keleti Storage at Keleti railway station Tranzit area**
 
@@ -68,26 +76,19 @@ We are expecting donations and volunteers at our storages at the official tranzi
 
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 
-**Things most needed:**
+**Things most needed in Tranzit areas in general:**
 
 - 0.5 l still water
 - 0.2 l fruit juice
 - apple and banana
 - muesli bars, chocolate bars, pre-packed (small portion) waffles, biscuits, snacks
 - bakery products and sliced bread
-- margarine, cream cheese, nutella, easily openable cans of beans and fish
+- margarine, cream cheese, cucumber, nutella, easily openable cans of beans and fish
 - plastic plates, cups and cutlery
 - instant soup powder
 - and personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, wet wipes for babies, diapers
 
-
-
-**We are in need of the following donations at Déli:**
-- 0.5 li still water
-- 0.2 l fruit juice
-- muesli bars, chocolate bars, pre-packed (small portion) waffles, biscuits, snacks
-- personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
-
+However, depending on the conditions we might also collect other things, such as raincoats, sweaters, personal hygiene items. Please, check our [Facebook page](https://www.facebook.com/migrationaidhungary) before going to donate, as we publish an updated list daily with that day’s necessities for each Tranzit area. We also welcome volunteers to help sort and distribute donations, give information and attend arriving asylum seekers.
 
 ***Mail order and online shopping donations***
 If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery attributes!

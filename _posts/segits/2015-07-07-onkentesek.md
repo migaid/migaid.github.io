@@ -18,7 +18,7 @@ tags:
     - info
 ---
 
-Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, ahova érkeznek vagy ahonnan tovább indulnak a menekültek. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
+Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, Szolnokon, Békéscsabán és Székesfehérváron, ahova érkeznek vagy ahonnan tovább indulnak a menekültek. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
 
 {% include alert text='Minden segítő kézre szükség van, még ha csak egy órára érsz is rá!' %}
 
