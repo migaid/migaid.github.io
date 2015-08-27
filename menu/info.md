@@ -11,6 +11,8 @@ header:
    image_fullwidth: "header.jpg"
 
 ---
+- 2015/08/26: [Rövid Migration Aid tájékoztató 7 nyelven a menekültek számára (pdf)]({{ site.url }}{{ site.baseurl }}/files/rovid_tajekoztato_7_nyelven.pdf)  Nyelvek: angol, arab, farszi, pastu, urdu, magyar, francia
+- 2015/08/24: [A Helsinki Bizottság tájékoztatója a menedékjogi eljárásról az augusztusi változások után](http://helsinki.hu/uj-tajekoztato-anyag-a-menedekjogi-eljarasrol-az-augusztusi-valtozasok-utan)
 - 2015/08/08: [Rövid Migration Aid tájékoztató 6 nyelven a menekültek számára (pdf)]({{ site.url }}{{ site.baseurl }}/files/rovid_tajekoztato_6_nyelven.pdf)  Nyelvek: angol, arab, farszi, pastu, urdu, magyar
 - 2015/08/08: [Szótár menedékkérőknek (pfd) - frissült!]({{ site.url }}{{ site.baseurl }}/files/migaid-szotar.pdf).
 - 2015/07/23: [OEP állásfoglalás (pfd)]({{ site.url }}{{ site.baseurl }}/files/oep-allasfoglalas.pdf) a menekültek eü ellátásáról.
