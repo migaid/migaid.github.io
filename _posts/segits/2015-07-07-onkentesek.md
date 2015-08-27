@@ -18,13 +18,11 @@ tags:
     - info
 ---
 
-Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, ahova érkeznek vagy ahonnan tovább indulnak a menekültek. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
+Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, Szolnokon, Békéscsabán és Székesfehérváron, ahova érkeznek vagy ahonnan tovább indulnak a menekültek. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
 
 {% include alert text='Minden segítő kézre szükség van, még ha csak egy órára érsz is rá!' %}
 
 Keresd a [Migration Aid kitűzővel]({{ site.url }}/images/logo-160.jpg) ellátott rutinos segítőket, és csatlakozz hozzájuk!
-
-Segíthetsz csomagolni, illetve kihozni az adományokat a [raktárainkból]({{site.url }}/segits/adomanyok/).
 
 **Férfi önkéntesek** segítségét várjuk főként a Nyugati pályaudvarra esténként az ételosztás segítéséhez, a rend és szervezettség fenntartásához!
 

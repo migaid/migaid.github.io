@@ -20,57 +20,103 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-{% include alert info='From 3rd August 2015, Monday, Migration Aid opens a new storage facility at Arany János street 32, Budapest' %}
+**Dontaion Centers and Storage Locations**
 
-      Storage rooms
+***Arany János street storage***
+
+Here we focus on collecting donations for the refugee camps. The storage facility is located at:
+
       Arany János street 32, 5th district, Budapest 1054
       Accepting donations for refugee camps
       every day 16.00 - 20.00
 
-This storage room will focus on donations for the refugee camps, and we accept following donations:
+
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.352087543368!2d19.053386!3d47.502534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc14ca087bed%3A0xd29042512db8ff08!2sArany+J%C3%A1nos+u.+32%2C+Budapest%2C+1051!5e0!3m2!1sen!2shu!4v1439208024356" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+
+Here we accept the following (please note that we cannot accept food or drinks here):
 
 - blankets, sleeping bags, mattresses (polifoam), towels (clean) 
 - medicine, bandages, first aid kit
 - personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
-- baby items: clothes, shoes, carriers, carriages (collapsible), diapers, wet wipes 
-- toys for children (plush, cars, balls, dolls, bubble makers etc.) and for teenagers (board games, puzzle, cards, football, etc.) 
-- kids and adult **man** clothes (in good condition, clean and if possible already sorted out and packed with a note about content. We do not need women's clothing at the time being.
+- cleaning products: washing liquid, softener, bleach, mopping set, plastic gloves, garbage bags
+- baby items: carriers, carriages (collapsible), diapers, wet wipes 
+- Adult **man's** clothes, sizes S and M, in good condition, clean, and preferably sorted and labeled by content. 
+      - **Currently we do not collect women's, baby's or children's clothing.**
 - men’s shoes, sport shoes and slippers (not flip-flops)
 - women’s sport shoes and slippers (flat and not flip-flops)
-- underwear and socks for kids, women and men (only new, because of hygiene) 
+- underwear and socks for kids, women and men (only new, because of hygiene)
+- large blue IKEA bags
+- deep (30-50 cm) boxes
+- TOYS: currently we don't collect toys because we have got plenty
 
-{% include alert info='Our donation center at Kalicka Bistro at Rottenbiller street 32, in district 7, Budapest, continues its work and expects donations needed for refugees travelling to camps.' %}
+***Storage faclities in the tranzit areas***
+We are expecting donations and volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 
 
-      Donation center at Kalicka Bistro
-      Rottenbiller street 32, 7th district, Budapest 1077
+**Nyugati Storage at Nyugati railway station Tranzit area**
+      
+      Budapest, Nyugati railway station
+      behind the Eiffel office building, from lane 14 the Tranzit area is signaled with boards
       Accepting donations for refugees travelling to camps
-      every day 15.00 - 20.00
-      until 9 August 2015
+      every day 09.00 - 22.00
 
-Things most needed:
+      
+ **Keleti Storage at Keleti railway station Tranzit area**
+
+      Budapest, district 8, Baross square
+      underground, right from the Rottenbiller street exit
+      Accepting donations for refugees travelling to camps
+      every day 11.00 - 22.00
+
+**Déli Storage at Déli underground Tranzit area**
+
+      Budapest, district 2, Déli train station
+      underground, next to the second-hand bookstore (antikvárium)
+      Accepting donations for refugees travelling to camps
+      every day 0-24
+
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+
+**Things most needed in Tranzit areas in general:**
+
+- 0.5 l still water
+- 0.2 l fruit juice
+- apple and banana
+- muesli bars, chocolate bars, pre-packed (small portion) waffles, biscuits, snacks
+- bakery products and sliced bread
+- margarine, cream cheese, cucumber, nutella, easily openable cans of beans and fish
+- plastic plates, cups and cutlery
+- instant soup powder
+- and personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, wet wipes for babies, diapers
+
+However, depending on the conditions we might also collect other things, such as raincoats, sweaters, personal hygiene items. Please, check our [Facebook page](https://www.facebook.com/migrationaidhungary) before going to donate, as we publish an updated list daily with that day’s necessities for each Tranzit area. We also welcome volunteers to help sort and distribute donations, give information and attend arriving asylum seekers.
+
+***Mail order and online shopping donations***
+If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery attributes!
+If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
+      
+      Ébredések Alapítvány
+      for the name of Judit Harangozó
+      Budapest, district 8, Kálvária square 5.
+      weekdays 9.00 - 16.00
+
+Please note that delivery should be only on weekdays between 10.00 and 16.00 (not weekend, nor holidays).
+
+ The most needed items for the supply of train stations:
 
 - 0.5 liters natural water
 - 0.2 liters fruit juice
 - musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
 - apples, bananas
-- BKK tickets
 - personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
 - medicines, bandages, first aid kit, astma spray
 - bubble makers and kites
 
-**Please do not bring** these kind of donations, because we cannot accept them:
-
-- sandwich ingredients
-- warm foods
-- medicines
-
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
+**Volunteering**
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our donation center** at Rottenbiller street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
-
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Kalicka Bistro. Watch for opening time of storage facilities when setting delivery attributes! Please note that Kalicka Bistro accepts donations only until 9 August 2015. We will soon publish a new address where you can send shipments, please check back for more info!
+We **need help at our donation center** at 32 Arany János street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
