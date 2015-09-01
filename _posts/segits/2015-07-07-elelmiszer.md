@@ -92,7 +92,10 @@ Amire a leginkább szükség van a pályaudvarok ellátásához:
 - buborékfújó
 
 
-**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) szívesen fogadunk az Arany János utca 32. címen. Az általános lista [itt található]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/), de a szükséglethez és a tárolókapacitáshoz mérten ezt a listát is naponta frissítjük a [Facebook-oldalunkon](https://www.facebook.com/migrationaidhungary), ezért kérjük adományozás előtt nézd meg az aznapi igényeket.
+**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) általában szívesen fogadunk, de jelenleg ezek átvétele szünetel, mert korábban az Arany János utca 32 címen található raktárunk már bezárt és az új helyszín még nem nyílt meg. Az új címet hamarosan közzétesszük!  
+Az általános lista [itt található]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/), de a szükséglethez és a tárolókapacitáshoz mérten ezt a listát is naponta frissítjük a [Facebook-oldalunkon](https://www.facebook.com/migrationaidhungary), ezért kérjük adományozás előtt nézd meg az aznapi igényeket.
+
+Ha nagyobb tárgyi vagy szolgáltatásbeli felajánlást szeretnél tenni, kérjük az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen egyeztess velünk! Köszönjük!
 
 **Online rendelés, csomagküldés**
 

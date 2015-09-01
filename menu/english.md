@@ -20,20 +20,11 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-**Dontaion Centers and Storage Locations**
+**Donation Centers and Storage Locations**
 
-***Arany János street storage***
+**Our storage at Arany János street closed** on 31 August. Here we no longer accept donations. Our new location will be published soon.
 
-Here we focus on collecting donations for the refugee camps. The storage facility is located at:
-
-      Arany János street 32, 5th district, Budapest 1054
-      Accepting donations for refugee camps
-      every day 16.00 - 20.00
-
-
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.352087543368!2d19.053386!3d47.502534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc14ca087bed%3A0xd29042512db8ff08!2sArany+J%C3%A1nos+u.+32%2C+Budapest%2C+1051!5e0!3m2!1sen!2shu!4v1439208024356" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
-
-Here we accept the following (please note that we cannot accept food or drinks here):
+At our new storage facility we will accept the following:
 
 - blankets, sleeping bags, mattresses (polifoam), towels (clean) 
 - medicine, bandages, first aid kit
@@ -48,6 +39,10 @@ Here we accept the following (please note that we cannot accept food or drinks h
 - large blue IKEA bags
 - deep (30-50 cm) boxes
 - TOYS: currently we don't collect toys because we have got plenty
+
+
+
+If you would like to donate a larger quantity of goods or services, please contact us via adomany@migrationaid.net to discuss the details. Thank you!
 
 ***Storage faclities in the tranzit areas***
 We are expecting donations and volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 

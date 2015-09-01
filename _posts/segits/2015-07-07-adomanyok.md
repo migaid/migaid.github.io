@@ -19,18 +19,9 @@ tags:
     - info
 ---
 
-{% include alert info='A Migration Aid adományközpontjába mindennap 16.00 - 20.00 között várjuk a tárgyi adományokat! Ennek a raktárnak az elsődleges célja a befogadó táborokba szánt adományok gyűjtése.' %}
+{% include alert info='A Migration Aid adományközpontjában az adományok átvétele szünetel költözés miatt. Az Arany János 32-ben található raktárunk bezárt, már semmilyen adományt nem fogad. Az új helyszín részleteit hamarosan közzétesszük.' %}
 
-Cím:
-	
-	Arany János utca 32
-	Budapest 1054
-	Minden nap 16.00-20.00
-
-
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.352087543368!2d19.053386!3d47.502534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc14ca087bed%3A0xd29042512db8ff08!2sArany+J%C3%A1nos+u.+32%2C+Budapest%2C+1051!5e0!3m2!1sen!2shu!4v1439208024356" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
-
-Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
+Ha új raktárunk megnyílik, abban az alábbi adományokat várjuk majd:
 
 - takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
 - gyógyszerek, kötszerek, elsősegélycsomag
@@ -53,9 +44,11 @@ Az **Arany János utcai raktárban** az alábbi adományokat várjuk:
 
 A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
 
-A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
+A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a Tranzitokba és a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok és a Tranzitok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
 
 **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
+
+Az adományok átvétele az Arany János utca 32. szám alatt 2015.augusztus 31-én megszűnt. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
 
 Augusztus 10-től korábbi adománygyűjtő helyünk a Kalicka Bistro (Rottenbiller utca 32) nem fogad már adományokat. Nagyon köszönjük a tulajdonosnak, Tóth Eszternek, hogy rendelkezésünkre bocsátotta a helyiséget!
 
