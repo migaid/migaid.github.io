@@ -88,7 +88,6 @@ Amire a leginkább szükség van a pályaudvarok ellátásához:
 - konzervek: bab, lencse, csicseriborsó, zöldborsó
 - rizs
 - tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
-- kötszerek, gyógyszerek, elsősegélycsomag
 - buborékfújó
 
 

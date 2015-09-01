@@ -85,8 +85,24 @@ We are expecting donations and volunteers at our storages at the official tranzi
 
 However, depending on the conditions we might also collect other things, such as raincoats, sweaters, personal hygiene items. Please, check our [Facebook page](https://www.facebook.com/migrationaidhungary) before going to donate, as we publish an updated list daily with that day’s necessities for each Tranzit area. We also welcome volunteers to help sort and distribute donations, give information and attend arriving asylum seekers.
 
-***Mail order and online shopping donations***
-If you live far away but you would still like to donate something, we can recommend for example **online shopping**, at Tesco or GRoby, paid online and shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery attributes!
+
+**IF YOU WOULD LIKE TO DONATE MONEY**
+
+Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
+
+When you donate, please send an e-mail to the adomany@migrationaid.net address with the amount you have given, so we can also keep track of the donations. 
+
+      Beneficiary name: Mikszáth Gyógyszertár az Egészségért Alapítvány 
+      Comment: Migration Aid
+      Bank account number: 10918001-00000067-39140008 
+      Name of the bank: UniCredit Bank Hungary 
+      Address of the bank: 1054 Budapest, Szabadság tér 5-6., Hungary
+      IBAN: HU69 1091 8001 0000 0067 3914 0008 
+      SWIFT: BACXHUHB
+
+
+**Online shopping donations**
+Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery (weekdays only 9.00 – 16.00)!
 If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
       
       Ébredések Alapítvány
