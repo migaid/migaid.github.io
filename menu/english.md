@@ -109,7 +109,7 @@ When you donate, please send an e-mail to the adomany@migrationaid.net address w
 
 **Online shopping donations**
 
-Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery (weekdays only 9.00 – 16.00)!
+Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street.
 If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
       
       Verseny street 10
