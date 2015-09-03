@@ -46,6 +46,10 @@ A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/
 
 A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a Tranzitokba és a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok és a Tranzitok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
 
+
+{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
+
+
 **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
 
 Az adományok átvétele az Arany János utca 32. szám alatt 2015.augusztus 31-én megszűnt. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
