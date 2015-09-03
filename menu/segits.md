@@ -12,7 +12,16 @@ header:
 
 ---
 
-**ÚJ RAKTÁRUNK NYÍLIK **
+{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
+
+Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, **NE HOZZATOK SEMMIT**, se a Verseny utcába, se a Kálváriába, se a Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
+
+Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, hogy ismét tudunk adományokat átvenni. Addig is türelmeteket kérjük! Nagyon köszönjük! 
+
+Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
+
+**ÚJ RAKTÁRUNK NYÍLIK**
+
 A Budapest 1076, VII.ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án csütörtökön nyit és mindennap 16.00 és 20.00 között várja az adományokat. [A szükséges adományok listája itt]({{siteurl}}/segits/adomanyok).
 
 
