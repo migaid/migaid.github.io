@@ -68,17 +68,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
 **Tartós élemiszer**
 
-Tartós élelmiszert az **Ébredések Alapítvány** címére, Harangozó Judit nevére tudunk fogadni hétköznap 9.00 és 16.00 között (hétvégén és ünnepnapokon nem). 
-
-Cím:
-	
-	Ébredések Alapítvány
-	Harangozó Judit
-	Budapest 1089, Kálvária tér 5.
-	hétköznapokon 9.00-16.00
-
-
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2696.0939556205994!2d19.085656999999998!3d47.488082999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dcf188281b39%3A0x1fc90c979e9e60c5!2sBaross+utca+5%2C+Budapest%2C+1089!5e0!3m2!1sen!2shu!4v1439209844508" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+Tartós élelmiszert az **verseny utcai raktár**  (Budapest 1076 Verseny utca 10) címén tudunk fogadni mindennap 16.00 és 20.00 között.
 
 Amire a leginkább szükség van a pályaudvarok ellátásához:
 
@@ -91,13 +81,17 @@ Amire a leginkább szükség van a pályaudvarok ellátásához:
 - buborékfújó
 
 
-**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) általában szívesen fogadunk, de jelenleg ezek átvétele szünetel, mert korábban az Arany János utca 32 címen található raktárunk már bezárt és az új helyszín még nem nyílt meg. Az új címet hamarosan közzétesszük!  
+**Tárgyi adományokat** (gyerek és felnőtt ruhák, cipők, gyerekjátékok, tisztálkodási szerek, babaápolási kellékek, babapelenka, stb.) átvétele a Verseny utcai raktárban.   
 Az általános lista [itt található]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/), de a szükséglethez és a tárolókapacitáshoz mérten ezt a listát is naponta frissítjük a [Facebook-oldalunkon](https://www.facebook.com/migrationaidhungary), ezért kérjük adományozás előtt nézd meg az aznapi igényeket.
+
+{% include alert text='A raktárainkba hirtelen rengeteg adomány érkezett, a kapacitásunk pedig szűkös. Ezért arra kérünk, hogy tárgyi adományodat inkább 1-2 hét múlva hozdd el hozzánk. Köszönjük!' %}
 
 Ha nagyobb tárgyi vagy szolgáltatásbeli felajánlást szeretnél tenni, kérjük az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen egyeztess velünk! Köszönjük!
 
 **Online rendelés, csomagküldés**
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Ébredések Alapítvány címére (Harangozó Judit nevére) a Budapest 1089, Kálvária tér 5. címen hétköznap 9.00 és 16.00 között (hétvégén és ünnepnapokon nem) házhozszállítással.
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a raktár címére.
+
+{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
 

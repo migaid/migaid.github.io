@@ -13,7 +13,7 @@ header:
 ---
 
 **ÚJ RAKTÁRUNK NYÍLIK **
-A Budapest 1076, VII.ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án csütörtökön nyit és mindennap 16.00 és 20.00 várja az adományokat. [A szükséges adományok listája itt]({{siteurl}}/segits/adomanyok).
+A Budapest 1076, VII.ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án csütörtökön nyit és mindennap 16.00 és 20.00 között várja az adományokat. [A szükséges adományok listája itt]({{siteurl}}/segits/adomanyok).
 
 
 {% include alert info='Nem tartós élelmiszert a tranzitállomások raktáraiban várunk. Naponta frissülő admonyánlistánkat a Facebook-oldalunkon találjátok: https://www.facebook.com/migrationaidhungary' %}
@@ -26,8 +26,9 @@ A **Déli pályaudvari Tranzit** raktára a kerengőben, az antikvárium mellett
 
 A **Keleti pályaudvari Tranzit** raktára az aluljáróban, a pályaudvartól távolabb eső metró kijáratnál található és mindennap 11-22 van nyitva.
 
+Házhozszállítást, csomagküldést is a Verseny utcai raktárban tudunk fogadni.
 
-{% include alert info='Házhozszállítást, csomagküldést az Ébredések Alapítvány címére Harangozó Judit nevére tudunk fogadni a Budapest 1089, Kálvária tér 5. címen hétköznap 10.00 és 16.00 között (hétvégén és ünnepnapokon nem). Az Ébredés Alapítványhoz továbbra is fogadunk konzerveket (zöldborsó, csicseriborsó, bab és lencse), valamint rizst.' %}
+{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
 
 **A Nyugati, Keleti és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
 

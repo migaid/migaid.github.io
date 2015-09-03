@@ -108,15 +108,16 @@ When you donate, please send an e-mail to the adomany@migrationaid.net address w
 
 
 **Online shopping donations**
-Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Ébredés Alapítvány. Watch for opening time of storage facilities when setting delivery (weekdays only 9.00 – 16.00)!
+
+Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street.
 If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
       
-      Ébredések Alapítvány
-      for the name of Judit Harangozó
-      Budapest, district 8, Kálvária square 5.
-      weekdays 9.00 - 16.00
+      Verseny street 10
+      1076 Budapest 
+      (north from Keleti railway station)
+      every day 16.00 - 20.00. 
 
-Please note that delivery should be only on weekdays between 10.00 and 16.00 (not weekend, nor holidays).
+{% include alert info='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD FOR A WEEK! Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding!' %}
 
  The most needed items for the supply of train stations:
 
@@ -125,7 +126,6 @@ Please note that delivery should be only on weekdays between 10.00 and 16.00 (no
 - musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
 - apples, bananas
 - personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
-- medicines, bandages, first aid kit, astma spray
 - bubble makers and kites
 
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
@@ -133,7 +133,7 @@ Please note that delivery should be only on weekdays between 10.00 and 16.00 (no
 **Volunteering**
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
 
-We **need help at our donation center** at 32 Arany János street, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
+We **need help at our donation center** at versen utca, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
