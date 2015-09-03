@@ -12,6 +12,10 @@ header:
 
 ---
 
+**ÚJ RAKTÁRUNK NYÍLIK **
+A Budapest 1076, VII.ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án csütörtökön nyit és mindennap 16.00 és 20.00 várja az adományokat. [A szükséges adományok listája itt]({{siteurl}}/segits/adomanyok).
+
+
 {% include alert info='Nem tartós élelmiszert a tranzitállomások raktáraiban várunk. Naponta frissülő admonyánlistánkat a Facebook-oldalunkon találjátok: https://www.facebook.com/migrationaidhungary' %}
 [ugrás a Facebook oldalra](https://www.facebook.com/migrationaidhungary)
 

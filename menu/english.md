@@ -22,29 +22,36 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Donation Centers and Storage Locations**
 
-**Our storage at Arany János street closed** on 31 August. Here we no longer accept donations. Our new location will be published soon.
+{% include alert info='Our storage at Arany János street closed. Here we no longer accept donations.' %} 
 
-At our new storage facility we will accept the following:
+**NEW STORAGE: Verseny street 10**
 
-- blankets, sleeping bags, mattresses (polifoam), towels (clean) 
-- medicine, bandages, first aid kit
-- personal hygiene items: soap, shower gel, shampoo, razor, shaving foam, deodorant, toothpaste, toothbrush, sanitary pads
-- cleaning products: washing liquid, softener, bleach, mopping set, plastic gloves, garbage bags
-- baby items: carriers, carriages (collapsible), diapers, wet wipes 
-- Adult **man's** clothes, sizes S and M, in good condition, clean, and preferably sorted and labeled by content. 
-      - **Currently we do not collect women's, baby's or children's clothing.**
-- men’s shoes, sport shoes and slippers (not flip-flops)
-- women’s sport shoes and slippers (flat and not flip-flops)
-- underwear and socks for kids, women and men (only new, because of hygiene)
-- large blue IKEA bags
-- deep (30-50 cm) boxes
-- TOYS: currently we don't collect toys because we have got plenty
+Our new storage room  is opening on 3rd September, Thursday. 
+Address and opening hours:
+
+      Verseny street 10
+      1076 Budapest 
+      (north from Keleti railway station)
+      every day 16.00 - 20.00. 
+
+We are looking forward to receive the following donations here (daily updated list is available on our [Facebook page](https://www.facebook.com/migrationaidhungary):
 
 
+- blankets, sleeping bags, polifoam (yoga mattress) 
+- raincoat 
+- 0.5 l still water 
+- 0.2 l fruit juice 
+- pre-packed snack food (biscuits, waffles, muesli, candies) in small portions 
+- fruit (banana, apply) 
+
+At the moment we DO NOT COLLECT ANY TYPE OF CLOTHES. Please follow our Facebook page where we post the actual needs daily and we will communicate when we collect clothes again. Thank you!
+Please only bring those items to our storage room which are listed above. There is a reason why the list is short and that is your immense generosity, since we received a tremendous amount of donations in the past few days and many of you informed us about online orders to be shipped in the next two weeks but our storage facilities are limited. Therefore, we will only collect clothes, toys, hygiene items again, once the accumulated storages are reduced. We will update the donation list on Facebook every morning 7 am CET with the daily needs.
 
 If you would like to donate a larger quantity of goods or services, please contact us via adomany@migrationaid.net to discuss the details. Thank you!
 
-***Storage faclities in the tranzit areas***
+
+**Storage faclities in the tranzit areas**
+
 We are expecting donations and volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 
 
 **Nyugati Storage at Nyugati railway station Tranzit area**
@@ -69,7 +76,6 @@ We are expecting donations and volunteers at our storages at the official tranzi
       Accepting donations for refugees travelling to camps
       every day 0-24
 
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1347.7420789986747!2d19.081605084579945!3d47.499961616993176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc89ed85b587%3A0x6b75c3ede804dc7a!2zQnVkYXBlc3QsIEJhcm9zcyB0w6lyaSBhbHVsasOhcsOz!5e0!3m2!1sen!2shu!4v1439208100610" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 
 **Things most needed in Tranzit areas in general:**
 

@@ -19,28 +19,28 @@ tags:
     - info
 ---
 
-{% include alert info='A Migration Aid adományközpontjában az adományok átvétele szünetel költözés miatt. Az Arany János 32-ben található raktárunk bezárt, már semmilyen adományt nem fogad. Az új helyszín részleteit hamarosan közzétesszük.' %}
+{% include alert info='Az Arany János 32-ben található raktárunk bezárt, már semmilyen adományt nem fogad.' %}
 
-Ha új raktárunk megnyílik, abban az alábbi adományokat várjuk majd:
+**ÚJ RAKTÁR: Verseny utca 10**
 
-- takarók, plédek, hálózsákok, jógamatrac (polifoam), törölközők (tisztán)
-- gyógyszerek, kötszerek, elsősegélycsomag
-- **tisztálkodószerek**: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, egészségügyi betét
-- tisztító- és takarítószerek: mosópor, öblítő, felmosókészlet, gumikesztyű, szemtesszák, fertőtlenítőszerek
-- **babaholmi**: hordozó, babakocsi (esernyős), pelenka, törlőkendő
-	- **babaruhát és cipőt egyelőre nem kérünk**
-- **ruhák**: jó állapotú, tiszta, lehetőleg válogatva és felcímkézve.
-	- Férfi ruhából jelenleg S-es és M-es méretűeket gyűjtünk	
-	- Női, baba és gyermek ruhára jelenleg nincs szükség!
-- férfi cipő, sportcipő és papucs (nem lábujjas)
-- női sportcipő, papucs (lapos és nem lábujjas)
-- gyerek, férfi és női alsónemű és zokni (higiéniai okokból csak új)
-- kék ikeás táskák
-- mély (30-50 cm mély) ládák
-- **gyerekjátékot most nem kérünk**
+	Verseny utca 10
+	Budapest 1076
+	(a Keleti mellett, a Városliget felé eső oldalon)	
+	mindennap 16.00 - 20.00
 
+A Budapest 1076, VII. ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án, csütörtökön nyit és mindennap 16.00 és 20.00 között a következő felajánlásokat várja (a lista a [Facebook-oldalon](https://www.facebook.com/migrationaidhungary) naponta frissül):  
 
-{% include alert info='Figyelem: itt élelmiszert nem tudunk fogadni!' %}
+- takaró, hálózsák, polifoam (jógamatrac) 
+- esőkabát 
+- félliteres szénsavmentes ásványvíz 
+ - kis dobozos gyümölcslé  
+- kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség  
+- gyümölcs (alma, banán)
+
+Egyelőre **SEMMILYEN RUHA ADOMÁNYT** nem tudunk fogadni. Kérjük, kísérjétek figyelemmel tájékoztatásainkat, hogy a hűvösebb, esős napok beálltával pontosan mikor, milyen ruhára lesz szükség. Köszönjük!
+
+Nagyon szépen kérjük, hogy tényleg csak azt hozzatok a raktárba, ami a listában szerepel. Nem véletlenül korlátozott a lista, ugyanis hála a sok jószívű embernek temérdek adomány érkezett már be a napokban, és rengetegen jelezték, hogy küldtek adományokat kiszállítással a következő 2 hétben, viszont a tárolási lehetőségeink korlátozottak, ezért ruhát, játékot, higiéniai szereket majd csak akkor gyűjtünk megint, ha a felhalmozott készletek elfogytak. A listát minden reggel 7 óra körül frissítjük majd az aktuális igényekkel a facebook-oldalunkon.
+
 
 A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
 
