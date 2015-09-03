@@ -20,6 +20,17 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
+
+
+{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED! PLEASE, DO NOT BRING/SEND DONATIONS ANYWHERE FROM 4TH SEPT! ' %} 
+
+We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to **NOT TO BRING ANYTHING** either to Verseny street, Kálvária square, nor to any of the Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
+
+Once we have arranged our storages, we will inform you here on our Facebook page and then you can bring more donations. Until then, we will be eternally grateful for your patience! Thank you! Those who have already dispacthed an online order or shipment to us, do not worry! 
+
+We will accept each order that arrives. If you want to send us something now, please schedule the delivery later than 15 September to Verseny street, or wait until further notice.
+
+
 **Donation Centers and Storage Locations**
 
 {% include alert info='Our storage at Arany János street closed. Here we no longer accept donations.' %} 
