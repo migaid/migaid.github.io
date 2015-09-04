@@ -22,7 +22,11 @@ Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bi
 
 {% include alert text='Minden segítő kézre szükség van, még ha csak egy órára érsz is rá!' %}
 
-Keresd a [Migration Aid kitűzővel]({{ site.url }}/images/logo-160.jpg) ellátott rutinos segítőket, és csatlakozz hozzájuk!
+Ha teheted, lépj be a különböző pályaudvarok önkénteseit tömörítő facebook csoportokba. Ott találsz eligazító anayagokat, beosztásokat, embereket, akikkkel felveheted a kapocsolatot. 
+
+[Főcsoport](https://www.facebook.com/groups/1602563053360018/), [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/)
+
+De természetesen egyszerűen od ais sétálhatsz a tranzit zónába. Keresd a [Migration Aid kitűzővel]({{ site.url }}/images/logo-160.jpg) ellátott rutinos segítőket, és csatlakozz hozzájuk!
 
 **Férfi önkéntesek** segítségét várjuk főként a Nyugati pályaudvarra esténként az ételosztás segítéséhez, a rend és szervezettség fenntartásához!
 

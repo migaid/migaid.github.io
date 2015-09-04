@@ -12,7 +12,7 @@ header:
 
 ---
 
-{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
+{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA A VERSENY UTCÁBAN ÉS A TRANZITOKBAN ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
 
 Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, **NE HOZZATOK SEMMIT**, se a Verseny utcába, se a Kálváriába, se a Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
 
@@ -20,24 +20,59 @@ Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, h
 
 Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
 
-**ÚJ RAKTÁRUNK NYÍLIK**
 
-A Budapest 1076, VII.ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án csütörtökön nyit és mindennap 16.00 és 20.00 között várja az adományokat. [A szükséges adományok listája itt]({{siteurl}}/segits/adomanyok).
+## HOGYAN TUDOK SEGÍTENI?
+
+Alapvetően 4 féle módon:
+
+  - [vihetsz friss élelmiszert a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/elelmiszer/) 
+  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
+  - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
+  - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
+
+Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook olalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van, és nem minden raktárban fogadunk mindent.  
+
+{% include alert warning='Mindenképpen kövesd a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
+
+## HELYSZÍNEK
+
+### **Központi raktár: Verseny utca 10**
+
+    Verseny utca 10
+    Budapest 1076
+    (a Keleti mellett, a Városliget felé eső oldalon) 
+    mindennap 16.00 - 20.00 
+
+### **Nyugati tranzit állomás Migration Aid raktár**
+
+    Nyugati pályaudvari tranzit állomás
+    Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
+    (a 14-es vágány melletti kijárattól táblázva)
+    mindennap 9-22
 
 
-{% include alert info='Nem tartós élelmiszert a tranzitállomások raktáraiban várunk. Naponta frissülő admonyánlistánkat a Facebook-oldalunkon találjátok: https://www.facebook.com/migrationaidhungary' %}
-[ugrás a Facebook oldalra](https://www.facebook.com/migrationaidhungary)
+### **Keleti tranzit állomás Migration Aid raktár** 
 
-A **Nyugati pályaudvari Tranzit** az Eiffel irodaház mögött, a 14-es vágánytól jobbra ki van táblázva a Tranzit zone felirat, nyitva mindennap 9-22. 
+    Keleti pályaudvari tanzit állomás, aluljáró
+    Budapest, Baross tér VIII. ker., 
+    (a metró Rottenbiller utcai kijárata mellett)
+    mindennap 11.00 - 22.00
 
-A **Déli pályaudvari Tranzit** raktára a kerengőben, az antikvárium mellett mindennap 0-24 várja az adományokat. 
+
+### **Déli tranzit állomás Migration Aid raktár**
+
+    Déli pályaudvari tranzit állomás, aluljáró
+    Budapest, Déli pályaudvar II. ker., 
+    (a kerengőben az aktikvárium mellett)
+    mindennap 0-24
 
 
-A **Keleti pályaudvari Tranzit** raktára az aluljáróban, a pályaudvartól távolabb eső metró kijáratnál található és mindennap 11-22 van nyitva.
+### **Mozsár utcai raktár**
 
-Házhozszállítást, csomagküldést is a Verseny utcai raktárban tudunk fogadni.
+    Caledonia Étterem,
+    Budapest 1066. Mozsár utca 9 
+    mindennap 14.00.-19.00. 
 
-{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
 
 **A Nyugati, Keleti és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
 
