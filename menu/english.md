@@ -35,7 +35,7 @@ We will accept each order that arrives. If you want to send us something now, pl
 
 **Donation Centers and Storage Locations**
 
-**Mozsár utcai raktár**
+**Mozsár street storage **
 
 Blankets, matresses, yoga mats, sleeping bags, raincoats and torches (manually chargeable) are accepted in the Mozsár street storage:
 
