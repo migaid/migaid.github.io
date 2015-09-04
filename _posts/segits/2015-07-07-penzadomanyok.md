@@ -4,9 +4,9 @@ sidebar:     right
 breadcrumb:  true
 
 title:       "Pénzadományok"
-subheadline: "Ha pénzzel szeretnéd támogatni a csoport mnkáját"
-meta_teaser: "AHa pénzzel szeretnéd támogatni a csoport mnkáját"
-teaser:      "Ha pénzzel szeretnéd támogatni a csoport mnkáját"
+subheadline: "Ha pénzzel szeretnéd támogatni a csoport munkáját"
+meta_teaser: "Ha pénzzel szeretnéd támogatni a csoport munkáját"
+teaser:      "Ha pénzzel szeretnéd támogatni a csoport munkáját"
 header:
    image_fullwidth: "header.jpg"
    
@@ -14,7 +14,7 @@ categories:
     - "segits"
 
 tags:
-    - pénzadomomány
+    - pénzadomány
     - info
 ---
 
