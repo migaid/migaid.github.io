@@ -32,18 +32,12 @@ Támogatásaitokat az alábbi bankszámlára várjuk **MIGRATION AID hivatkozás
 	IBAN: HU69 1091 8001 0000 0067 3914 0008 
 	SWIFT: BACXHUHB 
 
-A másik módja annak, hogy távolról támogassátok a munkánkat, az online rendelések leadása kiszállítással az Ébredések Alapítvány címére, Harangozó Judit nevére tudunk fogadni hétköznap 9.00 és 16.00 között (hétvégén és ünnepnapokon nem). 
+A másik módja annak, hogy távolról támogassátok a munkánkat, az online rendelések leadása kiszállítással. 
 
-	Cím:
-	Ébredések Alapítvány
-	Harangozó Judit
-	Budapest 1089, Kálvária tér 5.
-	hétköznapokon 9.00-16.00
+*Online rendelés, csomagküldés**
 
-Amire a leginkább szükség van a pályaudvarok ellátásához:
-- félliteres szénsavmentes ásványvíz (szénsavasat nem fogyasztanak a menekültek és a kisebb kiszerelést könnyebb cipelniük)
-- kis dobozos gyümölcslé
-- kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség 
-- konzervek: bab, lencse, csicseriborsó, zöldborsó
-- rizs
-- tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, tisztasági betét
+Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
+Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Verseny utcai raktár címére.
+
+{% include alert warning='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
+
