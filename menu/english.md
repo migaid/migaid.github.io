@@ -22,7 +22,7 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 
 
-{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED! PLEASE, DO NOT BRING/SEND DONATIONS ANYWHERE FROM 4TH SEPT! ' %} 
+{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED IN OUR CENTRAL STORAGE AND IN THE TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURHTER NOTICE!' %} 
 
 We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to **NOT TO BRING ANYTHING** either to Verseny street, Kálvária square, nor to any of the Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
 
@@ -31,9 +31,20 @@ Once we have arranged our storages, we will inform you here on our Facebook page
 We will accept each order that arrives. If you want to send us something now, please schedule the delivery later than 15 September to Verseny street, or wait until further notice.
 
 
+{% include alert warning='Blankets, matresses, yoga mats, sleeping bags, raincoats and torches are accepted at the Mozsár steet storage!' %}
+
 **Donation Centers and Storage Locations**
 
-{% include alert info='Our storage at Arany János street closed. Here we no longer accept donations.' %} 
+**Mozsár utcai raktár**
+
+Blankets, matresses, yoga mats, sleeping bags, raincoats and torches (manually chargeable) are accepted in the Mozsár street storage:
+
+    Caledonia Étterem,
+    Budapest 1066. Mozsár utca 9 
+    every day 14.00.-19.00. 
+
+Please dont birng anything else here, as we have no storage or transport for any other items! 
+We have no cleaning facilities, so please make sure to only bring clean bnalkets and matresses. 
 
 **NEW STORAGE: Verseny street 10**
 
@@ -142,7 +153,10 @@ If you want to send us your donations by mail or order online, we can receive th
 {% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
 
 **Volunteering**
-In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. Please look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly!
+In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. 
+You can look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly.
+
+Some of the locations have schedules and even training for volunteers, about these you can contact [Dóra Fauszt](https://www.facebook.com/fausztdori?fref=ts). 
 
 We **need help at our donation center** at versen utca, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 

@@ -20,7 +20,7 @@ tags:
 ---
 
 
-{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
+{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA A VERSENY UTCÁBAN ÉS A TRANZITOKBAN ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-TŐL EZEKRE A HELYSZÍNEKRE NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT!' %} 
 
 Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, **NE HOZZATOK SEMMIT**, se a Verseny utcába, se a Kálváriába, se a Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
 
@@ -30,9 +30,22 @@ Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át
 
 
 
-{% include alert info='Az Arany János 32-ben található raktárunk bezárt, már semmilyen adományt nem fogad.' %}
+{% include alert warning='Takaró, pléd, polifoam, matrac, hálózsák, esőkabát, zseblámpa a doámny továbbra is fogadunk a Mozsár utcai raktárban' %}
 
-**ÚJ RAKTÁR: Verseny utca 10**
+**Mozsár utcai raktár**
+
+A rendkívüli helyzetre való tekintettel a Caledonia Étterem ismét fogad adományt, mely kizárólag takaró, pléd, polioam, matrac, hálózsák, esőkabát és kézi töltésű zseblámpa lehet!
+
+    Caledonia Étterem,
+    Budapest 1066. Mozsár utca 9 
+    mindennap 14.00.-19.00. 
+
+Mindenkit megkérünk, erre a helyszínre semmilyen más adományt ne vigyen, mert nem tudjuk átvenni!
+A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében csak a tiszta termékeket áll módunkban fogadni!
+ 
+
+
+**Központi raktár: Verseny utca 10**
 
 	Verseny utca 10
 	Budapest 1076
@@ -57,9 +70,7 @@ A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/
 
 A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a Tranzitokba és a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok és a Tranzitok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
 
-
 {% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
-
 
 **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
 
