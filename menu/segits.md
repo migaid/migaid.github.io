@@ -21,11 +21,11 @@ Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, h
 Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
 
 
-**HOGYAN TUDOK SEGÍTENI?**
+## HOGYAN TUDOK SEGÍTENI?
 
 Alapvetően 4 féle módon:
 
-  - [vihetsz friss élelmiszert a tranzit zónákba ]({{siteurl}}/segits/elelmiszer).
+  - [vihetsz friss élelmiszert a tranzit zónákba ]({{siteurl}}/segits/elelmiszer) 
   - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{siteurl}}/segits/adomanyok)
   - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{siteurl}}/segits/penzadomanyok).
   - [önkéntes munkával]({{siteurl}}/segits/onkentesek).
@@ -34,16 +34,16 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
 
 {% include alert warning='Mindenképpen kövesd a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
-**HELYSZÍNEK**
+## HELYSZÍNEK
 
-**Központi raktár: Verseny utca 10**
+### **Központi raktár: Verseny utca 10**
 
     Verseny utca 10
     Budapest 1076
     (a Keleti mellett, a Városliget felé eső oldalon) 
     mindennap 16.00 - 20.00 
 
-**Nyugati tranzit állomás Migration Aid raktár**
+### **Nyugati tranzit állomás Migration Aid raktár**
 
     Nyugati pályaudvari tranzit állomás
     Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
@@ -51,7 +51,7 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     mindennap 9-22
 
 
-**Keleti tranzit állomás Migration Aid raktár** 
+### **Keleti tranzit állomás Migration Aid raktár** 
 
     Keleti pályaudvari tanzit állomás, aluljáró
     Budapest, Baross tér VIII. ker., 
@@ -59,7 +59,7 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     mindennap 11.00 - 22.00
 
 
-**Déli tranzit állomás Migration Aid raktár**
+### **Déli tranzit állomás Migration Aid raktár**
 
     Déli pályaudvari tranzit állomás, aluljáró
     Budapest, Déli pályaudvar II. ker., 
@@ -67,7 +67,7 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     mindennap 0-24
 
 
-**Mozsár utcai raktár**
+### **Mozsár utcai raktár**
 
     Caledonia Étterem,
     Budapest 1066. Mozsár utca 9 

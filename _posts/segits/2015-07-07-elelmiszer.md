@@ -19,20 +19,22 @@ tags:
     - info
 ---
 
+{% include alert warning='Jelenleg nem gyűjtünk élelmiszert! pár nap múlva megint lesz hely a raktárakban, kérjük, majd akkor hozzátok!'%}
 
-{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
+{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA A VERSENY UTCÁBAN ÉS A TRANZITOKBAN ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-TŐL EZEKRE A HELYSZÍNEKRE NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT! EZ ÁTMENETI, PÁR NAP ÉS ÚJRA NYITUNK!' %} 
 
 Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, **NE HOZZATOK SEMMIT**, se a Verseny utcába, se a Kálváriába, se a Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
 
-Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, hogy ismét tudunk adományokat átvenni. Addig is türelmeteket kérjük! Nagyon köszönjük! 
+Mihelyst rendeztük a raktárkérdést, itt és a Facebook-oldalon fogjuk jelezni, hogy ismét tudunk adományokat átvenni. Addig is türelmeteket kérjük! Nagyon köszönjük! 
 
 Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
 
 
+{% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
 
-**Nem tartós élelmiszer**
+## Tranzit állomások
 
-A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat és az önkénteseket a tranzitállomások mellett kialakított Migration Aid raktárakba várjuk.  
+Önkénteseket a tranzitállomások mellett kialakított Migration Aid raktárakba várjunk.  
 
 **Nyugati tranzit állomás Migration Aid raktár**
 
@@ -58,10 +60,7 @@ A nem tartós élelmiszereket, kisebb, azonnal kiosztható dolgokat és az önk�
 	mindennap 0-24
 
 
-
-
-{% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
-
+<!--
 A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 
 - **víz**: fél literes szénsavmentes ásványvíz
@@ -97,11 +96,6 @@ Az általános lista [itt található]({{ site.url }}{{ site.baseurl }}/segits
 {% include alert text='A raktárainkba hirtelen rengeteg adomány érkezett, a kapacitásunk pedig szűkös. Ezért arra kérünk, hogy tárgyi adományodat inkább 1-2 hét múlva hozdd el hozzánk. Köszönjük!' %}
 
 Ha nagyobb tárgyi vagy szolgáltatásbeli felajánlást szeretnél tenni, kérjük az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen egyeztess velünk! Köszönjük!
+-->
 
-**Online rendelés, csomagküldés**
-
-Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
-Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Verseny utcai raktár címére.
-
-{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
 
