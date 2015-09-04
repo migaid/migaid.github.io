@@ -25,10 +25,10 @@ Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át
 
 Alapvetően 4 féle módon:
 
-  - [vihetsz friss élelmiszert a tranzit zónákba ]({{site.url}}/segits/elelmiszer/) 
-  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{site.url}}/segits/adomanyok/)
-  - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{site.url}}/segits/penzadomanyok/).
-  - [önkéntes munkával]({{site.url}}/segits/onkentesek/).
+  - [vihetsz friss élelmiszert a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/elelmiszer/) 
+  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
+  - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
+  - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
 
 Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook olalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van, és nem minden raktárban fogadunk mindent.  
 
