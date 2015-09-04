@@ -19,7 +19,7 @@ tags:
     - info
 ---
 
-{% include alert warning='Jelenleg nem gyűjtünk élelmiszert! pár nap múlva megint lesz hely a raktárakban, kérjük, majd akkor hozzátok!'%}
+{% include alert warning='Jelenleg nem gyűjtünk élelmiszert! pár nap múlva megint lesz hely a raktárakban, kérjük, majd akkor hozzátok! Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>!'%}
 
 {% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA A VERSENY UTCÁBAN ÉS A TRANZITOKBAN ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-TŐL EZEKRE A HELYSZÍNEKRE NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT! EZ ÁTMENETI, PÁR NAP ÉS ÚJRA NYITUNK!' %} 
 
