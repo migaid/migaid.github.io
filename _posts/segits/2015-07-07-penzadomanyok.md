@@ -34,7 +34,7 @@ Támogatásaitokat az alábbi bankszámlára várjuk **MIGRATION AID hivatkozás
 
 A másik módja annak, hogy távolról támogassátok a munkánkat, az online rendelések leadása kiszállítással. 
 
-*Online rendelés, csomagküldés**
+**Online rendelés, csomagküldés**
 
 Ha külföldön vagy messze élsz, vagy valamiért nem tudsz fizikailag is megjelenni, de szívesen segítenél, akkor küldhetsz adományokat a raktárunkba postai úton, vagy akár online rendeléssel. Természetesen vedd figyelembe saját határaidat, senki nem várja el, hogy vagyonokat költs a saját pénzedből!
 Nagyszerű megoldás pl. egy TESCO, GRoby vagy METRO online rendelés leadása (online fizetéssel) a Verseny utcai raktár címére.
