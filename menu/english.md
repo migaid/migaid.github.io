@@ -149,6 +149,9 @@ When you donate, please send an e-mail to the adomany@migrationaid.net address w
       IBAN: HU69 1091 8001 0000 0067 3914 0008 
       SWIFT: BACXHUHB
 
+Some systems require more details and can't take accented characters. Pls use thes edetails:
+      Beneficiary name: Mikszath Gyogyszertar
+      Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
 
 ### **Online shopping donations**
 
