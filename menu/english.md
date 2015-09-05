@@ -122,18 +122,19 @@ However, depending on the conditions we might also collect other things, such as
 -->
 
 # **Volunteering**
-In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants. 
-You can look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly.
+In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants, and at our storage locations too. 
 
-Some of the locations have schedules and even training for volunteers, about these you can contact [Dóra Fauszt](https://www.facebook.com/fausztdori?fref=ts). 
+Much of the work is coordinated through facebook gropus. If you want to volunteer, it's good to join this group: [MIGRATION AID](https://www.facebook.com/groups/1602563053360018/). The top post will contain a guide about how to sign up (in English too). 
 
-We **need help at our donation center** at versen utca, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
+You can also just look for our volunteers at the train stations of Budapest (Nyugati, Déli, Keleti) and offer your help directly.
+
+We **need help at our donation center** at Verseny utca, to receive and select the donations and put together personal packages. If you are able to help, please come to one of our storage facilities, any days of the week. Watch for opening times!
 
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
 
 
-# **Helping from aborad**
+# **Helping from abroad**
 
 ### Funding medical aid
 Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
