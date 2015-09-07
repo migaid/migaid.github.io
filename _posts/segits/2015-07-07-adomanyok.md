@@ -41,11 +41,21 @@ Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudujuk az éppen n
 
 Adományodat leadhatod a Tranzitokban vagy a Verseny utcai raktárban. 
 
-A Tranzitokban a tárolási lehetőség nagyon szűkös, úgyhogy ott mindig csak azt gyűjtjük, amire aktuálisan, abban az 1-2 napban szükség van. Csatalkozhatsz a Tranzitok facebook csoportjahaihoz is: [Főcsoport](https://www.facebook.com/groups/1602563053360018/), [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/). 
+A Tranzitokban a tárolási lehetőség nagyon szűkös, úgyhogy ott mindig csak azt gyűjtjük, amire aktuálisan, abban az 1-2 napban szükség van. 
 
-### Friss romlandó élelmiszer adományozása
+Az általános napi adománylistát a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) találod. 
 
-Friss és romlandó élelmiszert csak a Tranzit zónáknál gyűjtünk. Figyeld a Tranzit zónák facebook csoportjait!
+Ha közel laksz vagy dolgozol valamelyik Tranzit zónához, akkor érdemes csatlakozni a facebook csoportjához, ahol percrekész információt kaphatsz arról, hogy mire van szükség. [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/) 
+
+### Friss élelmiszer, szendvicsalapanyag adományozása
+
+Friss és romlandó élelmiszert a Tranzit zónáknál és a központi raktárban is gyűjtünk. Figyeld a Tranzit zónák facebook csoportjait és a [facebook oldalunkat](https://www.facebook.com/migrationaidhungary)!
+
+### Tartós élelmiszerek, tárgyi adományok, ruha adományozása
+
+Ezeket a Tranzit zónákban és a verseny utcában is fogadunk. Hogy hol mit, az naponta változik, erről is a [facebook oldalunkról](https://www.facebook.com/migrationaidhungary) tájékozódhatsz.
+
+**Ruhát jelenleg nem gyűjtünk!**
 
 ### Ha online vásárlást szeretnél küldeni 
 
