@@ -59,8 +59,8 @@ Ezeket a Tranzit zónákban és a verseny utcában is fogadunk. Hogy hol mit, az
 
 ### Ha online vásárlást szeretnél küldeni 
 
-Ha messze laksz és nem tudsz személyesen adományt hozni, jó megoldás egy online vásárlást házhozszállítással ejuttatni az egyik raktárunkba. 
-Az online rendelések átfutási ideje jópár nap, értelemszerűen ezzel nem tudsz követni egy napont aváltozó adománylistát. Ezért csináltunk egy "rendelős" listát, amin olyasmik szerepelnek, amikre hosszú távon mindig szükség van. 
+Ha messze laksz és nem tudsz személyesen adományt hozni, jó megoldás egy online vásárlást házhozszállítással ejuttatni a központi raktárunkba. 
+Az online rendelések átfutási ideje jópár nap, értelemszerűen ezzel nem tudsz követni egy naponta változó adománylistát. Ezért csináltunk egy "rendelős" listát, amin olyasmik szerepelnek, amikre hosszú távon mindig szükség van. 
 
 Ez a lista:
 
@@ -70,7 +70,12 @@ Ez a lista:
 - sátor
 
 
-{% include alert warning='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
+{% include alert warning='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt szeptember 15 utáni kszállítással kérd.'  %}
+
+### Adományozás nagyobb tételben
+
+Ha nagyobb tételben szeretnél adományozni (pl gyűjtést rendeztél, vagy egy cég nevében), akkor kérlek erről előre egyeztess velünk az adomany@migrationaid.net email címen. 
+
 
 # HELYSZÍNEK
 

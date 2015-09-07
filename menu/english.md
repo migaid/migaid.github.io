@@ -28,11 +28,55 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 # Donations
 
-{% include alert warning='Currently we are only accepting blankets, matresses, yoga mats, sleeping bags, raincoats and torches, which are accepted at the Mozsár steet storage.' %}
+## What to donate? 
 
-{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED IN OUR CENTRAL STORAGE AND IN THE TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURTHER NOTICE! WE WILL REOPEN OUR STORAGES VERY SOON!' %} 
+Since are storage capacity is very limited, we cannot save unused donations for later. Therefore we try only to collect things that are needed in the short term. We post a fresh list of collected donations daily on our [facebook page](https://www.facebook.com/migrationaidhungary). Please if you can, donate items from that list. 
 
-We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to **NOT TO BRING ANYTHING** either to Verseny street, Kálvária square, nor to any of the Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
+{% include alert text='Please check or  <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-page</b></a>, regularl, where we post a donation list every day!' %}
+
+
+### Donating in person
+
+You can hand over your donation to either of the storages in the Tranzit Areas or at our Verseny street storage (you can find the addresses below). In the tranzit areas we have especially small storage, pls only bring items that are listed as needed. See the daily list at our on our [facebook page](https://www.facebook.com/migrationaidhungary).
+
+If you live close to a tranzit area, you can join the facebooks groups coordinating the work in that tranzit for more up to date information about what is needed (these groups are in Hungarian though): [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/) 
+
+### Donating fresh food and ingredients
+
+We collect fresh (perishable) food and ingredients for sandwiches both at the tranzit areas and at the central storage at Verseny street. Again please check our  [facebook page](https://www.facebook.com/migrationaidhungary) for details. 
+
+### Donating canned food, clothing, household items etc.
+We collect these in the Transits and in Verseny street. The list of needed items changes daily, pls see our  [facebook page](https://www.facebook.com/migrationaidhungary) for details.
+
+
+**Currently we dont collect clothes!**
+
+### Donating online shopping 
+
+if you live far away and cannot donate in person, you can place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street (you can find the address below).
+
+Because these orders can take several days to complete, we do not expect you to comly with our daily list. Therefore we have an "online order shopping list" of things that are always needed:
+
+- blankets, sleeping bags, yoga mats
+- raincoats
+- prepacked small snaks: cereal bars, waffels, cookies, sweets
+- tents
+
+{% include alert warning='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD UNTIL SEPTEMBER 15!' %}
+
+Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding! 
+
+
+### Donating bigger quantitites
+
+If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
+
+
+{% include alert warning='THE CENTRAL STORAGE AND KELETI TRANZIT AREA ARE NOW OPEN FOR DONATIONS'%}
+
+{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED NYUGATI AND DELI TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURTHER NOTICE! WE WILL REOPEN OUR STORAGES VERY SOON!' %} 
+
+We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to NOT TO BRING ANYTHING Deli or Nyugati Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
 
 Once we have arranged our storages, we will inform you here on our Facebook page and then you can bring more donations. Until then, we will be eternally grateful for your patience! Thank you! Those who have already dispacthed an online order or shipment to us, do not worry! 
 
@@ -40,18 +84,7 @@ We will accept each order that arrives. If you want to send us something now, pl
 
 ## Donation centers and storage locations
 
-### **Mozsár street storage**
-
-Blankets, matresses, yoga mats, sleeping bags, raincoats and torches (manually chargeable) are accepted in the Mozsár street storage:
-
-    Caledonia Étterem,
-    Budapest 1066. Mozsár utca 9 
-    every day 14.00.-19.00. 
-
-Please dont birng anything else here, as we have no storage or transport for any other items! 
-We have no cleaning facilities, so please make sure to only bring clean bnalkets and matresses. 
-
-### **NEW STORAGE: Verseny street 10**
+### **Central Storage: Verseny street 10**
 
 Our new storage room  is opening on 3rd September, Thursday. 
 Address and opening hours:
@@ -154,19 +187,6 @@ Some systems require more details and can't take accented characters. Pls use th
       Beneficiary name: Mikszath Gyogyszertar
       Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
 
-### **Online shopping donations**
-
-Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street.
-If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
-      
-      Verseny street 10
-      1076 Budapest 
-      (north from Keleti railway station)
-      every day 16.00 - 20.00. 
-
-{% include alert warning='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD UNTIL SEPTEMBER 15!' %}
-
-Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding! 
 
 <!--
  The most needed items for the supply of train stations:
