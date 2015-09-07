@@ -19,9 +19,6 @@ tags:
     - info
 ---
 
-{% include alert warning='Jelenleg kizárólag takarót, plédet, polifoamot, matracot, hálózsákot, esőkabátot, és kézi töltésű zseblámpát gyűjtünk! Ezeket a Mozsár utcai raktár fogadja.' %} 
-
-
 {% include alert warning='FIGYELEM! AZ ADOMÁNYOKAT A VERSENY UTCÁBAN ÉS KELETI TRANZITBAN FOGADUNK! A DÉLI ÉS NYUGATI TRANZITOKBAN AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL!' %}
 
 Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, ne hozzatok semmit a Déli és Nyugati Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
