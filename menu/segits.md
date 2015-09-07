@@ -12,9 +12,10 @@ header:
 
 ---
 
-{% include alert warning='FIGYELEM! AZ ADOMÁNYOK FOGADÁSA A VERSENY UTCÁBAN ÉS A TRANZITOKBAN ÁTMENETILEG SZÜNETEL! KÉRJÜK, SZEPTEMBER 4-ÉTŐL NE HOZZATOK/KÜLDJETEK ADOMÁNYOKAT SEHOVA! ' %} 
+{% include alert warning='FIGYELEM! AZ ADOMÁNYOKAT A VERSENY UTCÁBAN ÉS KELETI TRANZITBAN FOGADUNK! A DÉLI ÉS NYUGATI TRANZITOKBAN AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL!' %} 
 
-Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, **NE HOZZATOK SEMMIT**, se a Verseny utcába, se a Kálváriába, se a Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
+Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, ne hozzatok semmit a Déli és Nyugati Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
+
 
 Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, hogy ismét tudunk adományokat átvenni. Addig is türelmeteket kérjük! Nagyon köszönjük! 
 
@@ -25,7 +26,7 @@ Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át
 
 Alapvetően 4 féle módon:
 
-  - [vihetsz friss élelmiszert a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/elelmiszer/) 
+  - [vihetsz friss élelmiszert a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/) 
   - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
   - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
   - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
@@ -66,14 +67,14 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     (a kerengőben az aktikvárium mellett)
     mindennap 0-24
 
-
+<!--
 ### **Mozsár utcai raktár**
 
     Caledonia Étterem,
     Budapest 1066. Mozsár utca 9 
     mindennap 14.00.-19.00. 
 
-
+-->
 **A Nyugati, Keleti és Déli pályaduvarokra is önkéntesekre van szükségünk** az adományok kiosztására és információszolgáltalásra! Gyere el barátaiddal együtt és segíts nekünk!
 
 
@@ -82,9 +83,9 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
         <p><a href="{{ site.url }}{{ site.baseurl }}/segits/onkentesek/"><img src="{{ site.url }}{{ site.baseurl }}/images/onkentes.png" alt="">Önkéntes munka</a></p>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns">
+  <!--  <div class="medium-4 columns">
       <p><a href="{{ site.url }}{{ site.baseurl }}/segits/elelmiszer/"><img src="{{ site.url }}{{ site.baseurl }}/images/elelmiszer.png" alt="">Élelmiszer-csomagok</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div>--><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
       <p><a href="{{ site.url }}{{ site.baseurl }}/segits/informaciok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Információs anyagok, fordítás</a></p>

@@ -150,6 +150,7 @@ When you donate, please send an e-mail to the adomany@migrationaid.net address w
       SWIFT: BACXHUHB
 
 Some systems require more details and can't take accented characters. Pls use thes edetails:
+      
       Beneficiary name: Mikszath Gyogyszertar
       Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
 
