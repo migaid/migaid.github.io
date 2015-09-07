@@ -12,8 +12,6 @@
   dropdown:
   - title: "Önkéntes munka"
     url: "/segits/onkentesek/"
-  - title: "Élelmiszer"
-    url: "/segits/elelmiszer/"
   - title: "Információs anyagok"
     url: "/segits/informaciok/"
   - title: "Tárgyi adományok"
