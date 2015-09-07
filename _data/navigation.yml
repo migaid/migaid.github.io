@@ -12,11 +12,9 @@
   dropdown:
   - title: "Önkéntes munka"
     url: "/segits/onkentesek/"
-  - title: "Élelmiszer"
-    url: "/segits/elelmiszer/"
   - title: "Információs anyagok"
     url: "/segits/informaciok/"
-  - title: "Tárgyi adományok"
+  - title: "Adományozás"
     url: "/segits/adomanyok/"
   - title: "Koordináció és szállítás"
     url: "/segits/koordinacio/"

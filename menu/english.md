@@ -28,30 +28,101 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 # Donations
 
-{% include alert warning='Currently we are only accepting blankets, matresses, yoga mats, sleeping bags, raincoats and torches, which are accepted at the Mozsár steet storage.' %}
+{% include alert warning='THE CENTRAL STORAGE AND KELETI TRANZIT AREA ARE NOW OPEN FOR DONATIONS'%}
 
-{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED IN OUR CENTRAL STORAGE AND IN THE TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURTHER NOTICE! WE WILL REOPEN OUR STORAGES VERY SOON!' %} 
+{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED NYUGATI AND DELI TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURTHER NOTICE! WE WILL REOPEN OUR STORAGES VERY SOON!' %} 
 
-We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to **NOT TO BRING ANYTHING** either to Verseny street, Kálvária square, nor to any of the Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
+We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to NOT TO BRING ANYTHING Deli or Nyugati Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
 
 Once we have arranged our storages, we will inform you here on our Facebook page and then you can bring more donations. Until then, we will be eternally grateful for your patience! Thank you! Those who have already dispacthed an online order or shipment to us, do not worry! 
 
 We will accept each order that arrives. If you want to send us something now, please schedule the delivery later than 15 September to Verseny street, or wait until further notice.
 
+## What to donate? 
+
+Since are storage capacity is very limited, we cannot save unused donations for later. Therefore we try only to collect things that are needed in the short term. We post a fresh list of collected donations daily on our [facebook page](https://www.facebook.com/migrationaidhungary). Please if you can, donate items from that list. 
+
+{% include alert text='Please check or  <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-page</b></a>  regularly, where we post a donation list every day!' %}
+
+
+### Donating in person
+
+You can hand over your donation to either of the storages in the Tranzit Areas or at our Verseny street storage (you can find the addresses below). In the tranzit areas we have especially small storage, pls only bring items that are listed as needed. See the daily list at our on our [facebook page](https://www.facebook.com/migrationaidhungary).
+
+If you live close to a tranzit area, you can join the facebooks groups coordinating the work in that tranzit for more up to date information about what is needed (these groups are in Hungarian though): [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/) 
+
+### Donating fresh food and ingredients
+
+We collect fresh (perishable) food and ingredients for sandwiches both at the tranzit areas and at the central storage at Verseny street. Again please check our  [facebook page](https://www.facebook.com/migrationaidhungary) for details. 
+
+### Donating canned food, clothing, household items etc.
+We collect these in the Transits and in Verseny street. The list of needed items changes daily, pls see our  [facebook page](https://www.facebook.com/migrationaidhungary) for details.
+
+
+**Currently we dont collect clothes!**
+
+### **Helping from abroad**
+
+#### Donating online shopping 
+
+if you live far away and cannot donate in person, you can place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street (you can find the address below).
+
+Because these orders can take several days to complete, we do not expect you to comly with our daily list. Therefore we have an "online order shopping list" of things that are always needed:
+
+- blankets, sleeping bags, yoga mats
+- raincoats
+- prepacked small snaks: cereal bars, waffels, cookies, sweets
+- tents
+
+{% include alert warning='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD UNTIL SEPTEMBER 15!' %}
+
+Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding! 
+
+##### Donating bigger quantitites
+
+If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
+
+#### Funding medical aid
+Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
+
+When you donate, please send an e-mail to the adomany@migrationaid.net address with the amount you have given, so we can also keep track of the donations. 
+
+      Beneficiary name: Mikszáth Gyógyszertár az Egészségért Alapítvány 
+      Comment: Migration Aid
+      Bank account number: 10918001-00000067-39140008 
+      Name of the bank: UniCredit Bank Hungary 
+      Address of the bank: 1054 Budapest, Szabadság tér 5-6., Hungary
+      IBAN: HU69 1091 8001 0000 0067 3914 0008 
+      SWIFT: BACXHUHB
+
+Some systems require more details and can't take accented characters. Pls use thes edetails:
+      
+      Beneficiary name: Mikszath Gyogyszertar
+      Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
+
+<!--
+ The most needed items for the supply of train stations:
+
+- 0.5 liters natural water
+- 0.2 liters fruit juice
+- musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
+- apples, bananas
+- personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
+- bubble makers and kites
+
+{% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
+-->
+
+#### If you are doing a fundraiser from abroad
+
+That is just great! Thank you! 
+if you are raising money, pls keep in mind that we can cannot accept money directly, only material donations. Please consult our [Facebook page](https://www.facebook.com/migrationaidhungary) about what donations are in need, and if it is a bigger quantity, please contact us at adomany@migrationaid.net.
+If you are collecting material donations, please consider what is worth shipping from abroad and what isn't. 
+
+
 ## Donation centers and storage locations
 
-### **Mozsár street storage**
-
-Blankets, matresses, yoga mats, sleeping bags, raincoats and torches (manually chargeable) are accepted in the Mozsár street storage:
-
-    Caledonia Étterem,
-    Budapest 1066. Mozsár utca 9 
-    every day 14.00.-19.00. 
-
-Please dont birng anything else here, as we have no storage or transport for any other items! 
-We have no cleaning facilities, so please make sure to only bring clean bnalkets and matresses. 
-
-### **NEW STORAGE: Verseny street 10**
+### **Central Storage: Verseny street 10**
 
 Our new storage room  is opening on 3rd September, Thursday. 
 Address and opening hours:
@@ -79,6 +150,7 @@ Please only bring those items to our storage room which are listed above. There 
 
 
 -->
+
 ## **Storage faclities in the tranzit areas**
 
 We are expecting volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 
@@ -133,58 +205,7 @@ We **need help at our donation center** at Verseny utca, to receive and select t
 **We also need the help of interpreters and translators**, especially in the following languages: Arabic, Urdu, Farsi, Pastu, Turkish, French, English, Albanian. Unfortunately, many refugees are in poor health conditions, we often **need medical help, volunteer doctors and nurses** are more than welcome to join our initiative! If you can help with interpretation or medical aid, please come to any train station in Budapest and offer your assistance to the volunteers there or let us know your contact details and availability also through migrationaidhungary@gmail.com
 
 
-
-# **Helping from abroad**
-
-### Funding medical aid
-Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
-
-When you donate, please send an e-mail to the adomany@migrationaid.net address with the amount you have given, so we can also keep track of the donations. 
-
-      Beneficiary name: Mikszáth Gyógyszertár az Egészségért Alapítvány 
-      Comment: Migration Aid
-      Bank account number: 10918001-00000067-39140008 
-      Name of the bank: UniCredit Bank Hungary 
-      Address of the bank: 1054 Budapest, Szabadság tér 5-6., Hungary
-      IBAN: HU69 1091 8001 0000 0067 3914 0008 
-      SWIFT: BACXHUHB
-
-
-### **Online shopping donations**
-
-Another way of supportng our work with money is to place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street.
-If you want to send us your donations by mail or order online, we can receive the shipment at the following address:
-      
-      Verseny street 10
-      1076 Budapest 
-      (north from Keleti railway station)
-      every day 16.00 - 20.00. 
-
-{% include alert warning='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD UNTIL SEPTEMBER 15!' %}
-
-Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding! 
-
-<!--
- The most needed items for the supply of train stations:
-
-- 0.5 liters natural water
-- 0.2 liters fruit juice
-- musli bars, chocolate bars, pre-packed (small portion) waffels, biscuits, snacks
-- apples, bananas
-- personal hygiene items: shower gel, soap, shampoo, toothpaste, toothbrush, razor, shaving foam, deodorant, sanitary pads
-- bubble makers and kites
-
-{% include alert info='Please note that most of the refugees are Muslims which means they do not consume anything that has pork or alcohol.' %}
--->
-
-#### If you are doing a fundraiser from abroad
-
-That is just great! Thank you! 
-if you are raising money, pls keep in mind that we can cannot accept money directly, only material donations. Please consult our [Facebook page](https://www.facebook.com/migrationaidhungary) about what donations are in need, and if it is a bigger quantity, please contact us at adomany@migrationaid.net.
-If you are collecting material donations, please consider what is worth shipping from abroad and what isn't. 
-
-
-# **IMPORTANT**
+### **Important advice for volunteers**
 
 - It is recommended to use plastic gloves when giving out food or treating sick refugees for your own safety
 - It is NOT recommended to transport refugees in your own vehicle even with valid, but especially with expired papers because it can be considered human trafficking
