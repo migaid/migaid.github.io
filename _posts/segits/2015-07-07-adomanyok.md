@@ -5,8 +5,8 @@ breadcrumb:  true
 
 title:       "Adományok"
 subheadline: "Amire a menekültek ellátásához szükségünk van"
-meta_teaser: "A Migration Aid adományközpontjába és raktáraihoz az alábbi adományokat várjuk."
-teaser:      "A Migration Aid adományközpontjába és raktáraihoz az alábbi adományokat várjuk."
+meta_teaser: "Tudnivalók adományozásról és a raktárainkról"
+teaser:      "Tudnivalók adományozásról és a raktárainkról"
 header:
    image_fullwidth: "header.jpg"
 
@@ -29,7 +29,7 @@ Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át
 
 
 
-## Mit adományozzak? 
+# Mit adományozzak? 
 
 {% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
 
@@ -77,11 +77,32 @@ Ez a lista:
 Ha nagyobb tételben szeretnél adományozni (pl gyűjtést rendeztél, vagy egy cég nevében), akkor kérlek erről előre egyeztess velünk az adomany@migrationaid.net email címen. 
 
 
-# HELYSZÍNEK
+# Helyszínek
 
+## Raktárak 
+
+<!--
+### **Mozsár utcai raktár**
+
+A rendkívüli helyzetre való tekintettel a Caledonia Étterem ismét fogad adományt, mely kizárólag takaró, pléd, polioam, matrac, hálózsák, esőkabát és kézi töltésű zseblámpa lehet!
+
+    Caledonia Étterem,
+    Budapest 1066. Mozsár utca 9 
+    mindennap 14.00.-19.00. 
+
+Mindenkit megkérünk, erre a helyszínre semmilyen más adományt ne vigyen, mert nem tudjuk átvenni!
+A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében csak a tiszta termékeket áll módunkban fogadni!
+--> 
+
+**Központi raktár: Verseny utca 10**
+
+	Verseny utca 10
+	Budapest 1076
+	(a Keleti mellett, a Városliget felé eső oldalon)	
+	mindennap 16.00 - 20.00
+
+	
 ## Tranzit állomások
-
-Önkénteseket a tranzitállomások mellett kialakított Migration Aid raktárakba várjunk.  
 
 **Nyugati tranzit állomás Migration Aid raktár**
 
@@ -107,30 +128,7 @@ Ha nagyobb tételben szeretnél adományozni (pl gyűjtést rendeztél, vagy egy
 	mindennap 0-24
 
 
-## Raktárak 
-
-<!--
-### **Mozsár utcai raktár**
-
-A rendkívüli helyzetre való tekintettel a Caledonia Étterem ismét fogad adományt, mely kizárólag takaró, pléd, polioam, matrac, hálózsák, esőkabát és kézi töltésű zseblámpa lehet!
-
-    Caledonia Étterem,
-    Budapest 1066. Mozsár utca 9 
-    mindennap 14.00.-19.00. 
-
-Mindenkit megkérünk, erre a helyszínre semmilyen más adományt ne vigyen, mert nem tudjuk átvenni!
-A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében csak a tiszta termékeket áll módunkban fogadni!
---> 
-
-### **Központi raktár: Verseny utca 10**
-
-	Verseny utca 10
-	Budapest 1076
-	(a Keleti mellett, a Városliget felé eső oldalon)	
-	mindennap 16.00 - 20.00
-
-
-## **KORÁBBI ADOMÁNYGYŰJTŐ HELYEINK VOLTAK:**
+## Korábbi adománygyűjtő helyeink voltak
 
 Az adományok átvétele az Arany János utca 32. szám alatt 2015.augusztus 31-én megszűnt. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
 
