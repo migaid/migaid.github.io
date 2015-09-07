@@ -28,8 +28,6 @@ Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, h
 Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
 
 
-{% include alert warning='Takaró, pléd, polifoam, matrac, hálózsák, esőkabát, zseblámpa adámnyt továbbra is fogadunk a Mozsár utcai raktárban' %}
-
 
 ## Mit adományozzak? 
 
