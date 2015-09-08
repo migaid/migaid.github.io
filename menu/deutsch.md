@@ -4,9 +4,9 @@ sidebar:     right
 breadcrumb:  true
 
 title:       "Migration Aid"
-subheadline: „Auf Deutsch"
-teaser:      „Migration Aid ist eine freiwillige zivile Organisation, die den nach Ungarn kommenden Flüchtlingen hilft, die Flüchtlingslager zu erreichen.“
-permalink:   „/deutsch/"
+subheadline: "Auf Deutsch"
+teaser:      "Migration Aid ist eine freiwillige zivile Organisation, die den nach Ungarn kommenden Flüchtlingen hilft, die Flüchtlingslager zu erreichen."
+permalink:   "/deutsch/"
 header:
    image_fullwidth: "header.jpg"
 

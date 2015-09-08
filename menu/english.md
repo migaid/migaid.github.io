@@ -107,25 +107,6 @@ Account no.: 12001008-00114912-00600004
 IBAN: HU79 1200 1008 0011 4912 0060 0004
 SWIFT/BIC: UBRTHUHB
 
-#### Funding medical aid
-Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
-
-When you donate, please send an e-mail to the adomany@migrationaid.net address with the amount you have given, so we can also keep track of the donations. 
-
-      Beneficiary name: Mikszáth Gyógyszertár az Egészségért Alapítvány 
-      Comment: Migration Aid
-      Bank account number: 10918001-00000067-39140008 
-      Name of the bank: UniCredit Bank Hungary 
-      Address of the bank: 1054 Budapest, Szabadság tér 5-6., Hungary
-      IBAN: HU69 1091 8001 0000 0067 3914 0008 
-      SWIFT: BACXHUHB
-
-Some systems require more details and can't take accented characters. Pls use thes edetails:
-      
-      Beneficiary name: Mikszath Gyogyszertar
-      Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
-
-
 
 <!--
  The most needed items for the supply of train stations:
