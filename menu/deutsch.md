@@ -97,11 +97,6 @@ Falls Sie Geld spenden, schicken Sie uns bitte eine E-Mail an adomany@migrationa
       IBAN: HU79 1200 1008 0011 4912 0060 0004 
       SWIFT: UBRTHUHB
 
-Einige Systeme verlangen mehr Infos und können keine spezielle Zeichen erkennen. Benutzen Sie bitte folgende Daten:
-      
-      Name des Begünstigten: Mikszath Gyogyszertar
-      Adresse des Begünstigten: Mikszath K ter 4, 1088 Budapest, Ungarn
-
 <!--
  Dringend benötigt in der Transitzone:
 
