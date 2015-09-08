@@ -85,22 +85,17 @@ Wir haben viele Spenden erhalten und haben gerade kein Platz mehr für die Lager
 Wenn Sie eine größere Spende heben möchten, kontaktieren Sie uns bitte vorher unter adomany@migrationaid.net.
 
 #### Medizinische Hilfe
-Migration Aid kann direkt keine Geldspende entgegennehmen. Wenn Sie Geld spenden möchten, dann können Sie es an die Bankadresse von **Mikszáth Apotheke (Egészségért Stiftung)** überweisen. Die Apotheke unterstützt unsere Arbeit mit Arzneimittel seit einer Weile. Die Flüchtlinge haben das Recht auf eine freie medizinische Grundversorgung, es muss aber für Medikamente und Produkte zur ersten Hilfe bezahlt werden. 
+Migration Aid kann direkt keine Geldspende entgegennehmen. Wenn Sie Geld spenden möchten, dann können Sie es an die Bankadresse von **Robert Burns Nemzetközi Alapítvány** überweisen. 
 
 Falls Sie Geld spenden, schicken Sie uns bitte eine E-Mail an adomany@migrationaid.net mit der Summe, damit wir die Spenden verfolgen können. 
 
-      Name des Begünstigten: Mikszáth Gyógyszertár az Egészségért Alapítvány 
+      Name des Begünstigten: Robert Burns Nemzetközi Alapítvány
       Anmerkung: Migration Aid
-      Kontonummer: 10918001-00000067-39140008 
-      Name der Bank: UniCredit Bank Ungarn 
-      Adresse der Bank: 1054 Budapest, Szabadság tér 5-6., Ungarn
-      IBAN: HU69 1091 8001 0000 0067 3914 0008 
-      SWIFT: BACXHUHB
-
-Einige Systeme verlangen mehr Infos und können keine spezielle Zeichen erkennen. Benutzen Sie bitte folgende Daten:
-      
-      Name des Begünstigten: Mikszath Gyogyszertar
-      Adresse des Begünstigten: Mikszath K ter 4, 1088 Budapest, Ungarn
+      Kontonummer: 12001008-00114912-00600004 
+      Name der Bank: Raiffeisen Bank Ungarn 
+      Adresse der Bank: 1054 Budapest, Akademia utca 6, Ungarn
+      IBAN: HU79 1200 1008 0011 4912 0060 0004 
+      SWIFT: UBRTHUHB
 
 <!--
  Dringend benötigt in der Transitzone:
