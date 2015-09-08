@@ -102,7 +102,7 @@ We  have an experienced bookeeper who has volunteered to keep track of the funds
 
 Robert Burns Nemzetközi Alapítvány
 Raiffeisen Bank Hungary
-Comment: Refugee Aid Caledonia
+Comment: Migration Aid 
 Account no.: 12001008-00114912-00600004
 IBAN: HU79 1200 1008 0011 4912 0060 0004
 SWIFT/BIC: UBRTHUHB
