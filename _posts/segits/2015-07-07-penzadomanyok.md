@@ -22,17 +22,18 @@ Kedves Adományozók, akik pénzzel szeretnétek támogatni a munkánkat!
 
 Készpénzt, illetve pénzadományokat közvetlenül továbbra sem áll módunkban fogadni, viszont két megoldást is tudunk javasolni azoknak, akik más módon most nem tudnak segíteni, de szeretnének támogatni minket.
 
-## Pénzadományozás gyógyszerre 
+## Pénzadomány a Robert Burns Nemzetközi Alapítványon keresztül
+A Robert Burns alapítvány felajánlotta, hogy a számlájukon gyűjt számunkra adományokat. A bfeolyt összegből takarókat, sátlakat, hálózsákokat és egyéb szükséges dolgokat fognak eljuttatni hozzánk. Az utalásoknál a megjegyzés/hivatkozás mezőben kérjük töntessék fel hogy "Refugee Aid Caledonia"
 
-**A Mikszáth Gyógyszertár az Egészségért Alapítvány már hetek óta gyógyszerekkel és más eszközökkel támogatja munkánkat.** Az ő bankszámlájukra tudunk fogadni adományokat, akár külföldről is. A menedékkérők orvosi alapellátása ingyenes ugyan, de a gyógyszereket stb. nekik is meg kell venni. 
+Számlaadatok:
 
-Támogatásaitokat az alábbi bankszámlára várjuk **MIGRATION AID hivatkozással** (az utalásról kérünk szépen egy tájékoztató üzenetet az adomany@migrationaid.net e-mail címre, hogy mi is követni tudjuk a befolyt összegeket): 
+	Robert Burns Nemzetközi Alapítvány
+	Raiffeisen Bank Hungary
+	Hivatkozás/megjegyzés: Refugee Aid Caledonia
+	Account no.: 12001008-00114912-00600004
+	IBAN: HU79 1200 1008 0011 4912 0060 0004
+	SWIFT/BIC: UBRTHUHB
 
-	Címzett: Mikszáth Gyógyszertár az Egészségért Alapítvány
-	Hivatkozás/megjegyzés: MIGRATION AID 
-	Bankszámlaszám: 10918001-00000067-39140008 
-	IBAN: HU69 1091 8001 0000 0067 3914 0008 
-	SWIFT: BACXHUHB 
 
 A másik módja annak, hogy távolról támogassátok a munkánkat, az online rendelések leadása kiszállítással. 
 

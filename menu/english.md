@@ -12,6 +12,17 @@ header:
 
 ---
 
+{% include alert warning='DO NOT TRY TO BRING DONATIONS PRIVATELY TO RÖSZKE! WE ARE COLLECTING THEM AT KELETI!'%}
+
+We are organizing a large effort to collect blankets tents etc and bring it to Röszke by trucks. Please bring your donations to KELETI. 
+
+We are also accepting offers to help us with shipping. 
+
+Please do not try to bring donations privately. The refugee camp is closed and private citizens cannot enter it. We try to establish a cooperation with the authorities and we dont want it threatened by too many private requests. 
+
+For larger donation to Röszke, write to adomany@migrationaid.net, please include "Roszke adomany" in the subject. If you want to offer shipping, write to adomany@migrationaid.net, please include "Roszke szallitas" in the subject.
+
+
 # What is Migration Aid? 
 
 When entering Hungary at the southern borders, they are registered as asylum seekers and sent to one of the Hungarian refugee camps. They need to get there on their own and within 48 hours. Without speaking Hungarian and receiving detailed instructions on how to get there, they have difficulties finding their way. Most of them have come from Afghanistan, Syria, Iran, several African or Balkan countries with their family and children and have travelled a long way without enough money, food and hygienic conditions, so they are not in the best condition.
@@ -82,23 +93,20 @@ Suddenly we received many donations and we have reached the limit of our storage
 
 If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
 
-#### Funding medical aid
-Migration Aid cannot accept money directly. However, if you would like to give money, you can donate to **Mikszáth Pharmacy’s bank account (Egészségért Foundation)**. The pharmacy has been supporting our work with pharmaceuticals for a while now. Though refugees are entitled for free basic health care services, they need to pay for medicines, and first aid products. 
 
-When you donate, please send an e-mail to the adomany@migrationaid.net address with the amount you have given, so we can also keep track of the donations. 
+#### Donating thorugh Robert Burns Foundation
 
-      Beneficiary name: Mikszáth Gyógyszertár az Egészségért Alapítvány 
-      Comment: Migration Aid
-      Bank account number: 10918001-00000067-39140008 
-      Name of the bank: UniCredit Bank Hungary 
-      Address of the bank: 1054 Budapest, Szabadság tér 5-6., Hungary
-      IBAN: HU69 1091 8001 0000 0067 3914 0008 
-      SWIFT: BACXHUHB
+The Robert Burns International Foundation here in Budapest have offered to support our efforts to raise much needed funds by providing us with a bank account to accept donations for specifically this cause. 
 
-Some systems require more details and can't take accented characters. Pls use thes edetails:
-      
-      Beneficiary name: Mikszath Gyogyszertar
-      Beneficiary address: Mikszath K ter 4, 1088 Budapest, Hungary
+We  have an experienced bookeeper who has volunteered to keep track of the funds and also an accurate record of how the funds are used. We will also keep you informed through this Facebook page. Please add the message 'Refugee Aid Caledonia ' to your bank transfer.
+
+Robert Burns Nemzetközi Alapítvány
+Raiffeisen Bank Hungary
+Comment: Refugee Aid Caledonia
+Account no.: 12001008-00114912-00600004
+IBAN: HU79 1200 1008 0011 4912 0060 0004
+SWIFT/BIC: UBRTHUHB
+
 
 <!--
  The most needed items for the supply of train stations:
