@@ -12,8 +12,7 @@ header:
 
 ---
 
-{% include alert warning='Wir arbeiten hart Decken, Zelten usw. zu sammeln und liefern sie mit LKWs nach Röszke. Wir akzeptieren Spenden am Keleti tranzit, und jede Hilfe, Unterstützung mit der Transport ist auch gebraucht und geschätzt.
-Bitte bringen Sie keine Spenden persönlich. Die Flüchtlingslager is geschlossen und private Bürger werden nicht reingelassen.' %}
+{% include alert warning='Wir arbeiten hart Decken, Zelten usw. zu sammeln und liefern sie mit LKWs nach Röszke. Wir akzeptieren Spenden am Keleti tranzit, und jede Hilfe, Unterstützung mit der Transport ist auch gebraucht und geschätzt.Bitte bringen Sie keine Spenden persönlich. Die Flüchtlingslager is geschlossen und private Bürger werden nicht reingelassen.' %}
 
 # Was ist Migration Aid? 
 
