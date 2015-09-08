@@ -12,6 +12,9 @@ header:
 
 ---
 
+{% include alert warning='Wir arbeiten hart Decken, Zelten usw. zu sammeln und liefern sie mit LKWs nach Röszke. Wir akzeptieren Spenden am Keleti tranzit, und jede Hilfe, Unterstützung mit der Transport ist auch gebraucht und geschätzt.
+Bitte bringen Sie keine Spenden persönlich. Die Flüchtlingslager is geschlossen und private Bürger werden nicht reingelassen.' %}
+
 # Was ist Migration Aid? 
 
 Bei der Ankunft nach Ungarn an der Südgrenze werden Sie als Asylantragsteller registriert und nach einem ungarischen Flüchtlingslager geschickt. Sie müssen diesen Lager innerhalb von 48 Stunden erreichen. Ohne Kenntnisse der ungarischen Sprache und detailiierten Informationen über den Weg haben Sie große Schwierigkeiten dabei. Die Meisten kommen aus Afghanistan, Syrien, dem Irak, aus verschiedenen afrikanischen oder balkanischen Ländern mit ihren Familien. Sie haben einen langen Weg hinter sich und haben nicht genug Geld, Lebensmittel und keine entsprechende hygienische Verhältnisse.
