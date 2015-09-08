@@ -41,6 +41,10 @@
   url: "/english/"
   side: right
 
+- title: "Deutch"
+  url: "/deutch/"
+  side: right
+
 - title: "Keresés"
   url: "/keres/"
   side: right

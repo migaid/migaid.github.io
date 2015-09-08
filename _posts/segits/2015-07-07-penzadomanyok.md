@@ -34,6 +34,19 @@ Támogatásaitokat az alábbi bankszámlára várjuk **MIGRATION AID hivatkozás
 	IBAN: HU69 1091 8001 0000 0067 3914 0008 
 	SWIFT: BACXHUHB 
 
+## Pénzadomány a Robert Burns Nemzetközi Alapítványon keresztül
+A Robert Burns alapítvány felajánlotta, hogy a számlájukon gyűjt számunkra adományokat. A bfeolyt összegből takarókat, sátlakat, hálózsákokat és egyéb szükséges dolgokat fognak eljuttatni hozzánk. Az utalásoknál a megjegyzés/hivatkozás mezőben kérjük töntessék fel hogy "Refugee Aid Caledonia"
+
+Számlaadatok:
+
+	Robert Burns Nemzetközi Alapítvány
+	Raiffeisen Bank Hungary
+	Hivatkozás/megjegyzés: Refugee Aid Caledonia
+	Account no.: 12001008-00114912-00600004
+	IBAN: HU79 1200 1008 0011 4912 0060 0004
+	SWIFT/BIC: UBRTHUHB
+	
+
 A másik módja annak, hogy távolról támogassátok a munkánkat, az online rendelések leadása kiszállítással. 
 
 ## **Online rendelés, csomagküldés**
