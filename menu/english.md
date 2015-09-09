@@ -94,7 +94,7 @@ Suddenly we received many donations and we have reached the limit of our storage
 If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
 
 
-#### Donating thorugh Robert Burns Foundation
+#### Donating through Robert Burns Foundation
 
 The Robert Burn International Foundation kindly offered to collect funds supporting our work. The proceedings will be used to buy blankets, tents, sleeping bags and other necessary supplies for the refugees, in cooridnation with our work. 
 If you make a donation to their accounts, pls add "Migration Aid" in the comment field, and also send an email to us about your donation to adomany@migrationaid.net, with "Caledonia" as the subject. 

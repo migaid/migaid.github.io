@@ -84,19 +84,35 @@ Wir haben viele Spenden erhalten und haben gerade kein Platz mehr für die Lager
 
 Wenn Sie eine größere Spende heben möchten, kontaktieren Sie uns bitte vorher unter adomany@migrationaid.net.
 
-#### Medizinische Hilfe
-Migration Aid kann direkt keine Geldspende entgegennehmen. Wenn Sie Geld spenden möchten, dann können Sie es an die Bankadresse von **Robert Burns Nemzetközi Alapítvány** überweisen. 
+## Geldspende mittels der Internationalen Robert Burns Stiftung
+Die Robert Burns Stiftung hat angeboten, auf ihren Bankkonten für uns Spenden zu sammeln. Aus den eintreffenden Geldern werden uns Decken, Zelte, Schlafsäcke und andere notwendige Dinge zur Verfügung gestellt. Bei Überweisungen bitten wir als Verwendungszweck „Migration Aid“ anzugeben. 
 
-Falls Sie Geld spenden, schicken Sie uns bitte eine E-Mail an adomany@migrationaid.net mit der Summe, damit wir die Spenden verfolgen können. 
+Bitten senden Sie uns nach der Überweisung eine E-Mail an adomany@migrationaid.net mit dem Betreff „Caledonia“. 
 
-      Name des Begünstigten: Robert Burns Nemzetközi Alapítvány
-      Anmerkung: Migration Aid
-      Kontonummer: 12001008-00114912-00600004 
-      Name der Bank: Raiffeisen Bank Ungarn 
-      Adresse der Bank: 1054 Budapest, Akademia utca 6, Ungarn
-      IBAN: HU79 1200 1008 0011 4912 0060 0004 
-      SWIFT: UBRTHUHB
+##### Kontoangaben
+**Konto mit Forint-Währung:**
 
+	Robert Burns Nemzetközi Alapítvány
+    Raiffeisen Bank Hungary
+	Verwendungszweck: Migration Aid
+	Kontonummer: 12001008-00114912-00600004
+	IBAN: HU79 1200 1008 0011 4912 0060 0004
+	SWIFT/BIC: UBRTHUHB
+
+**Devisenkonto in Euro:**
+
+	Robert Burns Nemzetközi Alapítvány
+    Raiffeisen Bank Hungary
+	Verwendungszweck: Migration Aid
+	Kontonummer: 12001008 - 00114912 - 00200006
+	IBAN: HU45 1200 1008 0011 4912 0020 0006
+	SWIFT/BIC: UBRTHUHB
+
+
+**PayPal:**
+
+[Überweisungen in Forint, Pfund oder Euro über Paypal](http://www.robert-burns-foundation.org/?page_id=80)
+Bitte vergesst auch hier nicht in den Verwendungszweck “Migration Aid“ zu schreiben!  
 <!--
  Dringend benötigt in der Transitzone:
 
