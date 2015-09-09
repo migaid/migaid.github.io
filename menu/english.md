@@ -96,16 +96,33 @@ If you want to donate in bigger quantities (eg you had a fundraiser or you are d
 
 #### Donating thorugh Robert Burns Foundation
 
-The Robert Burns International Foundation here in Budapest have offered to support our efforts to raise much needed funds by providing us with a bank account to accept donations for specifically this cause. 
+The Robert Burn International Foundation kindly offered to collect funds supporting our work. The proceedings will be used to buy blankets, tents, sleeping bags and other necessary supplies for the refugees, in cooridnation with our work. 
+If you make a donation to their accounts, pls add "Migration Aid" in the comment field, and also send an email to us about your donation to adomany@migrationaid.net, with "Caledonia" as the subject. 
 
-We  have an experienced bookeeper who has volunteered to keep track of the funds and also an accurate record of how the funds are used. We will also keep you informed through this Facebook page. Please add the message 'Refugee Aid Caledonia ' to your bank transfer.
+##### Account details
+**HUF account**
 
-Robert Burns Nemzetközi Alapítvány
-Raiffeisen Bank Hungary
-Comment: Migration Aid 
-Account no.: 12001008-00114912-00600004
-IBAN: HU79 1200 1008 0011 4912 0060 0004
-SWIFT/BIC: UBRTHUHB
+      Robert Burns Nemzetközi Alapítvány
+      Raiffeisen Bank Hungary
+      Comment: Migration Aid
+      Accoun no.: 12001008-00114912-00600004
+      IBAN: HU79 1200 1008 0011 4912 0060 0004
+      SWIFT/BIC: UBRTHUHB
+
+**Euro account**
+
+      Robert Burns Nemzetközi Alapítvány
+      Raiffeisen Bank Hungary
+      Comment: Migration Aid
+      ccoun no.: 12001008 - 00114912 - 00200006
+      IBAN: HU45 1200 1008 0011 4912 0020 0006
+      SWIFT/BIC: UBRTHUHB
+
+
+**PayPal:**
+
+[HUF, GBP and EURO font transfers through PayPal](http://www.robert-burns-foundation.org/?page_id=80)
+Please don't forget to put "Migration Aid" in the comment field! 
 
 
 <!--
