@@ -113,6 +113,7 @@ Bitten senden Sie uns nach der Überweisung eine E-Mail an adomany@migrationaid.
 
 [Überweisungen in Forint, Pfund oder Euro über Paypal](http://www.robert-burns-foundation.org/?page_id=80)
 Bitte vergesst auch hier nicht in den Verwendungszweck “Migration Aid“ zu schreiben!  
+
 <!--
  Dringend benötigt in der Transitzone:
 
