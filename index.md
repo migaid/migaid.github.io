@@ -22,6 +22,6 @@ widget-2:
 widget-3:
     title: "Együttműködés"
     url: 'blog/'
-    text: 'A Migration Aid önkéntesen szerveződő csoportjai rendszeres humanitárius támogatást nyújtanak a Magyarországra érkező menedékkérők. Az adományokon kívül a személyes kapcsolat, a tájékozódás megkönnyítése is segít. Tapasztalatok, történetek, hírek a csoportok tevékenységéről.'
+    text: 'A Migration Aid önkéntesen szerveződő csoportjai rendszeres humanitárius támogatást nyújtanak a Magyarországra érkező menedékkérőknek. Az adományokon kívül a személyes kapcsolat, a tájékozódás megkönnyítése is segít. Tapasztalatok, történetek, hírek a csoportok tevékenységéről.'
     image: segitettunk.jpg
 ---
