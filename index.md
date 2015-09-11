@@ -11,7 +11,7 @@ header:
 widget-1:
     title: "A csoport"
     url: 'csoport/'
-    text: 'A Migration Aid a Magyarországra érkező menekültek segítésére alakult közösségi kezdeményezés. A csoportok munkájába bekapcsolódott aktivisták budapesti helyszínek mellett Szegeden, Debrecenben, Győrben, Bicskén, Fóton és Cegléden is segítik az úton lévő migránsokat. A Migration Aid nap mint nap több száz idegenbe szakadt menedékkérőnek, köztük kisgyermekeknek nyújt segítséget.'
+    text: 'A Migration Aid a Magyarországra érkező menedékkérők segítésére alakult közösségi kezdeményezés. A csoportok munkájába bekapcsolódott aktivisták budapesti helyszínek mellett Szegeden, Debrecenben, Győrben, Bicskén, Fóton és Cegléden is segítik az úton lévő migránsokat. A Migration Aid nap mint nap több száz idegenbe szakadt menedékkérőnek, köztük kisgyermekeknek nyújt segítséget.'
     image: a-csoport.jpg
 widget-2:
     title: "Tennivalók"
@@ -22,6 +22,6 @@ widget-2:
 widget-3:
     title: "Együttműködés"
     url: 'blog/'
-    text: 'A Migration Aid önkéntesen szerveződő csoportjai rendszeres humanitárius támogatást nyújtanak a Magyarországra érkező menekülteknek. Az adományokon kívül a személyes kapcsolat, a tájékozódás megkönnyítése is segít. Tapasztalatok, történetek, hírek a csoportok tevékenységéről.'
+    text: 'A Migration Aid önkéntesen szerveződő csoportjai rendszeres humanitárius támogatást nyújtanak a Magyarországra érkező menedékkérők. Az adományokon kívül a személyes kapcsolat, a tájékozódás megkönnyítése is segít. Tapasztalatok, történetek, hírek a csoportok tevékenységéről.'
     image: segitettunk.jpg
 ---

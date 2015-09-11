@@ -15,4 +15,4 @@ header:
 - Facebook: [Migration Aid csoport](https://www.facebook.com/migrationaidhungary)
 - Sajtókapcsolat: [Zsohár Zsuzsanna](https://www.facebook.com/zsohar)
 
-{% include alert info='... és mindenhol, ahol menekültek vannak' %}
+{% include alert info='... és mindenhol, ahol menedékkérők vannak' %}
