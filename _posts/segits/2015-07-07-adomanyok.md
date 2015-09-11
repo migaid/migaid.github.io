@@ -4,7 +4,7 @@ sidebar:     right
 breadcrumb:  true
 
 title:       "Adományok"
-subheadline: "Amire a menekültek ellátásához szükségünk van"
+subheadline: "Amire a menedékkérők ellátásához szükségünk van"
 meta_teaser: "Tudnivalók adományozásról és a raktárainkról"
 teaser:      "Tudnivalók adományozásról és a raktárainkról"
 header:

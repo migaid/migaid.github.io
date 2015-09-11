@@ -5,8 +5,8 @@ breadcrumb:  true
 
 title:       "Önkéntesek"
 subheadline: "Közvetlen módja a segítségnek"
-meta_teaser: "Ha személyesen szeretnél segíteni, várunk a fő pályaudvaroknál, ahova érkeznek, vagy ahonnan tovább indulnak a menekültek. Keresd a Migration Aid kitűzővel ellátott rutinos segítőket, és csatlakozz hozzájuk!"
-teaser:      "Ha személyesen szeretnél segíteni, várunk a fő pályaudvaroknál, ahova érkeznek, vagy ahonnan tovább indulnak a menekültek. Keresd a Migration Aid kitűzővel ellátott rutinos segítőket, és csatlakozz hozzájuk!"
+meta_teaser: "Ha személyesen szeretnél segíteni, várunk a fő pályaudvaroknál, ahova érkeznek, vagy ahonnan tovább indulnak a menedékkérők. Keresd a Migration Aid kitűzővel ellátott rutinos segítőket, és csatlakozz hozzájuk!"
+teaser:      "Ha személyesen szeretnél segíteni, várunk a fő pályaudvaroknál, ahova érkeznek, vagy ahonnan tovább indulnak a menedékkérők. Keresd a Migration Aid kitűzővel ellátott rutinos segítőket, és csatlakozz hozzájuk!"
 header:
    image_fullwidth: "header.jpg"
 
@@ -18,7 +18,7 @@ tags:
     - info
 ---
 
-Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, Szolnokon, Békéscsabán és Székesfehérváron, ahova érkeznek vagy ahonnan tovább indulnak a menekültek. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
+Megtalálsz minket személyesen a fő pályaudvaroknál Budapesten, Győrben, Bicskén, Cegléden, Debrecenben, Szolnokon, Békéscsabán és Székesfehérváron, ahova érkeznek vagy ahonnan tovább indulnak a menedékkérők. Itt ételt, vizet, tisztálkodó szereket, gyakran ruhát és információkat osztunk, lehetőségünk szerint egészségügyi ellátást is biztosítunk, illetve alkalmanként átkisérjük őket a következő állomásig.
 
 {% include alert text='Minden segítő kézre szükség van, még ha csak egy órára érsz is rá!' %}
 
@@ -32,7 +32,7 @@ De természetesen egyszerűen od ais sétálhatsz a tranzit zónába. Keresd a [
 
 **Orvosok, nővérek, pszichológusok, tolmácsok, fordítók, jogászok** segítségére nagy szükség van!
 
-A menekültek többsége nagyon messziről érkezik, hosszú és viszontagságos utat megtéve, sokuk gyalog és kimerülve, gyakran lelkileg is meggyötörten. Fizikai és szellemi ellátásra is szükségük van, akár útközben, akár a menekülttáborban.
+A menedékkérők többsége nagyon messziről érkezik, hosszú és viszontagságos utat megtéve, sokuk gyalog és kimerülve, gyakran lelkileg is meggyötörten. Fizikai és szellemi ellátásra is szükségük van, akár útközben, akár a menekülttáborban.
 
 Akad közöttük, aki beszél angolul, de a többség csak az anyanyelvén, ezért nagy szükség van **urdu, pastu, arab, török, kurd, fárszi, albán, valamint időnként francia tolmácsokra**, akik megkönnyítenék a kommunikációt és ezáltal a segítségnyújtást.
 

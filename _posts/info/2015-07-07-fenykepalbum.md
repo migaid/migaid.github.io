@@ -17,7 +17,7 @@ tags:
     - fénykép
 ---
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
-  <li><a href="{{ site.url }}/images/fenykepalbum/szudani-auto.jpg"><img  data-caption="Menekültek segítenek bajba jutott Migration Aid segítőn." class="th" src="{{ site.url }}/images/fenykepalbum/szudani-auto.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/fenykepalbum/szudani-auto.jpg"><img  data-caption="menedékkérők segítenek bajba jutott Migration Aid segítőn." class="th" src="{{ site.url }}/images/fenykepalbum/szudani-auto.jpg"></a></li>
   <li><a href="{{ site.url }}/images/fenykepalbum/tesco.jpg"><img  data-caption="Tescos szállítmányok a Mozsár utcába, 2015.07.14, köszönjük! " class="th" src="{{ site.url }}/images/fenykepalbum/tesco.jpg"></a></li>
   <li><a href="{{ site.url }}/images/fenykepalbum/11013100_432769040258681_786776435316799466_n.jpg"><img  data-caption="{{ site.url }}" class="th" src="{{ site.url }}/images/fenykepalbum/11013100_432769040258681_786776435316799466_n.jpg"></a></li>
   <li><a href="{{ site.url }}/images/fenykepalbum/11222305_432769060258679_788363300736093969_n.jpg"><img  data-caption="{{ site.url }}" class="th" src="{{ site.url }}/images/fenykepalbum/11222305_432769060258679_788363300736093969_n.jpg"></a></li>
@@ -31,4 +31,4 @@ tags:
   <li><a href="{{ site.url }}/images/fenykepalbum/11745545_433404536861798_5018917902285212398_n.jpg"><img  data-caption="{{ site.url }}" class="th" src="{{ site.url }}/images/fenykepalbum/11745545_433404536861798_5018917902285212398_n.jpg"></a></li>
 </ul>
 
-{% include alert info='Elsősorban a menekültek érdekében nem publikálunk portrét és bármi azonosítást segítő képet.' %}
+{% include alert info='Elsősorban a menedékkérők érdekében nem publikálunk portrét és bármi azonosítást segítő képet.' %}

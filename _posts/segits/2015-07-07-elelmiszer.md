@@ -93,7 +93,7 @@ A teljesség igénye nélkül, az alábbi élelmiszereket szívesen fogadjuk:
 - instant zacskós leves
 - Továbbá tisztálkodó szerek: szappan, tusfürdő, sampon, borotva, borotvahab, dezodor, fogkrém, fogkefe, nedves törlőkendő babáknak, pelenka
 
-{% include alert text='A menekültek többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
+{% include alert text='A menedékkérők többsége muszlim, ezért semmilyen sertés vagy alkoholtartalmú ételt/italt nem fogyasztanak.' %}
 
 **Tartós élemiszer**
 
@@ -101,7 +101,7 @@ Tartós élelmiszert az **verseny utcai raktár**  (Budapest 1076 Verseny utca 1
 
 Amire a leginkább szükség van a pályaudvarok ellátásához:
 
-- félliteres szénsavmentes ásványvíz (szénsavasat nem fogyasztanak a menekültek és a kisebb kiszerelést könnyebb cipelniük)
+- félliteres szénsavmentes ásványvíz (szénsavasat nem fogyasztanak a menedékkérők és a kisebb kiszerelést könnyebb cipelniük)
 - kis dobozos gyümölcslé
 - kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség
 - konzervek: bab, lencse, csicseriborsó, zöldborsó
