@@ -19,6 +19,7 @@ Az InfoAid app célja a Magyarországra érkező menekültek gyors és hiteles i
 ![InfoAid app]({{site.urlimg}}/infoaid_app.png)
 
 Az InfoAid használatával tájékoztatást kapnak a menekültek olyan témákban, hogy:
+
 - milyen szabályok vonatkoznak rájuk
 - hol kaphatnak ellátást vagy mi történik a közlekedésben
 - hogy Magyarországon iható a csapvíz
