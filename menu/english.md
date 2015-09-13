@@ -36,7 +36,7 @@ Please do not try to bring donations privately. The refugee camp is closed and p
 For larger donation to Röszke, write to adomany@migrationaid.net, please include "Roszke adomany" in the subject. If you want to offer shipping, write to adomany@migrationaid.net, please include "Roszke szallitas" in the subject.
 
 
-# What is Migration Aid?<a href="whatis"></a> 
+# What is Migration Aid?<a name="whatis"></a> 
 
 When entering Hungary at the southern borders, they are registered as asylum seekers and sent to one of the Hungarian refugee camps. They need to get there on their own and within 48 hours. Without speaking Hungarian and receiving detailed instructions on how to get there, they have difficulties finding their way. Most of them have come from Afghanistan, Syria, Iran, several African or Balkan countries with their family and children and have travelled a long way without enough money, food and hygienic conditions, so they are not in the best condition.
 
@@ -46,11 +46,11 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **Come to the main train stations of Budapest** where you can find our volunteers (usually wearing a pin with the Migration Aid logo) and join them giving food, drinks and information to arriving refugees. Even if you only have an hour, it would be very helpful, especially if you speak any languages that the refugees might speak!
 
-# How can I help?<a href="howcanihelp"></a>
+# How can I help?<a name="howcanihelp"></a>
 
 **You can make donations, or you can volunteer.**
 
-# Donations<a href="donations"></a>
+# Donations<a name="donations"></a>
 
 {% include alert warning='THE CENTRAL STORAGE AND KELETI TRANZIT AREA ARE NOW OPEN FOR DONATIONS'%}
 
@@ -62,14 +62,14 @@ Once we have arranged our storages, we will inform you here on our Facebook page
 
 We will accept each order that arrives. If you want to send us something now, please schedule the delivery later than 15 September to Verseny street, or wait until further notice.
 
-## What to donate? <a href="whattodonate"></a>
+## What to donate? <a name="whattodonate"></a>
 
 Since are storage capacity is very limited, we cannot save unused donations for later. Therefore we try only to collect things that are needed in the short term. We post a fresh list of collected donations daily on our [facebook page](https://www.facebook.com/migrationaidhungary). Please if you can, donate items from that list. 
 
-{% include alert text='Please check or  <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-page</b></a>  regularly, where we post a donation list every day!' %}
+{% include alert text='Please check or  <a name="https://www.facebook.com/migrationaidhungary"><b>facebook-page</b></a>  regularly, where we post a donation list every day!' %}
 
 
-### Donating in person<a href="donatinginperson"></a>
+### Donating in person<a name="donatinginperson"></a>
 
 You can hand over your donation to either of the storages in the Tranzit Areas or at our Verseny street storage (you can find the addresses below). In the tranzit areas we have especially small storage, pls only bring items that are listed as needed. See the daily list at our on our [facebook page](https://www.facebook.com/migrationaidhungary).
 
@@ -82,9 +82,9 @@ We collect fresh (perishable) food and ingredients for sandwiches both at the tr
 ### Donating canned food, clothing, household items etc.
 We collect these in the Transits and in Verseny street. The list of needed items changes daily, pls see our  [facebook page](https://www.facebook.com/migrationaidhungary) for details.
 
-### **Helping from abroad**<a href="donatingfromabroad"></a>
+### **Helping from abroad**<a name="donatingfromabroad"></a>
 
-#### Donating online shopping <a href="onlineshopping"></a>
+#### Donating online shopping <a name="onlineshopping"></a>
 
 if you live far away and cannot donate in person, you can place an online order and delivery at Tesco or GRoby, pay it online and have it shipped to our donation center at Verseny street (you can find the address below).
 
@@ -104,7 +104,7 @@ Suddenly we received many donations and we have reached the limit of our storage
 If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
 
 
-#### Donating through Robert Burns Foundation<a href="donatingmoney"></a>
+#### Donating through Robert Burns Foundation<a name="donatingmoney"></a>
 
 The Robert Burn International Foundation kindly offered to collect funds supporting our work. The proceedings will be used to buy blankets, tents, sleeping bags and other necessary supplies for the refugees, in cooridnation with our work. 
 If you make a donation to their accounts, pls add "Migration Aid" in the comment field, and also send an email to us about your donation to adomany@migrationaid.net, with "Caledonia" as the subject. 
@@ -155,7 +155,7 @@ if you are raising money, pls keep in mind that we can cannot accept money direc
 If you are collecting material donations, please consider what is worth shipping from abroad and what isn't. 
 
 
-## Donation centers and storage locations<a href="storages"></a>
+## Donation centers and storage locations<a name="storages"></a>
 
 ### **Central Storage: Verseny street 10**
 
@@ -186,7 +186,7 @@ Please only bring those items to our storage room which are listed above. There 
 
 -->
 
-## **Storage faclities in the tranzit areas**<a href="transitareas"></a>
+## **Storage faclities in the tranzit areas**<a name="transitareas"></a>
 
 We are expecting volunteers at our storages at the official tranzit areas at the **Nyugati, Keleti and Déli** railway stations. 
 
@@ -228,7 +228,7 @@ We are expecting volunteers at our storages at the official tranzit areas at the
 However, depending on the conditions we might also collect other things, such as raincoats, sweaters, personal hygiene items. Please, check our [Facebook page](https://www.facebook.com/migrationaidhungary) before going to donate, as we publish an updated list daily with that day’s necessities for each Tranzit area. We also welcome volunteers to help sort and distribute donations, give information and attend arriving asylum seekers.
 -->
 
-# **Volunteering**<a href="volunteering"></a>
+# **Volunteering**<a name="volunteering"></a>
 In the meanwhile, we really **need more volunteers at the train stations** to give information and directions to the immigrants, and at our storage locations too. 
 
 Much of the work is coordinated through facebook gropus. If you want to volunteer, it's good to join this group: [MIGRATION AID](https://www.facebook.com/groups/1602563053360018/). The top post will contain a guide about how to sign up (in English too). 
@@ -251,7 +251,7 @@ We **need help at our donation center** at Verseny utca, to receive and select t
 - If possible, please do not show pity. Smile and be direct while emphatic!
 
 
-# InfoAid App <a href="infoaid"></a>
+# InfoAid App <a name="infoaid"></a>
 
 The InfoAid application aims to provide refugees arriving in Hungary with quick and reliable information in their native language.
 
