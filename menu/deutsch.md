@@ -12,7 +12,7 @@ header:
 
 ---
 
-{% include alert warning='Wir arbeiten hart Decken, Zelten usw. zu sammeln und liefern sie mit LKWs nach Röszke. Wir akzeptieren Spenden am Keleti tranzit, und jede Hilfe, Unterstützung mit der Transport ist auch gebraucht und geschätzt.Bitte bringen Sie keine Spenden persönlich. Die Flüchtlingslager is geschlossen und private Bürger werden nicht reingelassen.' %}
+{% include alert warning='Wir brauchen Decken und Zelte, die wir nach Röszke liefern können. Nehmen Sie bitte diese zum Bahnhof KELETI mit. Wir freuen uns über die Hilfe beim Transport auch. Fahren Sie bitte nicht direkt nach Röszke. Der Flüchtlingslager ist vor der Öffentlichkeit geschlossen, Privatpersonen dürfen dessen Gebiet nicht betreten. Wir versuchen mit den Behörden zusammenzuarbeiten und möchten nicht, dass es wegen Privatpersonen erschwert wird.' %}
 
 # Was ist Migration Aid? 
 
@@ -76,7 +76,6 @@ Da diese Bestellungen erst in Tagen geliefert werden können, erwarten wir nicht
 - vorgepackte Snacks: Müsliriegel, Waffel, Kekse, Süßigkeiten
 - Zelte
 
-{% include alert warning='BITTE ONLINE BESTELLUNGEN BIS ZUM 15. SEPTEMBER AUSSETZEN!' %}
 
 Wir haben viele Spenden erhalten und haben gerade kein Platz mehr für die Lagerung. Aus diesem Grund bitten wir Sie, Online-Bestellungen bis eine oder zwei Wochen auszusetzen, bis wir wieder Platz für die Lagerung haben. Nehmen Sie bitte Rücksicht auf unsere aktuelle Liste! Vielen Dank für Ihr Verständnis! 
 

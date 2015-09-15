@@ -24,16 +24,13 @@ header:
 - [Volunteering](#volunteering)
 - [InfoAid mobile app for refugees](#infoaid)
 
-
 {% include alert warning='DO NOT TRY TO BRING DONATIONS PRIVATELY TO RÖSZKE! WE ARE COLLECTING THEM AT KELETI!'%}
 
-We are organizing a large effort to collect blankets tents etc and bring it to Röszke by trucks. Please bring your donations to KELETI. 
-
-We are also accepting offers to help us with shipping. 
+We are lokking for offers to help us with shipping (trucks preferred). If you want to offer shipping, write to adomany@migrationaid.net, please include "Roszke szallitas" in the subject.
 
 Please do not try to bring donations privately. The refugee camp is closed and private citizens cannot enter it. We try to establish a cooperation with the authorities and we dont want it threatened by too many private requests. 
 
-For larger donation to Röszke, write to adomany@migrationaid.net, please include "Roszke adomany" in the subject. If you want to offer shipping, write to adomany@migrationaid.net, please include "Roszke szallitas" in the subject.
+If you would like to give a larger  donation for Röszke, write to adomany@migrationaid.net, please include "Roszke adomany" in the subject. 
 
 
 # What is Migration Aid?<a name="whatis"></a> 

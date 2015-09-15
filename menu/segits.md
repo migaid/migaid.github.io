@@ -12,29 +12,17 @@ header:
 
 ---
 
-{% include alert warning='FONTOS infó Röszkéről! Kérünk mindenkit, hogy egyelőre senki ne induljon el semmilyen szállítmánnyal!' %} 
+{% include alert warning='FONTOS infó Röszkéről! Kérünk mindenkit, hogy senki ne induljon el semmilyen szállítmánnyal!' %} 
 
 1) nagyon kérik hogy SZEMÉLYAUTÓNYI adománnyal SENKI NE INDULJON EL KÉSŐBB SE! Mert káoszt okoz és ártani meg gondolom senki nem akar.
 
-2) személyautónyi adományt a KELETI Tranzitba kérjük leadni, onnan teherautóval egyben levisszük, akik már összerakták, szintén 11 órától vigyék a Keletibe.
+2) Segítséget kérünk szállításban (főleg teherautókat várunk a mennyiség miatt). Ezügyben a adomany@migrationaid.net címre írjatok "Röszke szállítás" tággyal.
 
-3) hamarosan lesz egy táblázat szállítási felajánlásra (de főleg teherautókat várunk a mennyiség miatt). Lehet ezügyben írni a adomany@migrationaid.net címre "Röszke szállítás" tággyal.
-
-4) akinek nagyobb felajánlása van,  írjon az adomany@migrationaid.net címre "Röszke adomány" tággyal
+4) akinek nagyobb felajánlása van, írjon az adomany@migrationaid.net címre "Röszke adomány" tággyal
 
 {% include alert warning='NYOMATÉKOSAN KÉRIK LENT, HOGY SENKI NE INDULJON EL "KALANDTÚRÁRA"' %}
 
-Mert be fognak sokkalni a határőrök és lezárják a környéket és akkor aztán senki nem mehet majd be. 
-
-
-{% include alert warning='FIGYELEM! AZ ADOMÁNYOKAT A VERSENY UTCÁBAN ÉS KELETI és NYUGATI TRANZITBAN FOGADUNK! A DÉLI  TRANZITBAN AZ ADOMÁNYOK FOGADÁSA ÁTMENETILEG SZÜNETEL!' %} 
-
-Hihetetlenül hálásak vagyunk a leírhatatlan mennyiségű adományért, amit az elmúlt napokban küldtetek a menedékkérők megsegítésére. Azonban olyan sok adomány érkezett, hogy az összes raktárunk megtelt, és a következő napokban is hatalmas mennyiségű online rendelt adomány várható még. Ezek válogatásán, és szétosztásán nagy erőkkel dolgozunk, és igyekszünk eljuttatni a menedékkérők számára, amennyit csak tudunk. Viszont, amíg a készleteink lecsökkennek, és amíg nem tudunk nagyobb raktárba költözni, kérjük, ne hozzatok semmit a Déli és Nyugati Tranzitokba! A Tranzitok ellátása a központi raktárakból megoldható az elkövetkező napokban.
-
-
-Mihelyst rendeztük a raktárkérdést, itt a Facebook-oldalon fogjuk jelezni, hogy ismét tudunk adományokat átvenni. Addig is türelmeteket kérjük! Nagyon köszönjük! 
-
-Aki már elküldött egy online rendelést nekünk, az ne aggódjon, mindent át fogunk venni. De aki most szeretne küldeni, az szeptember 15 utánra időzítse a kiszállítást a Verseny utcába, vagy várjon pár napot, további értesítésig.
+Adományozással kapcsolatban a legfrissebb infó továbbra is  [facebook oldalunkon](https://www.facebook.com/migrationaidhungary). 
 
 
 ## HOGYAN TUDOK SEGÍTENI?
