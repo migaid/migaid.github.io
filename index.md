@@ -18,7 +18,7 @@ widget-1:
 widget-2:
     title: "InfoAid App"
     url: 'infoaid/'
-    text: 'Az InfoAid okostelefonokon használható, kicsi, egyszerű és minimális adatforgalommal járó alkalmazás, melynek célja a Magyarországra érkező menekültek gyors és hiteles információhoz juttatása saját nyelvükön. Letölthető a [Google Playről](https://play.google.com/store/apps/details?id=com.migrationaid.infoaid) vagy az alábbi QR kóddal.'
+    text: 'Az InfoAid okostelefonokon használható, kicsi, egyszerű és minimális adatforgalommal járó alkalmazás, melynek célja a Magyarországra érkező menekültek gyors és hiteles információhoz juttatása saját nyelvükön. Letölthető a <a href="https://play.google.com/store/apps/details?id=com.migrationaid.infoaid">Google Playről</a> vagy az fenti QR kóddal.'
     image: infoaid_app_QRcode.jpg
 widget-3:
     title: "A csoport"
