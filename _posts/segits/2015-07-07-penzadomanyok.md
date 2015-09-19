@@ -17,41 +17,16 @@ tags:
     - pénzadomány
     - info
 ---
+## Adománystop
 
-Kedves Adományozók, akik pénzzel szeretnétek támogatni a munkánkat!
+A határzár miatt az országba jelenleg csak nagyon kevés menedékkérő érkezik, az adományozók nagylelkűségének köszönhetően a raktáraink pedig ismét megteltek. Ennek következtében **<font color="red">a helyzet változásáig felfüggesztjük a további adományok fogadását</font>**, ide értve a pénzadományokat is.
+ 
+Köszönet illet mindenkit, aki adománnyal, pénzzel, ötletekkel, az idejével, kétkezi munkával vagy egy kedves szóval támogatta a munkát! Hihetetlen és megindító szolidaritásról tett mindenki tanúbizonyságot!
+ 
+Külön köszönet a Mikszáth Gyógyszertár az Egészségért és Robert Burns alapítványoknak, akik lehetővé tették számunkra pénzadományok fogadását, és levették a vállunkról az adminisztratív terheket, hogy minden erőnkkel a menedékkérők segítésére koncentrálhassunk.
+Ezeknek az ésszerű felhasználásán már dolgozunk és tájékoztatni fogunk benneteket arról, hogy mire fordítjuk az adományozott összegeket.
 
-Készpénzt, illetve pénzadományokat közvetlenül továbbra sem áll módunkban fogadni, viszont két megoldást is tudunk javasolni azoknak, akik más módon most nem tudnak segíteni, de szeretnének támogatni minket.
-
-## Pénzadomány a Robert Burns Nemzetközi Alapítványon keresztül
-A Robert Burns alapítvány felajánlotta, hogy a számláikon gyűjt számunkra adományokat. A befolyt összegből takarókat, sátrakat, hálózsákokat és egyéb szükséges dolgokat fognak eljuttatni hozzánk. Az utalásoknál a megjegyzés/hivatkozás mezőben kérjük tüntessék fel hogy "Migration Aid". 
-
-Az utalásról kérünk, hogy küldj nekünk egy emailt az adomany@migrationaid.net címre "Caledonia" tággyal. 
-
-##### Számlaadatok
-**Forint számla:**
-
-	Robert Burns Nemzetközi Alapítvány
-	Raiffeisen Bank Hungary
-	Hivatkozás/megjegyzés: Migration Aid
-	Számlaszám: 12001008-00114912-00600004
-	IBAN: HU79 1200 1008 0011 4912 0060 0004
-	SWIFT/BIC: UBRTHUHB
-
-**Euro számla:**
-
-	Robert Burns Nemzetközi Alapítvány
-	Raiffeisen Bank Hungary
-	Hivatkozás/megjegyzés: Migration Aid
-	Számlaszám: 12001008 - 00114912 - 00200006
-	IBAN: HU45 1200 1008 0011 4912 0020 0006
-	SWIFT/BIC: UBRTHUHB
-
-
-**PayPal:**
-
-[Forint, angol font és euro utalás paypalon keresztül](http://www.robert-burns-foundation.org/?page_id=80)
-Kérlek itt se felejtsétek a közlemény mezőbe beírni, hogy Migration Aid! 
-
+{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
 ## **Online rendelés, csomagküldés**
 

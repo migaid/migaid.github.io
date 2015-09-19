@@ -18,17 +18,16 @@ tags:
     - adományok
     - info
 ---
-{% include alert warning='FONTOS infó Röszkéről! Kérünk mindenkit, hogy senki ne induljon el semmilyen szállítmánnyal!' %} 
+## Adománystop
 
-1) nagyon kérik hogy SZEMÉLYAUTÓNYI adománnyal SENKI NE INDULJON EL KÉSŐBB SE! Mert káoszt okoz és ártani meg gondolom senki nem akar.
+A határzár miatt az országba jelenleg csak nagyon kevés menedékkérő érkezik, az adományozók nagylelkűségének köszönhetően a raktáraink pedig ismét megteltek. Ennek következtében **<font color="red">a helyzet változásáig felfüggesztjük a további adományok fogadását</font>**, ide értve a pénzadományokat is.
+ 
+Köszönet illet mindenkit, aki adománnyal, pénzzel, ötletekkel, az idejével, kétkezi munkával vagy egy kedves szóval támogatta a munkát! Hihetetlen és megindító szolidaritásról tett mindenki tanúbizonyságot!
+ 
+Külön köszönet a Mikszáth Gyógyszertár az Egészségért és Robert Burns alapítványoknak, akik lehetővé tették számunkra pénzadományok fogadását, és levették a vállunkról az adminisztratív terheket, hogy minden erőnkkel a menedékkérők segítésére koncentrálhassunk.
+Ezeknek az ésszerű felhasználásán már dolgozunk és tájékoztatni fogunk benneteket arról, hogy mire fordítjuk az adományozott összegeket.
 
-2) Segítséget kérünk szállításban (főleg teherautókat várunk a mennyiség miatt). Ezügyben a adomany@migrationaid.net címre írjatok "Röszke szállítás" tággyal.
-
-4) akinek nagyobb felajánlása van, írjon az adomany@migrationaid.net címre "Röszke adomány" tággyal
-
-{% include alert warning='NYOMATÉKOSAN KÉRIK LENT, HOGY SENKI NE INDULJON EL "KALANDTÚRÁRA"' %}
-
-Adományozással kapcsolatban a legfrissebb infó továbbra is  [facebook oldalunkon](https://www.facebook.com/migrationaidhungary). 
+{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
 
 # Mit adományozzak? 
@@ -70,9 +69,6 @@ Ez a lista:
 - esőkabát 
 - kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség  
 - sátor
-
-
-{% include alert warning='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt szeptember 15 utáni kszállítással kérd.'  %}
 
 ### Adományozás nagyobb tételben
 
