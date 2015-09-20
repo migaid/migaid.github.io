@@ -11,19 +11,16 @@ header:
    image_fullwidth: "header.jpg"
 
 ---
+## Adománystop
 
-{% include alert warning='FONTOS infó Röszkéről! Kérünk mindenkit, hogy senki ne induljon el semmilyen szállítmánnyal!' %} 
+A határzár miatt az országba jelenleg csak nagyon kevés menedékkérő érkezik, az adományozók nagylelkűségének köszönhetően a raktáraink pedig ismét megteltek. Ennek következtében **<font color="red">a helyzet változásáig felfüggesztjük a további adományok fogadását</font>**, ide értve a pénzadományokat is.
+ 
+Köszönet illet mindenkit, aki adománnyal, pénzzel, ötletekkel, az idejével, kétkezi munkával vagy egy kedves szóval támogatta a munkát! Hihetetlen és megindító szolidaritásról tett mindenki tanúbizonyságot!
+ 
+Külön köszönet a Mikszáth Gyógyszertár az Egészségért és Robert Burns alapítványoknak, akik lehetővé tették számunkra pénzadományok fogadását, és levették a vállunkról az adminisztratív terheket, hogy minden erőnkkel a menedékkérők segítésére koncentrálhassunk.
+Ezeknek az ésszerű felhasználásán már dolgozunk és tájékoztatni fogunk benneteket arról, hogy mire fordítjuk az adományozott összegeket.
 
-1) nagyon kérik hogy SZEMÉLYAUTÓNYI adománnyal SENKI NE INDULJON EL KÉSŐBB SE! Mert káoszt okoz és ártani meg gondolom senki nem akar.
-
-2) Segítséget kérünk szállításban (főleg teherautókat várunk a mennyiség miatt). Ezügyben a adomany@migrationaid.net címre írjatok "Röszke szállítás" tággyal.
-
-4) akinek nagyobb felajánlása van, írjon az adomany@migrationaid.net címre "Röszke adomány" tággyal
-
-{% include alert warning='NYOMATÉKOSAN KÉRIK LENT, HOGY SENKI NE INDULJON EL "KALANDTÚRÁRA"' %}
-
-Adományozással kapcsolatban a legfrissebb infó továbbra is  [facebook oldalunkon](https://www.facebook.com/migrationaidhungary). 
-
+{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
 ## HOGYAN TUDOK SEGÍTENI?
 
@@ -33,6 +30,7 @@ Alapvetően 4 féle módon:
   - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
   - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
   - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
+
 
 Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook olalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van, és nem minden raktárban fogadunk mindent.  
 

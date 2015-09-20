@@ -11,6 +11,18 @@ header:
    image_fullwidth: "header.jpg"
 
 ---
+
+## Donation collection temporarily suspended
+
+The number of refugees arriving to Hungary has significantly dropped with the new physical border, and the generous donations had filled our storages to the brim, again. Therefore **<font color="red">we suspend the collection of donations until the situation changes</font>**, including the reception of monetary donations.
+ 
+We thank everyone who supported the effort with donations, money, ideas, time, manual labor or kind words. We witnessed incredible and moving expressions of solidarity.
+
+We would like to say special thanks to the Mikszáth Pharmacy foundation and the Robert Burns foundation, who facilitated the reception of monetary donations, thus freeing us from the administrative and legal aspects, so we could focus on helping the refugees. We are already working out the details of how to use the collected money, and we will soon inform you on our [facebook page](https://www.facebook.com/migrationaidhungary). 
+
+{% include alert warning='Please follow our <a href="https://www.facebook.com/migrationaidhungary"> facebook page!</a> '%}
+
+
 - [What is Migration Aid](#whatis)
 - [How can I help?](#howcanihelp)
 - [Donations](#donations)
@@ -18,19 +30,10 @@ header:
   - [How to donate in person?](#donatinginperson)
   - [How to help from abroad?](#donatingfromabroad)
     - [Online shopping donations](#onlineshopping)
-    - [Monetary donations](#donatingmoney)
   - [Storage locations](#storages)
   - [Transit areas](#transitareas)
 - [Volunteering](#volunteering)
 - [InfoAid mobile app for refugees](#infoaid)
-
-{% include alert warning='DO NOT TRY TO BRING DONATIONS PRIVATELY TO RÖSZKE! WE ARE COLLECTING THEM AT KELETI!'%}
-
-We are lokking for offers to help us with shipping (trucks preferred). If you want to offer shipping, write to adomany@migrationaid.net, please include "Roszke szallitas" in the subject.
-
-Please do not try to bring donations privately. The refugee camp is closed and private citizens cannot enter it. We try to establish a cooperation with the authorities and we dont want it threatened by too many private requests. 
-
-If you would like to give a larger  donation for Röszke, write to adomany@migrationaid.net, please include "Roszke adomany" in the subject. 
 
 
 # What is Migration Aid?<a name="whatis"></a> 
@@ -47,17 +50,8 @@ If you want to join the initiative, there are many ways you can help! Join our [
 
 **You can make donations, or you can volunteer.**
 
-# Donations<a name="donations"></a>
 
-{% include alert warning='THE CENTRAL STORAGE AND KELETI TRANZIT AREA ARE NOW OPEN FOR DONATIONS'%}
-
-{% include alert warning='ATTENTION! THE RECEPTION OF DONATIONS IS TEMPORARILY SUSPENDED NYUGATI AND DELI TRANZIT ZONES! PLEASE, DO NOT BRING/SEND DONATIONS TO THESE LOCATIONS UNTIL FURTHER NOTICE! WE WILL REOPEN OUR STORAGES VERY SOON!' %} 
-
-We are incredibly moved by the generous amount of donations we have received recently from you for the asylum seekers. However, we received so much that our storage rooms are already full, and at the same time we are aware of a large amount of online orders that will arrive in the next few days. We are trying our best to sort and distribute the goods that we received from you among the asylum seekers in need. At the same time, we would like to ask you to NOT TO BRING ANYTHING Deli or Nyugati Tranzit Areas until further notice, when our storage will have been reduced. We will be able to supply the Tranzit Areas from the central storage for the next couple of days. 
-
-Once we have arranged our storages, we will inform you here on our Facebook page and then you can bring more donations. Until then, we will be eternally grateful for your patience! Thank you! Those who have already dispacthed an online order or shipment to us, do not worry! 
-
-We will accept each order that arrives. If you want to send us something now, please schedule the delivery later than 15 September to Verseny street, or wait until further notice.
+# Donations <a name="donations"></a>
 
 ## What to donate? <a name="whattodonate"></a>
 
@@ -92,14 +86,13 @@ Because these orders can take several days to complete, we do not expect you to 
 - prepacked small snaks: cereal bars, waffels, cookies, sweets
 - tents
 
-{% include alert warning='PLEASE PUT HOME DELIVERY DONATIONS ON HOLD UNTIL SEPTEMBER 15!' %}
-
 Suddenly we received many donations and we have reached the limit of our storage facility. Because of that, we would like to ask you to put your online shopping/home delivery donations on hold for 1-2 weeks, until we can empty the storages. It would also be best to consult the actual shopping lists later. Thank you for your understanding! 
 
 ##### Donating bigger quantitites
 
 If you want to donate in bigger quantities (eg you had a fundraiser or you are donating for a company) please conatct us beforehand a adomany@migrationaid.net.
 
+<!--
 
 #### Donating through Robert Burns Foundation<a name="donatingmoney"></a>
 
@@ -132,7 +125,6 @@ If you make a donation to their accounts, pls add "Migration Aid" in the comment
 Please don't forget to put "Migration Aid" in the comment field! 
 
 
-<!--
  The most needed items for the supply of train stations:
 
 - 0.5 liters natural water
