@@ -12,7 +12,16 @@ header:
 
 ---
 
-{% include alert warning='Wir brauchen Decken und Zelte, die wir nach Röszke liefern können. Nehmen Sie bitte diese zum Bahnhof KELETI mit. Wir freuen uns über die Hilfe beim Transport auch. Fahren Sie bitte nicht direkt nach Röszke. Der Flüchtlingslager ist vor der Öffentlichkeit geschlossen, Privatpersonen dürfen dessen Gebiet nicht betreten. Wir versuchen mit den Behörden zusammenzuarbeiten und möchten nicht, dass es wegen Privatpersonen erschwert wird.' %}
+## Spendenstop
+
+Aufgrund der Grenzsperrung kommen in Ungarn zurzeit nur sehr wenige Asylsuchende an. Aufgrund der Großzügigkeit der Spender sind unsere Lager bereits erneut gefüllt. Aufgrund dessen werden wir **<font color="red">bis sich die Situation verändert die Annahme weiterer Spenden aussetzen</font>**, was auch für Geldspenden gilt.
+ 
+Ein Dank gebührt denen, die mit Spenden, Geld, Ideen, Zeit und der Arbeit ihrer Hände oder mit einem netten Wort die Arbeit unterstützt haben! Alle haben eine unglaubliche und bewegende Solidarität gezeigt!
+ 
+Besonderer Dank gebührt den Stiftungen Apotheke Mikszáth für Gesundheit und Robert Burns, die es uns möglich gemacht haben, Geldspenden anzunehmen und uns die administrativen Bürden von der Schulter nahmen, damit wir uns mit aller Kraft auf das Helfen der Asylsuchenden konzentrieren konnten.
+Wir arbeiten bereits an der vernünftigen Verwendung dieser Spenden und werden euch darüber informieren, was wir durch die gespendeten Summen finanzieren.
+
+{% include alert warning='Verfolgt auch unsere<a href="https://www.facebook.com/migrationaidhungary"> Facebookseite!</a> '%}
 
 # Was ist Migration Aid? 
 
