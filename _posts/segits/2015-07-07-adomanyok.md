@@ -18,14 +18,22 @@ tags:
     - adományok
     - info
 ---
-## Adománystop
+A Migration Aid a mai naptól ismét gyűjt adományokat, de a kapacitások végessége miatt kizárólag az alábbiakban felsoroltakat kérnénk szépen. A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és a magyar-osztrák határon sokszor órákat várakozó menedékkérőkön szeretnénk segíteni étel- és vízosztással. 
 
-A határzár miatt az országba jelenleg csak nagyon kevés menedékkérő érkezik, az adományozók nagylelkűségének köszönhetően a raktáraink pedig ismét megteltek. Ennek következtében **<font color="red">a helyzet változásáig felfüggesztjük a további adományok fogadását</font>**, ide értve a pénzadományokat is.
- 
-Köszönet illet mindenkit, aki adománnyal, pénzzel, ötletekkel, az idejével, kétkezi munkával vagy egy kedves szóval támogatta a munkát! Hihetetlen és megindító szolidaritásról tett mindenki tanúbizonyságot!
- 
-Külön köszönet a Mikszáth Gyógyszertár az Egészségért és Robert Burns alapítványoknak, akik lehetővé tették számunkra pénzadományok fogadását, és levették a vállunkról az adminisztratív terheket, hogy minden erőnkkel a menedékkérők segítésére koncentrálhassunk.
-Ezeknek az ésszerű felhasználásán már dolgozunk és tájékoztatni fogunk benneteket arról, hogy mire fordítjuk az adományozott összegeket.
+- 0,5 literes szénsavmentes ásványvíz 
+- 0,2 literes gyümölcslé
+- alma
+- datolya 
+- müzli-szelet 
+- uzsonnás zacskó 
+- OMV ajándékkártya (önkéntes szállítóinknak segítség a benzinbe)
+
+Szállítási cím: 
+
+	2000 Szentendre, Bor utca 6. 
+	Átvétel: hétköznap 10.00 - 20.00 (hétvégén és ünnepnapokon nem)
+
+Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az adomany@migrationaid.net címen. Köszönjük! 
 
 {% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
