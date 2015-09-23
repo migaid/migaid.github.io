@@ -12,16 +12,22 @@ header:
 
 ---
 
-## Donation collection temporarily suspended
+From today Migration Aid accepts donations again but due to the capacity limits we would kindly ask exclusively for those items listed below, nothing else for the moment. Adapting to the changing circumstances, we would like to help the asylum-seekers with food and water at the Hungarian-Croatian and Hungarian-Austrian borders who sometimes have to wait several hours there. 
 
-The number of refugees arriving to Hungary has significantly dropped with the new physical border, and the generous donations had filled our storages to the brim, again. Therefore **<font color="red">we suspend the collection of donations until the situation changes</font>**, including the reception of monetary donations.
- 
-We thank everyone who supported the effort with donations, money, ideas, time, manual labor or kind words. We witnessed incredible and moving expressions of solidarity.
+- 0.5 l still water 
+- 0.2 l juice 
+- apple 
+- dates 
+- muesli bars 
+- plastic lunch bags 
+- OMV gift card (to support the fuel costs of volunteer transporters)
 
-We would like to say special thanks to the Mikszáth Pharmacy foundation and the Robert Burns foundation, who facilitated the reception of monetary donations, thus freeing us from the administrative and legal aspects, so we could focus on helping the refugees. We are already working out the details of how to use the collected money, and we will soon inform you on our [facebook page](https://www.facebook.com/migrationaidhungary). 
+Shipping address: 
 
-{% include alert warning='Please follow our <a href="https://www.facebook.com/migrationaidhungary"> facebook page!</a> '%}
+    2000 Szentendre, Bor street 6. 
+    Reception times: 10.00 – 20.00 weekdays (NOT on weekends or holidays)
 
+If you’d like to send us a larger quantity donation, please get in touch with us in advance via adomany@migrationaid.net. Thank you!
 
 - [What is Migration Aid](#whatis)
 - [How can I help?](#howcanihelp)
