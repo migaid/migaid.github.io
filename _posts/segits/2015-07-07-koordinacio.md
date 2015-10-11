@@ -19,10 +19,9 @@ tags:
 
 Az adományok kiszállítására folyamatosan szükségünk van önkéntesekre, akik az elosztópontokhoz vagy a menekülttáborokba tudnak fuvart vállalni. **Fuvart, fuvarozót** keresünk az alábbi irányokba:
 
-- Budapest --> Debrecen
-- Budapest --> Vámosszabadi
-- Budapest --> Fót
-- Pécs <--> Budapest
+- Budapest --> Zákány
+- Budapest --> Hegyeshalom
+- Budapesten belül
 
 A raktárakba pakolni, csomagokat porciózni, raktári ügyeletet adni és az adományokat fogadni is szükségünk van segítőkre.
 
