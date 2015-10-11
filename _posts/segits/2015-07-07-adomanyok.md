@@ -18,22 +18,28 @@ tags:
     - adományok
     - info
 ---
-A Migration Aid a mai naptól ismét gyűjt adományokat, de a kapacitások végessége miatt kizárólag az alábbiakban felsoroltakat kérnénk szépen. A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és a magyar-osztrák határon sokszor órákat várakozó menedékkérőkön szeretnénk segíteni étel- és vízosztással. 
+A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és a magyar-osztrák határon sokszor órákat várakozó menedékkérőkön szeretnénk segíteni étel- és vízosztással. Ehhez az alábbi adományokat fogadjuk szívesen:
 
 - 0,5 literes szénsavmentes ásványvíz 
 - 0,2 literes gyümölcslé
-- alma
+- 0,2 literes tartós tej vagy kakaó
+- alma, banán
 - datolya 
+- aszalt gyümölcs
+- csomagolt croissant vagy pékáru
+- szeletelt kenyér
+- uborka, répa, paprika
+- natúr mackósajt
 - müzli-szelet 
 - uzsonnás zacskó 
-- OMV ajándékkártya (önkéntes szállítóinknak segítség a benzinbe)
+- OMV vagy MOL ajándékkártya (önkéntes szállítóinknak segítség a benzinbe) 
 
 Szállítási cím: 
 
-	2000 Szentendre, Bor utca 6. 
-	Átvétel: hétköznap 10.00 - 20.00 (hétvégén és ünnepnapokon nem)
+	Budapest 1076, VII. kerület, Verseny utca 10.
+	Átvétel: mindennap 16.00 – 20.00
 
-Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az adomany@migrationaid.net címen. Köszönjük! 
+Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen. Köszönjük! 
 
 {% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
 
@@ -43,40 +49,19 @@ Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, elő
 {% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
 
 
-Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudujuk az éppen nem használt adományokat hosszan tárolni, ezért mindig azt gyűjtünk, amire éppen szükség van. Az adománylistánk naponta változik, ezt a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) követheted, itt minden nap friss információt találsz. Kérünk, ha teheted, errő a listáról adományozz.
+Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudjuk az éppen nem használt adományokat hosszan tárolni, ezért mindig azt gyűjtünk, amire éppen szükség van. Az adománylistánk naponta változik, ezt a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) követheted, itt minden nap friss információt találsz. Kérünk, ha teheted, erről a listáról adományozz.
 
 
 ### Ha személyesen szeretnél adományozni
 
-Adományodat leadhatod a Tranzitokban vagy a Verseny utcai raktárban. 
-
-A Tranzitokban a tárolási lehetőség nagyon szűkös, úgyhogy ott mindig csak azt gyűjtjük, amire aktuálisan, abban az 1-2 napban szükség van. 
+Adományodat leadhatod a Verseny utcai raktárban. 
 
 Az általános napi adománylistát a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) találod. 
-
-Ha közel laksz vagy dolgozol valamelyik Tranzit zónához, akkor érdemes csatlakozni a facebook csoportjához, ahol percrekész információt kaphatsz arról, hogy mire van szükség. [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/) 
-
-### Friss élelmiszer, szendvicsalapanyag adományozása
-
-Friss és romlandó élelmiszert a Tranzit zónáknál és a központi raktárban is gyűjtünk. Figyeld a Tranzit zónák facebook csoportjait és a [facebook oldalunkat](https://www.facebook.com/migrationaidhungary)!
-
-### Tartós élelmiszerek, tárgyi adományok, ruha adományozása
-
-Ezeket a Tranzit zónákban és a verseny utcában is fogadunk. Hogy hol mit, az naponta változik, erről is a [facebook oldalunkról](https://www.facebook.com/migrationaidhungary) tájékozódhatsz.
-
-**Ruhát jelenleg nem gyűjtünk!**
 
 ### Ha online vásárlást szeretnél küldeni 
 
 Ha messze laksz és nem tudsz személyesen adományt hozni, jó megoldás egy online vásárlást házhozszállítással ejuttatni a központi raktárunkba. 
 Az online rendelések átfutási ideje jópár nap, értelemszerűen ezzel nem tudsz követni egy naponta változó adománylistát. Ezért csináltunk egy "rendelős" listát, amin olyasmik szerepelnek, amikre hosszú távon mindig szükség van. 
-
-Ez a lista:
-
-- takaró, hálózsák, polifoam (jógamatrac) 
-- esőkabát 
-- kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség  
-- sátor
 
 ### Adományozás nagyobb tételben
 
@@ -108,61 +93,14 @@ A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében cs
 	mindennap 16.00 - 20.00
 
 
-## Tranzit állomások
-
-**Nyugati tranzit állomás Migration Aid raktár**
-
-	Nyugati pályaudvari tranzit állomás
-	Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
-	(a 14-es vágány melletti kijárattól táblázva)
-	mindennap 9-22
-
-
-**Keleti tranzit állomás Migration Aid raktár** 
-
-	Keleti pályaudvari tanzit állomás, aluljáró
-	Budapest, Baross tér VIII. ker., 
-	(a metró Rottenbiller utcai kijárata mellett)
-	mindennap 11.00 - 22.00
-
-
-**Déli tranzit állomás Migration Aid raktár**
-
-	Déli pályaudvari tranzit állomás, aluljáró
-	Budapest, Déli pályaudvar II. ker., 
-	(a kerengőben az aktikvárium mellett)
-	mindennap 0-24
-
-
 ## Korábbi adománygyűjtő helyeink voltak
 
-Az adományok átvétele az Arany János utca 32. szám alatt 2015.augusztus 31-én megszűnt. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
+A Keleti, Nyugat és Déli pályaudvaroknál kijelölt tranzit zónákban volt jelen a Migration Aid és ott, a helyszínen gyűjöttünk adományokat. 
+
+2015.augusztus 31-ig az Arany János u 32-ben gyűjthettünk. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
 
 Augusztus 10-től korábbi adománygyűjtő helyünk a Kalicka Bistro (Rottenbiller utca 32) nem fogad már adományokat. Nagyon köszönjük a tulajdonosnak, Tóth Eszternek, hogy rendelkezésünkre bocsátotta a helyiséget!
 
 A **Caledónia Étteremnek** (Mozsár utca 9.) és vezetőjének, **Bozó Zsuzsannának** nem tudjuk eléggé kifejezni hálánkat az emberfeletti segítségért és koordinációért, amivel az adományokat júlisu 27-ig gyűjtötték! Óvatos becslésekkel is legalább 10.000 rászorulót láttak el ez alatt a pár hét alatt.
 
 Ezúton köszönjük a **Magyar Nők Szövetségének** (Andrássy út 124.) is, hogy tudtak raktárhelyet biztosítani számunkra, **Hay Évának** a koordinációért és persze mindenkinek, aki adománnyal vagy segítséggel hozzájárult ehhez a rendkívüli munkához!
-
-<!--
-A Budapest 1076, VII. ker., Verseny utca 10. szám alatti új központi raktárunk szept. 3-án, csütörtökön nyit és mindennap 16.00 és 20.00 között a következő felajánlásokat várja (a lista a [Facebook-oldalon](https://www.facebook.com/migrationaidhungary) naponta frissül):  
-
-- takaró, hálózsák, polifoam (jógamatrac) 
-- esőkabát 
-- félliteres szénsavmentes ásványvíz 
- - kis dobozos gyümölcslé  
-- kis adagban gyárilag előrecsomagolt müzli szelet, nápolyi, keksz, édesség  
-- gyümölcs (alma, banán)
-
-Egyelőre **SEMMILYEN RUHA ADOMÁNYT** nem tudunk fogadni. Kérjük, kísérjétek figyelemmel tájékoztatásainkat, hogy a hűvösebb, esős napok beálltával pontosan mikor, milyen ruhára lesz szükség. Köszönjük!
-
-Nagyon szépen kérjük, hogy tényleg csak azt hozzatok a raktárba, ami a listában szerepel. Nem véletlenül korlátozott a lista, ugyanis hála a sok jószívű embernek temérdek adomány érkezett már be a napokban, és rengetegen jelezték, hogy küldtek adományokat kiszállítással a következő 2 hétben, viszont a tárolási lehetőségeink korlátozottak, ezért ruhát, játékot, higiéniai szereket majd csak akkor gyűjtünk megint, ha a felhalmozott készletek elfogytak. A listát minden reggel 7 óra körül frissítjük majd az aktuális igényekkel a facebook-oldalunkon.
-
-
-A napi aktuális adománylista a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary)!
-
-A raktározási lehetőségeink korlátozottak. Kampányszerűen gyűjtjük a különböző dolgokat, melyeket szortírozunk, majd a kiszállítunk a Tranzitokba és a táborokba. Sajnos nem tudunk egyszerre minden szükséges dolgot gyűjteni és főleg tárolni, ezért a táborok és a Tranzitok igényeitől és a szállítási lehetőségeinktől is függ, hogy éppen milyen adományokat tudunk átvenni. Ezért ha olyasmit adományoznál, amit éppen nem gyűjtűnk, kérünk, ne dobd ki, mert valószínűleg hamarosan szükség lesz rá! Figyeld az aktuális napi adománylistát.
-
-{% include alert info='Mivel a raktáriank megteltek, arra kérünk, hogy ha online rendelést szeretnél adományozni, azt ne most tedd, hanem majd 1-2 hét múlva. Akkor is biztosan szükség lesz rá.'  %}
--->
-
