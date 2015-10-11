@@ -48,7 +48,6 @@ If you’d like to send us a larger quantity donation, please get in touch with 
   - [How to help from abroad?](#donatingfromabroad)
     - [Online shopping donations](#onlineshopping)
   - [Storage locations](#storages)
-  - [Transit areas](#transitareas)
 - [Volunteering](#volunteering)
 - [InfoAid mobile app for refugees](#infoaid)
 
@@ -81,7 +80,7 @@ You can hand over your donation at our Verseny street storage (you can find the 
 Since asylum-seekers no longer go through Budapest, the Tranzit Zones at Budapest trian stations no longer function!
 
 ### Donating canned food, clothing, household items etc.
-We collect these in the Transits and in Verseny street. The list of needed items changes daily, pls see our  [facebook page](https://www.facebook.com/migrationaidhungary) for details.
+We collect these at the Verseny street storage. The list of needed items changes daily, please see our  [facebook page](https://www.facebook.com/migrationaidhungary) for details.
 
 ### **Helping from abroad**<a name="donatingfromabroad"></a>
 

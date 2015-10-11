@@ -14,10 +14,10 @@ header:
 
 ## HOGYAN TUDOK SEGÍTENI?
 
-Alapvetően 4 féle módon:
+Alapvetően e féle módon:
 
-  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba és bizonyos esetekben a tranzit zónákba ]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
-  - [támogathatod a gyógyszer keretünket, illetve rendelhetsz online a raktárunkba való szállítással]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
+  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
+  - [endelhetsz online a raktárunkba való szállítással, illetve pénzbeli adománnyal PayPalon keresztül]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
   - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
 
 
@@ -38,10 +38,6 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     <div class="medium-4 columns">
         <p><a href="{{ site.url }}{{ site.baseurl }}/segits/onkentesek/"><img src="{{ site.url }}{{ site.baseurl }}/images/onkentes.png" alt="">Önkéntes munka</a></p>
     </div><!-- /.medium-4.columns -->
-
-  <!--  <div class="medium-4 columns">
-      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/elelmiszer/"><img src="{{ site.url }}{{ site.baseurl }}/images/elelmiszer.png" alt="">Élelmiszer-csomagok</a></p>
-    </div>--><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
       <p><a href="{{ site.url }}{{ site.baseurl }}/segits/informaciok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Információs anyagok, fordítás</a></p>

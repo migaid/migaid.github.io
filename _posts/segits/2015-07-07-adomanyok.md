@@ -22,6 +22,7 @@ A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és
 
 - 0,5 literes szénsavmentes ásványvíz 
 - 0,2 literes gyümölcslé
+- 0,2 literes tartós tej vagy kakaó
 - alma, banán
 - datolya 
 - aszalt gyümölcs
@@ -31,7 +32,7 @@ A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és
 - natúr mackósajt
 - müzli-szelet 
 - uzsonnás zacskó 
-- OMV ajándékkártya (önkéntes szállítóinknak segítség a benzinbe)
+- OMV vagy MOL ajándékkártya (önkéntes szállítóinknak segítség a benzinbe) 
 
 Szállítási cím: 
 
@@ -53,7 +54,7 @@ Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudjuk az éppen ne
 
 ### Ha személyesen szeretnél adományozni
 
-Adományodat leadhatod a Tranzitokban vagy a Verseny utcai raktárban. 
+Adományodat leadhatod a Verseny utcai raktárban. 
 
 Az általános napi adománylistát a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) találod. 
 
@@ -92,35 +93,11 @@ A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében cs
 	mindennap 16.00 - 20.00
 
 
-## Tranzit állomások
-
-**Nyugati tranzit állomás Migration Aid raktár**
-
-	Nyugati pályaudvari tranzit állomás
-	Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
-	(a 14-es vágány melletti kijárattól táblázva)
-	mindennap 9-22
-
-
-**Keleti tranzit állomás Migration Aid raktár** 
-
-	Keleti pályaudvari tanzit állomás, aluljáró
-	Budapest, Baross tér VIII. ker., 
-	(a metró Rottenbiller utcai kijárata mellett)
-	mindennap 11.00 - 22.00
-
-
-**Déli tranzit állomás Migration Aid raktár**
-
-	Déli pályaudvari tranzit állomás, aluljáró
-	Budapest, Déli pályaudvar II. ker., 
-	(a kerengőben az aktikvárium mellett)
-	mindennap 0-24
-
-
 ## Korábbi adománygyűjtő helyeink voltak
 
-Az adományok átvétele az Arany János utca 32. szám alatt 2015.augusztus 31-én megszűnt. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
+A Keleti, Nyugat és Déli pályaudvaroknál kijelölt tranzit zónákban volt jelen a Migration Aid és ott, a helyszínen gyűjöttünk adományokat. 
+
+2015.augusztus 31-ig az Arany János u 32-ben gyűjthettünk. Nagyon köszönjük a tulajdonosoknak a nagyszerű lehetőséget és a segítségüket!
 
 Augusztus 10-től korábbi adománygyűjtő helyünk a Kalicka Bistro (Rottenbiller utca 32) nem fogad már adományokat. Nagyon köszönjük a tulajdonosnak, Tóth Eszternek, hogy rendelkezésünkre bocsátotta a helyiséget!
 
