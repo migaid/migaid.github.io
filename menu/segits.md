@@ -14,7 +14,7 @@ header:
 
 ## HOGYAN TUDOK SEGÍTENI?
 
-Alapvetően e féle módon:
+Alapvetően 3 féle módon:
 
   - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
   - [endelhetsz online a raktárunkba való szállítással, illetve pénzbeli adománnyal PayPalon keresztül]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
