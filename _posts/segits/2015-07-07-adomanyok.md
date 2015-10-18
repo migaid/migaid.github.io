@@ -18,26 +18,20 @@ tags:
     - adományok
     - info
 ---
-A megváltozott helyzethez alkalmazkodva ezekben a napokban a horvát-magyar és a magyar-osztrák határon sokszor órákat várakozó menedékkérőkön szeretnénk segíteni étel- és vízosztással. Ehhez az alábbi adományokat fogadjuk szívesen:
+A határnál fennálló megváltozott helyzetre való tekintettel élelmiszert és ruhákat most egyelőre nem kérünk, amíg nem derül ki pontosan mi lesz az új útvonal, hol tudunk osztani. Természetesen az eddig behozott és rendelt élelmiszereket fogadjuk és eljuttatjuk a menedékkérők számára, de egyelőre az új megrendelésekbe élelmiszert és ruhát ne tegyetek! Köszönjük!
 
-- 0,5 literes szénsavmentes ásványvíz 
-- 0,2 literes gyümölcslé
-- 0,2 literes tartós tej vagy kakaó
-- alma, banán
-- datolya 
-- aszalt gyümölcs
-- csomagolt croissant vagy pékáru
-- szeletelt kenyér
-- uborka, répa, paprika
-- natúr mackósajt
-- müzli-szelet 
-- uzsonnás zacskó 
-- OMV vagy MOL ajándékkártya (önkéntes szállítóinknak segítség a benzinbe) 
+Amire jelenleg szükség lenne: 
+
+- mobiltelefon feltöltőkártya (magyar és horvát telekom, a kapcsolattartók telefonszámlájának támogatásához) 
+ - benzinkártya (bármely töltőállomáshoz, az önkéntes fuvarozók benzinköltségeinek támogatásához)  
+- Tesco utalvány 
+ - Erzsébet utalvány
 
 Szállítási cím: 
 
 	Budapest 1076, VII. kerület, Verseny utca 10.
 	Átvétel: mindennap 16.00 – 20.00
+    október 18-án zárva
 
 Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen. Köszönjük! 
 
