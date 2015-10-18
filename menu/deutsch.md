@@ -12,31 +12,16 @@ header:
 
 ---
 
-In Anlehnung an die sich ändernde Situation helfen wir Geflüchteten mit Essen und Wasser an der österreichisch-ungarischen und kroatisch-ungarischen Grenze, die manchmal mehrere Stunden dort warten müssen. 
+Auf Grund  der veränderten Lage an der Grenze nehmen wir  keine Spenden (weder Lebensmittel noch Kleidung) mehr  an, solange wir nicht genau wissen wo die neuen Flüchtlingswege entstehen und wo wir die Spenden am besten vor Ort verteilen können. Selbstverständlich werden bereits abgegebene Bestellungen angenommen. Falls Sie vorhaben uns Sachspenden zu schicken, bitte senden Sie uns kein Lebensmittel oder Kleidungsstücke. Wir danken für Ihr Verständnis.
 
-- 0.5 l stilles Wasser
-- 0.2 l Saft
-- 0.2 l oder 1 l UHT Milch
-- 0.2-0.3 l Schookomilch / Kakao
-- Jó reggelt (good morning, ungarische Marke) Kekse
-- Müsliriegel
-- Schnittbrot
-- Dreieck Käse
-- Gurken, Paprika, Möhren
-- Apfel, Banane
-- Getrocknete Früchte
-- Eingepacktes Croissant oder Backwaren
-- OMV oder MOL Geschenkkarte (um Benzinkosten oder freiwilligem Transport beizutragen)
+- OMV oder MOL Gutscheine (um Benzinkosten oder freiwilligem Transport beizutragen)
+- Aufladekarten für  Handys (ungarische oder kroatische Telekom, um Ausgaben der Kontaktpersonen zu kürzen.)
 - Tesco Gutscheine
 - Erzsébet Gutscheine (einlösbar für Lebensmittel)
 
 Versandsadresse:
     Budapest, 1076, Verseny utca 10. 
     Annahme: täglich 16.00-20.00 
-
-Vorübergehender zusätzlicher Lagerraum:
-    Abda, 9151, Duna utca 28.
-    Spendenannahme nur an Wochentagen von 10.00 bis 12.00 (am Wochenende oder Feiertagen nicht)
 
 {% include alert warning='Verfolgt auch unsere<a href="https://www.facebook.com/migrationaidhungary"> Facebookseite!</a> '%}
 
