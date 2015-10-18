@@ -22,10 +22,10 @@ A határnál fennálló megváltozott helyzetre való tekintettel élelmiszert �
 
 Amire jelenleg szükség lenne: 
 
-- mobiltelefon feltöltőkártya (magyar és horvát telekom, a kapcsolattartók telefonszámlájának támogatásához) 
- - benzinkártya (bármely töltőállomáshoz, az önkéntes fuvarozók benzinköltségeinek támogatásához)  
-- Tesco utalvány 
- - Erzsébet utalvány
+- mobiltelefon feltöltőkártya (magyar és horvát telekom, a kapcsolattartók telefonszámlájának támogatásához)
+- benzinkártya (bármely töltőállomáshoz, az önkéntes fuvarozók benzinköltségeinek támogatásához)  
+- Tesco utalvány
+- Erzsébet utalvány
 
 Szállítási cím: 
 
