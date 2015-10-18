@@ -12,21 +12,10 @@ header:
 
 ---
 
-Help the asylum-seekers with food and water at the Hungarian-Croatian and Hungarian-Austrian borders who sometimes have to wait several hours there. 
+Due to the changing circumstances at the border areas, we do not collect food or clothing items at the moment until we know the new routes and where we can distribute food. Naturally we will receive every order that was already placed, but if you are planning to place new orders, please do not include food or clothing items in it right now. Thank you for your understanding!
 
-- 0.5 l still water 
-- 0.2 l juice
-- 0.2 l or 1 l UHT milk
-- 0.2 - 0.3 l chocolate milk (cacao)
-- Jó reggelt biscuits
-- muesli bars
-- sliced bread
-- triangle cheese (natur)
-- cucumber, paprika, carrot
-- apples, bananas
-- dried fruit
-- packaged croissant or bakery
 - OMV or MOL gift card (to support the fuel costs of volunteer transporters)
+- recharge cards for mobile phones (Hungarian or Croatian Telekom, to support the phone bill of contact persons)
 - Tesco vouchers
 - Erzsébet vouchers
 
@@ -34,9 +23,6 @@ Shipping address:
 
     Budapest 1076, district 7, Verseny street 10.
     Reception times: 16.00 – 20.00 every day
-
-Temporary additional storage room:
-  Duna street 28, Abda, 9151 Reception of donations only weekdays 10.00 - 12.00 (not on weekends or holidays)
 
 If you’d like to send us a larger quantity donation, please get in touch with us in advance via adomany@migrationaid.net. Thank you!
 

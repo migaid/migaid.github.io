@@ -33,6 +33,7 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
     Budapest 1076
     (a Keleti mellett, a Városliget felé eső oldalon) 
     mindennap 16.00 - 20.00 
+    Október 18-án vasárnap zárva!
 
 <div class="row t30">
     <div class="medium-4 columns">
