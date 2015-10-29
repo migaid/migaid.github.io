@@ -31,7 +31,7 @@ Szállítási cím:
 
 	Budapest 1076, VII. kerület, Verseny utca 10.
 	Átvétel: mindennap 16.00 – 20.00
-    október 23-án zárva
+	November 1-én zárva!
 
 Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen. Köszönjük! 
 
