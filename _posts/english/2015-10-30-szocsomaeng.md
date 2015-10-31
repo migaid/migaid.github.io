@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header.jpg"
    
 categories:
-    - "segits"
+    - "english"
 
 tags:
     - szocsoma, mélyszegénység
