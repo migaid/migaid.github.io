@@ -22,8 +22,8 @@ widget-2:
     Az InfoAid okostelefonokon használható, kicsi, egyszerű és minimális adatforgalommal járó alkalmazás, melynek célja a Magyarországra érkező menekültek gyors és hiteles információhoz juttatása saját nyelvükön. Letölthető a <b><a href="https://play.google.com/store/apps/details?id=com.migrationaid.infoaid">Google Playről</a></b>, a <b><a href="bit.ly/infoaid">bit.ly/infoaid</a></b> címről, vagy az fenti QR kód leolvasásával.'
     image: infoaid_app_QRcode.jpg
 widget-3:
-    title: "A csoport"
-    url: 'csoport/'
-    text: 'Mivel 2015. szeptember közepe óta a menekülthullám elkerüli Budapestet, ezért a tevékenységünket mi is áthelyeztük a horvát és osztrák határ menti területekre. Budapesti raktárunkban továbbra is fogadunk adományokat és az összegyűlt csomagokat rendszeresen eljuttatjuk a határ menti területekre, ahol a többi civil és karitatív szervezettel együttműködve osztjuk ki azokat.'
+    title: "SzoCsoMa"
+    url: 'segits/szocsoma'
+    text: 'A magyarországi akut menekültkérdés enyhülésével nagyobb hangsúly tudunk fektetni a Magyarországon élő, segítségre szorulókra. Még a nyáron, a Keleti pályaudvar hőskorszakában figyeltünk fel arra, hogy kétségbeesésében jó pár család elhagyni kényszerül korábbi otthonát, és a teljes létbizonytalanságot választva, Budapestre indul.'
     image: a-csoport.jpg
 ---

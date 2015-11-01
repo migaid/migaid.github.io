@@ -20,6 +20,8 @@
     url: "/segits/koordinacio/"
   - title: "Pénzadomámy"
     url: "/segits/penzadomanyok/"
+  - title: "MigAid+SzoCsoMa"
+    url: "/segits/szocsoma/"
 
 - title: "InfoAid app"
   url: "/infoaid/"
@@ -44,6 +46,9 @@
 - title: "English"
   url: "/english/"
   side: right
+  dropdown:
+  - title: "MigAid+SzoCsoMa"
+    url: "/english/szocsomaeng/"
 
 - title: "Deutsch"
   url: "/deutsch/"
