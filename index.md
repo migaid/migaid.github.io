@@ -10,10 +10,9 @@ header:
    image_fullwidth: "header.jpg"
 
 widget-1:
-    title: "Tennivalók"
-    url: 'segits/'
-    text: 'Szívesen segítenéd Te is a Migration Aid csapatának munkáját? A segítségnyújtás formái:
-    <br>1. élelmiszer-adomány <br>2. egyéb adományok (pénzbeli támogatás, ruha, gyógyszer stb.) .<br>3. egészségügyi és jogi segítségnyújtás <br>4. információs anyagok: fordítás, nyomtatás <br>5. tolmácsolás és koordináció <br>6. raktár és szállítás: logisztika, csomagolás'
+    title: "Migration Aid International"
+    url: 'info/migaidint'
+    text: 'A menedékkérők ellátásának biztosításában egyre nagyobb szerepet kap az adományozók és az önkéntesek határokon átívelő összefogása, illetve koordinációja. A Migration Aid koordinátorai úgy döntöttek, hogy a nemzetközi tevékenységek hatékonyabb szervezésére a tervezett magyar Migration Aid Egyesület mellett egy új segélyszervezetet hoznak létre.'
     image: segits.jpg
 widget-2:
     title: "InfoAid App"

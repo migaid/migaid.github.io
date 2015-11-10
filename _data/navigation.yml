@@ -35,6 +35,8 @@
     url: "/info/rolunk-irtak/"
   - title: "Fényképalbum"
     url: "/info/fenykepalbum/"
+  - title: "Migration Aid International"
+    url: "/info/migaidint"
 
 - title: "Segítettünk"
   url: "/blog/"
@@ -49,6 +51,8 @@
   dropdown:
   - title: "MigAid+SzoCsoMa"
     url: "/english/szocsomaeng/"
+  - title: "Migration Aid International"
+    url: "/info/migaidinteng"
 
 - title: "Deutsch"
   url: "/deutsch/"
