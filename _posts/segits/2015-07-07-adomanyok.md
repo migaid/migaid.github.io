@@ -30,8 +30,11 @@ Amire jelenleg szükség lenne: 
 Szállítási cím: 
 
 	Budapest 1076, VII. kerület, Verseny utca 10.
-	Átvétel: mindennap 16.00 – 20.00
-	November 1-én zárva!
+	Átvétel: 
+        hétfő: 17-19
+        szerda: 17-19
+        péntek: 17-20
+        A többi napokon zárva!
 
 Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen. Köszönjük! 
 
@@ -84,7 +87,10 @@ A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében cs
 	Verseny utca 10
 	Budapest 1076
 	(a Keleti mellett, a Városliget felé eső oldalon)	
-	mindennap 16.00 - 20.00
+	hétfő: 17-19
+        szerda: 17-19
+        péntek: 17-20
+        A többi napokon zárva!
 
 
 ## Korábbi adománygyűjtő helyeink voltak

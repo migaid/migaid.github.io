@@ -21,8 +21,11 @@ Auf Grund  der veränderten Lage an der Grenze nehmen wir  keine Spenden (weder 
 
 Versandsadresse:
     Budapest, 1076, Verseny utca 10. 
-    Annahme: täglich 16.00-20.00 
-
+    Annahme: 
+    	Montag: 17-19
+    	Mittwoch: 17-19
+        Freitag: 17-20
+        
 {% include alert warning='Verfolgt auch unsere<a href="https://www.facebook.com/migrationaidhungary"> Facebookseite!</a> '%}
 
 # Was ist Migration Aid? 
