@@ -31,9 +31,11 @@ Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzón�
 
     Verseny utca 10
     Budapest 1076
-    (a Keleti mellett, a Városliget felé eső oldalon) 
-    mindennap 16.00 - 20.00 
-    November 1-én zárva!
+    Nyitva:
+        hétfő: 17-19
+        szerda: 17-19
+        péntek: 17-20
+        A többi napokon zárva!
 
 <div class="row t30">
     <div class="medium-4 columns">

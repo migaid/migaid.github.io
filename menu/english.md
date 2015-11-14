@@ -22,7 +22,10 @@ Due to the changing circumstances at the border areas, we do not collect food or
 Shipping address: 
 
     Budapest 1076, district 7, Verseny street 10.
-    Reception times: 16.00 – 20.00 every day
+    Reception hours: 
+        Monday: 17-19
+        Wednesday: 17-19
+        Friday: 17-20
 
 If you’d like to send us a larger quantity donation, please get in touch with us in advance via adomany@migrationaid.net. Thank you!
 
@@ -93,9 +96,11 @@ Address and opening hours:
 
       Verseny street 10
       1076 Budapest 
-      (north from Keleti railway station)
-      every day 16.00 - 20.00. 
-
+      Opening hours: 
+        Monday: 17-19
+        Wednesday: 17-19
+        Friday: 17-20
+        
 If you would like to donate a larger quantity of goods or services, please contact us via adomany@migrationaid.net to discuss the details. Thank you!
 
 # **Volunteering**<a name="volunteering"></a>

@@ -39,7 +39,7 @@ Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudujuk az éppen n
 
 ### Ha személyesen szeretnél adományozni
 
-Adományodat leadhatod a Tranzitokban vagy a Verseny utcai raktárban. 
+Adományodat leadhatod a Verseny utcai raktárban. 
 
 A Tranzitokban a tárolási lehetőség nagyon szűkös, úgyhogy ott mindig csak azt gyűjtjük, amire aktuálisan, abban az 1-2 napban szükség van. Csatalkozhatsz a Tranzitok facebook csoportjahaihoz is: [Főcsoport](https://www.facebook.com/groups/1602563053360018/), [Migration Aid Keleti](https://www.facebook.com/groups/835984696454826/), [Migration Aid Nyugati](https://www.facebook.com/groups/490046001145489/), [Migration Aid Déli](https://www.facebook.com/groups/1612866438993255/). 
 
@@ -48,35 +48,6 @@ A Tranzitokban a tárolási lehetőség nagyon szűkös, úgyhogy ott mindig csa
 
 Ha messze laksz és nem tudsz személyesen adományt hozni, jó megoldás egy online vásárlást házhozszállítással ejuttatni az egyik raktárunkba.
 Az online rendelések átfutási ideje jópár nap, értelemszerűen ezzel nem tudsz követni egy napont aváltozó adománylistát. Ezért csináltunk egy "rendelős" listát, amin olyasmik szerepelnek, amikre hosszú távon mindig szükség van. Ezt a [pénzadományozós oldalunk]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/) alján az online rendeléseknél találod. Online rendelés keretében élelmiszerből jelenleg csak előrecsomagolt snackekt gyűjtünk. 
-
-
-## Tranzit állomások
-
-Önkénteseket a tranzitállomások mellett kialakított Migration Aid raktárakba várjunk.  
-
-**Nyugati tranzit állomás Migration Aid raktár**
-
-	Nyugati pályaudvari tranzit állomás
-	Budapest, Nyugati pályaudvar mellett, az Eiffel irodaház mögött 
-	(a 14-es vágány melletti kijárattól táblázva)
-	mindennap 9-22
-
-
-**Keleti tranzit állomás Migration Aid raktár** 
-
-	Keleti pályaudvari tanzit állomás, aluljáró
-	Budapest, Baross tér VIII. ker., 
-	(a metró Rottenbiller utcai kijárata mellett)
-	mindennap 11.00 - 22.00
-
-
-**Déli tranzit állomás Migration Aid raktár**
-
-	Déli pályaudvari tranzit állomás, aluljáró
-	Budapest, Déli pályaudvar II. ker., 
-	(a kerengőben az aktikvárium mellett)
-	mindennap 0-24
-
 
 
 
