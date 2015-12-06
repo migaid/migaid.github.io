@@ -14,51 +14,10 @@ header:
 
 ## HOGYAN TUDOK SEGÍTENI?
 
-Alapvetően 3 féle módon:
-
-  - [vihetsz tárgyi adományokat, tartós élelmiszert a raktárakba]({{ site.url }}{{ site.baseurl }}/segits/adomanyok/)
-  - [endelhetsz online a raktárunkba való szállítással, illetve pénzbeli adománnyal PayPalon keresztül]({{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/).
-  - [önkéntes munkával]({{ site.url }}{{ site.baseurl }}/segits/onkentesek/).
-
-
-Ha adományozni szeretnél, akkor azt a központi raktárban vagy a tranzitzónákban tudjuk fogadni. Hogy éppen hol mit, azt megtudhatod a [facebook oldalunkról](https://www.facebook.com/migrationaidhungary), minden nap friss lista van.
-
-{% include alert warning='Mindenképpen kövesd a <a href="https://www.facebook.com/migrationaidhungary"> facebook oldalunkat!</a> '%}
-
-## HELYSZÍNEK
-
-### **Központi raktár: Verseny utca 10**
-
-    Verseny utca 10
-    Budapest 1076
-    Nyitva:
-        hétfő: 17-19
-        szerda: 17-19
-        péntek: 17-20
-        A többi napokon zárva!
-
-<div class="row t30">
-    <div class="medium-4 columns">
-        <p><a href="{{ site.url }}{{ site.baseurl }}/segits/onkentesek/"><img src="{{ site.url }}{{ site.baseurl }}/images/onkentes.png" alt="">Önkéntes munka</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/informaciok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Információs anyagok, fordítás</a></p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<div class="row t30">
-    <div class="medium-4 columns">
-      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/adomanyok/"><img src="{{ site.url }}{{ site.baseurl }}/images/adomany.png" alt="">Adományok</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/koordinacio/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Koordináció, szállítás</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-      <p><a href="{{ site.url }}{{ site.baseurl }}/segits/penzadomanyok/"><img src="{{ site.url }}{{ site.baseurl }}/images/a-csoport-image1.jpg" alt="">Pénzadományok</a></p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-{% include alert info='A melegételosztás engedélyköteles és bonyolult. Legyen inkább több gyümölcs, hideg étel, víz, ez egyszerűbben, kevesebb energiával megoldható.' %}
+A Migration Aid Verseny utca 10. szám alatti adománygyűjtő központja megszűnt! Az új gyűjtőhelyet már nagy erőkkel keressük és amint megtaláltuk, ismét tudunk majd adományokat fogadni. Kérünk, segítsetek ebben! 
+A paraméterek:
+A Migration Aid helységet keres adományközpont céljára, ahol adományokat tudunk átvenni!
+December 1-től legalább 6 hónapos időtartamra keresünk 150-200 m2-es lehetőség szerint fűthető, földszinti helységet Budapesten a 6, 7, 8, 9 vagy 13. kerületben parkolási lehetőséggel és fontos, hogy tömegközlekedéssel is könnyen megközelíthető legyen, lehetőleg kedvezményes áron.
+smile emoticon
+Ha tudsz ilyen kiadó helységről, kérjük, írj az adomany@migrationaid.net e-mail címre „adományközpont” jeligével az e-mail tárgyában, de már egy megosztással is sokat segítesz!
+Köszönjük!

@@ -19,12 +19,13 @@ tags:
 ---
 
 
-Mivel 2015. szeptember közepe óta a menekülthullám elkerüli Budapestet, ezért a tevékenységünket mi is áthelyeztük a horvát és osztrák határ menti területekre. Budapesti raktárunkban továbbra is fogadunk adományokat és az összegyűlt csomagokat rendszeresen eljuttatjuk a határ menti területekre, ahol a többi civil és karitatív szervezettel együttműködve osztjuk ki azokat.
-A határhoz keresünk olyan önkénteseket, akik 2-3 napos turnusban tudnak jönni segíteni az osztásban. Jelentkezni az [operation@migrationaid.net](mailto:operation@migrationaid.net) címen lehet.
+A Migration Aid Verseny utca 10. szám alatti adománygyűjtő központja megszűnt! Az új gyűjtőhelyet már nagy erőkkel keressük és amint megtaláltuk, ismét tudunk majd adományokat fogadni. Kérünk, segítsetek ebben! 
+A paraméterek:
+A Migration Aid helységet keres adományközpont céljára, ahol adományokat tudunk átvenni!
+December 1-től legalább 6 hónapos időtartamra keresünk 150-200 m2-es lehetőség szerint fűthető, földszinti helységet Budapesten a 6, 7, 8, 9 vagy 13. kerületben parkolási lehetőséggel és fontos, hogy tömegközlekedéssel is könnyen megközelíthető legyen, lehetőleg kedvezményes áron.
+smile emoticon
+Ha tudsz ilyen kiadó helységről, kérjük, írj az adomany@migrationaid.net e-mail címre „adományközpont” jeligével az e-mail tárgyában, de már egy megosztással is sokat segítesz!
+Köszönjük!
 
-A menedékkérők többsége nagyon messziről érkezik, hosszú és viszontagságos utat megtéve, sokuk gyalog és kimerülve, gyakran lelkileg is meggyötörten. Fizikai és szellemi ellátásra is szükségük van, akár útközben, akár a menekülttáborban.
 
-*Orvosok, nővérek, pszichológusok, tolmácsok, fordítók, jogászok* segítségére nagy szükség van!
-
-Akad közöttük, aki beszél angolul, de a többség csak az anyanyelvén, ezért nagy szükség van **urdu, pastu, arab, török, kurd, fárszi, albán, valamint időnként francia tolmácsokra**, akik megkönnyítenék a kommunikációt és ezáltal a segítségnyújtást.
-
+{% include alert text='Ha szeretnél segíteni, kérjük a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkon</b></a> keresztül lépj velünk kapcsolatba!' %}
