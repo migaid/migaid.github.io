@@ -18,82 +18,39 @@ tags:
     - adományok
     - info
 ---
-A határnál fennálló megváltozott helyzetre való tekintettel élelmiszert és ruhákat most egyelőre nem kérünk, amíg nem derül ki pontosan mi lesz az új útvonal, hol tudunk osztani. Természetesen az eddig behozott és rendelt élelmiszereket fogadjuk és eljuttatjuk a menedékkérők számára, de egyelőre az új megrendelésekbe élelmiszert és ruhát ne tegyetek! Köszönjük!
-
-Amire jelenleg szükség lenne: 
-
-- mobiltelefon feltöltőkártya (magyar és horvát telekom, a kapcsolattartók telefonszámlájának támogatásához)
-- benzinkártya (bármely töltőállomáshoz, az önkéntes fuvarozók benzinköltségeinek támogatásához)  
-- Tesco utalvány
-- Erzsébet utalvány
-
-Szállítási cím: 
-
-	Budapest 1076, VII. kerület, Verseny utca 10.
-	Átvétel: 
-        hétfő: 17-19
-        szerda: 17-19
-        péntek: 17-20
-        A többi napokon zárva!
-
-Ha nagyobb mennyiségű adományt szeretnél hozzánk eljuttatni, kérjük, előre egyeztess velünk az [adomany@migrationaid.net](mailto:adomany@migrationaid.net) címen. Köszönjük! 
-
-{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
+A Migration Aid Verseny utca 10. szám alatti adománygyűjtő központja megszűnt, ezért tárgyi és élelmiszer adományokat most nem tudunk fogadni.  Az új gyűjtőhelyet már nagy erőkkel keressük és amint megtaláltuk, ismét tudunk majd adományokat fogadni. Kérünk, segítsetek ebben! 
+A paraméterek:
+A Migration Aid helységet keres adományközpont céljára, ahol adományokat tudunk átvenni!
+December 1-től legalább 6 hónapos időtartamra keresünk 150-200 m2-es lehetőség szerint fűthető, földszinti helységet Budapesten a 6, 7, 8, 9 vagy 13. kerületben parkolási lehetőséggel és fontos, hogy tömegközlekedéssel is könnyen megközelíthető legyen, lehetőleg kedvezményes áron.
+smile emoticon
+Ha tudsz ilyen kiadó helységről, kérjük, írj az adomany@migrationaid.net e-mail címre „adományközpont” jeligével az e-mail tárgyában, de már egy megosztással is sokat segítesz!
+Köszönjük!
 
 
-# Mit adományozzak? 
-
-{% include alert text='Rendszeresen figyeld a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkat</b></a>, ahol minden nap megosztjuk, éppen mire van szükség, miből fogytunk ki!' %}
+{% include alert text='Ha szeretnél segíteni, kérjük a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkon</b></a> keresztül lépj velünk kapcsolatba!' %}
 
 
-Mivel a raktározási lehetőségeink nagyon szűkösek, nem tudjuk az éppen nem használt adományokat hosszan tárolni, ezért mindig azt gyűjtünk, amire éppen szükség van. Az adománylistánk naponta változik, ezt a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) követheted, itt minden nap friss információt találsz. Kérünk, ha teheted, erről a listáról adományozz.
 
-
-### Ha személyesen szeretnél adományozni
-
-Adományodat leadhatod a Verseny utcai raktárban. 
-
-Az általános napi adománylistát a [facebook oldalunkon](https://www.facebook.com/migrationaidhungary) találod. 
-
-### Ha online vásárlást szeretnél küldeni 
-
-Ha messze laksz és nem tudsz személyesen adományt hozni, jó megoldás egy online vásárlást házhozszállítással ejuttatni a központi raktárunkba. 
-Az online rendelések átfutási ideje jópár nap, értelemszerűen ezzel nem tudsz követni egy naponta változó adománylistát. Ezért csináltunk egy "rendelős" listát, amin olyasmik szerepelnek, amikre hosszú távon mindig szükség van. 
-
-### Adományozás nagyobb tételben
-
-Ha nagyobb tételben szeretnél adományozni (pl gyűjtést rendeztél, vagy egy cég nevében), akkor kérlek erről előre egyeztess velünk az adomany@migrationaid.net email címen. 
-
-
-# Helyszínek
-
-## Raktárak 
-
-<!--
-### **Mozsár utcai raktár**
-
-A rendkívüli helyzetre való tekintettel a Caledonia Étterem ismét fogad adományt, mely kizárólag takaró, pléd, polioam, matrac, hálózsák, esőkabát és kézi töltésű zseblámpa lehet!
-
-    Caledonia Étterem,
-    Budapest 1066. Mozsár utca 9 
-    mindennap 14.00.-19.00. 
-
-Mindenkit megkérünk, erre a helyszínre semmilyen más adományt ne vigyen, mert nem tudjuk átvenni!
-A plédek, matracok tisztítására nincs lehetőségünk, ennek szellemében csak a tiszta termékeket áll módunkban fogadni!
---> 
-
-**Központi raktár: Verseny utca 10**
-
-	Verseny utca 10
-	Budapest 1076
-	(a Keleti mellett, a Városliget felé eső oldalon)	
-	hétfő: 17-19
-        szerda: 17-19
-        péntek: 17-20
-        A többi napokon zárva!
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="43CN4MWABH62J">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 
 ## Korábbi adománygyűjtő helyeink voltak
+
+**Központi raktár: Verseny utca 10**
+
+    Verseny utca 10
+    Budapest 1076
+    (a Keleti mellett, a Városliget felé eső oldalon)   
+    hétfő: 17-19
+        szerda: 17-19
+        péntek: 17-20
+        A többi napokon zárva!
+
 
 A Keleti, Nyugat és Déli pályaudvaroknál kijelölt tranzit zónákban volt jelen a Migration Aid és ott, a helyszínen gyűjöttünk adományokat. 
 
