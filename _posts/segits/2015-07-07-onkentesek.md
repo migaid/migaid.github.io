@@ -21,6 +21,7 @@ tags:
 A Migration Aid International az újonnan felállított nemzetközi segély-projektjeihez önkénteseket keres. A programjaink helyszínei a menekültválság aktuális krízisközpontjai, elsődlegesen Görögország, a görög-makedón és a bolgár-szerb határvidék. Az önkéntesek ún. mobil krízisközpontokban dolgoznak, amelyek a pillanatnyi körülményektől függően változtathatják tevékenységük földrajzi helyszínét egy adott régión belül.
 
 Feltételek: 
+
 - stabil angol nyelvtudás, 
 - jó fizikai állóképesség, 
 - egészségügyi végzettség, arab, pastu, fárszi, urdu nyelvtudás előnyt jelent.
@@ -28,8 +29,9 @@ Feltételek: 
 Az önkénteseknek legalább 1 hét időtartamra kell a helyszínre utazniuk. A munka feltétele a Migration Aid International-el között önkéntes szerződés, amely azt is tartalmazza, hogy az önkéntes úti- és szállás költségeit a szervezet fizeti. A kritikusabb helyszínekre (pl. görög szigetek) jelentkező önkénteseknek előzetes alkalmassági szűrésen kell résztvenniük.
 
 További információk a projektekről: 
-SIRIUS.HELP: [http://migaid.org/hu/sirius-help/](http://migaid.org/hu/sirius-help/) 
-BALKAN.HELP: [http://migaid.org/hu/balkan-help/](http://migaid.org/hu/balkan-help/)
+
+- SIRIUS.HELP: [http://migaid.org/hu/sirius-help/](http://migaid.org/hu/sirius-help/) 
+- BALKAN.HELP: [http://migaid.org/hu/balkan-help/](http://migaid.org/hu/balkan-help/)
 
 Jelentkezni a [volunteer@migaid.org](mailto:volunteer@migaid.org) e-mail címen lehet.
 
