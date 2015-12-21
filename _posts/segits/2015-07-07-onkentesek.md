@@ -18,16 +18,20 @@ tags:
     - info
 ---
 
-A Migration Aid Verseny utca 10. szám alatti adománygyűjtő központja megszűnt, ezért tárgyi és élelmiszer adományokat most nem tudunk fogadni.  Az új gyűjtőhelyet már nagy erőkkel keressük és amint megtaláltuk, ismét tudunk majd adományokat fogadni. Kérünk, segítsetek ebben! 
-A paraméterek:
-A Migration Aid helységet keres adományközpont céljára, ahol adományokat tudunk átvenni!
-December 1-től legalább 6 hónapos időtartamra keresünk 150-200 m2-es lehetőség szerint fűthető, földszinti helységet Budapesten a 6, 7, 8, 9 vagy 13. kerületben parkolási lehetőséggel és fontos, hogy tömegközlekedéssel is könnyen megközelíthető legyen, lehetőleg kedvezményes áron.
-smile emoticon
-Ha tudsz ilyen kiadó helységről, kérjük, írj az adomany@migrationaid.net e-mail címre „adományközpont” jeligével az e-mail tárgyában, de már egy megosztással is sokat segítesz!
-Köszönjük!
+A Migration Aid International az újonnan felállított nemzetközi segély-projektjeihez önkénteseket keres. A programjaink helyszínei a menekültválság aktuális krízisközpontjai, elsődlegesen Görögország, a görög-makedón és a bolgár-szerb határvidék. Az önkéntesek ún. mobil krízisközpontokban dolgoznak, amelyek a pillanatnyi körülményektől függően változtathatják tevékenységük földrajzi helyszínét egy adott régión belül.
 
+Feltételek: 
+- stabil angol nyelvtudás, 
+- jó fizikai állóképesség, 
+- egészségügyi végzettség, arab, pastu, fárszi, urdu nyelvtudás előnyt jelent.
 
-{% include alert text='Ha szeretnél segíteni, kérjük a <a href="https://www.facebook.com/migrationaid.org"><b>facebook-oldalunkon</b></a> keresztül lépj velünk kapcsolatba!' %}
+Az önkénteseknek legalább 1 hét időtartamra kell a helyszínre utazniuk. A munka feltétele a Migration Aid International-el között önkéntes szerződés, amely azt is tartalmazza, hogy az önkéntes úti- és szállás költségeit a szervezet fizeti. A kritikusabb helyszínekre (pl. görög szigetek) jelentkező önkénteseknek előzetes alkalmassági szűrésen kell résztvenniük.
+
+További információk a projektekről: 
+SIRIUS.HELP: [http://migaid.org/hu/sirius-help/](http://migaid.org/hu/sirius-help/) 
+BALKAN.HELP: [http://migaid.org/hu/balkan-help/](http://migaid.org/hu/balkan-help/)
+
+Jelentkezni a [volunteer@migaid.org](mailto:volunteer@migaid.org) e-mail címen lehet.
 
 
 
