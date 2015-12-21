@@ -27,7 +27,7 @@ Ha tudsz ilyen kiadó helységről, kérjük, írj az adomany@migrationaid.net e
 Köszönjük!
 
 
-{% include alert text='Ha szeretnél segíteni, kérjük a <a href="https://www.facebook.com/migrationaidhungary"><b>facebook-oldalunkon</b></a> keresztül lépj velünk kapcsolatba!' %}
+{% include alert text='Ha szeretnél segíteni, kérjük a <a href="https://www.facebook.com/migrationaid.org"><b>facebook-oldalunkon</b></a> keresztül lépj velünk kapcsolatba!' %}
 
 
 

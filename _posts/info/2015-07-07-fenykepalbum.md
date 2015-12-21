@@ -6,7 +6,7 @@ breadcrumb:  true
 title:       "Fényképalbum"
 subheadline: "A facebook-csoport képeiből"
 meta_teaser: "A Migration Aid facebook-csoportjában megosztott képek közül válogatunk."
-teaser:      "A Migration Aid <a href='https://www.facebook.com/migrationaidhungary'>facebook-csoportjában</a> megosztott képek közül válogatunk."
+teaser:      "A Migration Aid <a href='https://www.facebook.com/migrationaid.org'>facebook-csoportjában</a> megosztott képek közül válogatunk."
 header:
    image_fullwidth: "header.jpg"
 

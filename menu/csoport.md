@@ -16,7 +16,7 @@ image:
 
 A *Migration Aid* olyan közösségi kezdeményezés, amely a Magyarországra érkező menedékkérők segítésére alakult.
 
-A 2015 júniusában indult [facebook-csoporthoz](https://www.facebook.com/migrationaidhungary) néhány nap alatt több ezren csatlakoztak azzal a szándékkal, hogy humanitárius segítséget nyújtsanak a hazánkba érkezett menedékkérőknek, a nehéz helyzetben lévő emberek utazásának és itt tartózkodásának megkönnyítése érdekében.
+A 2015 júniusában indult [facebook-csoporthoz](https://www.facebook.com/migrationaid.org) néhány nap alatt több ezren csatlakoztak azzal a szándékkal, hogy humanitárius segítséget nyújtsanak a hazánkba érkezett menedékkérőknek, a nehéz helyzetben lévő emberek utazásának és itt tartózkodásának megkönnyítése érdekében.
 
 A Migration Aid munkájába bekapcsolódott aktivisták a menekülttáborok felé vezető **közlekedési csomópontokban**, és a táborok környékén, így több budapesti helyszín mellett Szegeden, Debrecenben, Bicskén, Fóton és Cegléden is segítették az úton lévőket információval, élelemmel és innivalóval, továbbá alapvető higiéniai és ruházati cikkekkel.
 
