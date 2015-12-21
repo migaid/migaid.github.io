@@ -12,7 +12,14 @@ header:
 
 ---
 
-- Facebook: [Migration Aid csoport](https://www.facebook.com/migrationaidhungary)
-- Sajtókapcsolat: [Zsohár Zsuzsanna](https://www.facebook.com/zsohar)
+Általános / General info and contact: [info@migaid.org](mailto:info@migaid.org)
+Operatív koordináció / Operative coordination: [operations@migaid.org](operations@migaid.org)
+Önkéntesség / Volunteer issues: [volunteer@migaid.org](volunteer@migaid.org)   
+Adományok, raktár / Donations, warehouse: [donation@migaid.org](donation@migaid.org)   
+Sajtó / Press contact: Zsuzsanna Zsohár: zsuzsanna.zsohar@migaid.org / +36 70 342 9383
 
-{% include alert info='... és mindenhol, ahol menedékkérők vannak' %}
+Facebook:  [https://www.facebook.com/migrationaid.org/](https://www.facebook.com/migrationaid.org/]) 
+Twitter: [https://twitter.com/migrationaidorg](https://twitter.com/migrationaidorg])   
+Instagram: [http://instagram.com/migrationaid/](http://instagram.com/migrationaid/) 
+
+Videók / videos: [https://vimeo.com/migrationaid](https://vimeo.com/migrationaid) 

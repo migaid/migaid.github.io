@@ -12,12 +12,8 @@
   dropdown:
   - title: "Önkéntes munka"
     url: "/segits/onkentesek/"
-  - title: "Információs anyagok"
-    url: "/segits/informaciok/"
   - title: "Adományozás"
     url: "/segits/adomanyok/"
-  - title: "Koordináció és szállítás"
-    url: "/segits/koordinacio/"
   - title: "Pénzadomámy"
     url: "/segits/penzadomanyok/"
   - title: "MigAid+SzoCsoMa"
@@ -49,8 +45,6 @@
   url: "/english/"
   side: right
   dropdown:
-  - title: "MigAid+SzoCsoMa"
-    url: "/english/szocsomaeng/"
   - title: "Migration Aid International"
     url: "/info/migaidinteng"
 

@@ -16,7 +16,7 @@ Migration Aid wurde ursprünglich gegründet, um in Ungarn ankommenden Asylsuche
 
 Seit dem 15. September 2015 fahren Asylsuchende nicht mehr über Budapest. Sie reisen nach Ungarn von der kroatischen Grenze ein, und reisen über die österreicherische Grenze wieder aus. Sie haben Hunger und Durst, und müssen häufig mehrere Stunden ohne Versorgung am Bahnhof warten. Es gibt zweimal so viele Asylsuchende an den Grenzen als während der heftigsten Zeit im August in den Tranzitzonen in Budapest. Unsere Freiwillige versorgen sie mit etwas Essen und Getränk, Hygienieartikel, warmer Kleidung und medizinischer Hilfe, wenn nötig, in Zusammenarbeit mit anderen Organisationen. 
 
-Wenn Sie mitmachen möchten, gibt es viele Möglichkeiten! Abonnieren Sie unsere [Facebook Seite](https://www.facebook.com/migrationaidhungary), um die aktuellen Infos mitverfolgen zu können!
+Wenn Sie mitmachen möchten, gibt es viele Möglichkeiten! Abonnieren Sie unsere [Facebook Seite](https://www.facebook.com/migrationaid.org), um die aktuellen Infos mitverfolgen zu können!
 
 
 Da unser Lage in der Verseny-straße geschlossen wurde , nehmen wir keine Sachspenden oder Bestellungen mehr an. Jedoch würden wir uns sehr für Geldspenden via Paypal freuen.

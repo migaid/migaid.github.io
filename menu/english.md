@@ -23,7 +23,7 @@ header:
 
 Migration Aid was originally established to help asylum-seekers arriving to Hungary reach their assigned refugee camps as soon as possible. Most of them went through Budapest and had no information how to get to the camps, many had no food, water and were in bad health conditions. 
 Since September 2015, asylum-seekers no longer cross Hungay. We are trying to help them in ohter countries where they are stranded. Since we no longer have a storage location, we cannot accept material donations anymore. You can help via PayPal or by volunteering. 
-If you want to join the initiative, there are many ways you can help! Join our [Facebook page](https://www.facebook.com/migrationaidhungary) for regularly updated information.
+If you want to join the initiative, there are many ways you can help! Join our [Facebook page](https://www.facebook.com/migrationaid.org) for regularly updated information.
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

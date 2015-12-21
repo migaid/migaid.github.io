@@ -27,7 +27,7 @@ Jelenleg PayPalon keresztül tudunk pénzadományokat fogadni:
 
 
 
-{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaidhungary"> facebook olalunkat!</a> '%}
+{% include alert warning='Figyeljétek a <a href="https://www.facebook.com/migrationaid.org"> facebook olalunkat!</a> '%}
 
 ## PayPal
 Most PayPal utalással is segíthetsz nekünk:
