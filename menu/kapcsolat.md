@@ -15,8 +15,7 @@ header:
 Általános / General info and contact: [info@migaid.org](mailto:info@migaid.org)
 Operatív koordináció / Operative coordination: [operations@migaid.org](operations@migaid.org)
 Önkéntesség / Volunteer issues: [volunteer@migaid.org](volunteer@migaid.org)   
-Adományok, raktár / Donations, warehouse: [donation@migaid.org](donation@migaid.org)   
-Sajtó / Press contact: Zsuzsanna Zsohár: zsuzsanna.zsohar@migaid.org / +36 70 342 9383
+Adományok, raktár / Donations, warehouse: [donation@migaid.org](donation@migaid.org)
 
 Facebook:  [https://www.facebook.com/migrationaid.org/](https://www.facebook.com/migrationaid.org/]) 
 Twitter: [https://twitter.com/migrationaidorg](https://twitter.com/migrationaidorg])   
