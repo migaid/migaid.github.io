@@ -28,12 +28,11 @@ A Migration Aid International a segítő tevékenységeit projektekbe szervezi. 
 Elképzeléseink szerint a magyar bejegyzésű Migration Aid Egyesület hazai terepmunkával, utógondozással, menedékkérőknek és helyzettől függően más rászoruló csoportoknak nyújtott jogi, integrációs és szociális segítséggel, menekültüggyel kapcsolatos társadalmi, közéleti tevékenységgel és adománygyűjtéssel foglalkozik majd, továbbá a facebook csoport működéséhez szükséges feltételeket biztosítja.
 
 A Migration Aid International képviseletét egy 6 fős igazgatóság látja el, amelynek tagjai:
-dr. Dani Katalin (General Director)
-Dávidáné Albert Gabriella (General Director)
 Fritz Katalin (Director of Finances)
 Sári Dalma (General Director)
 Siewert András (Director of Operations)
-Zsohár Zsuzsanna (Director of Migration Management)
+Opra Melinda
+El-Seaghi Aida
 
 Székhely: 5 High Street, Westbury on Trym, Bristol BS9 3BY, United Kingdom
 
